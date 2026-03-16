@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "question": "Zgodnie z Art. 3 ust. 1 pkt 29 ustawy o rachunkowości, „aktywa netto" to:",
+    "options": ["Aktywa jednostki pomniejszone o zobowiązania długoterminowe", "Aktywa jednostki pomniejszone o zobowiązania, odpowiadające wartościowo kapitałowi (funduszowi) własnemu", "Aktywa trwałe pomniejszone o amortyzację", "Suma aktywów obrotowych i inwestycji krótkoterminowych"],
+    "correct_answer": "Aktywa jednostki pomniejszone o zobowiązania, odpowiadające wartościowo kapitałowi (funduszowi) własnemu",
+    "explanation": "Art. 3 ust. 1 pkt 29 UoR stanowi wprost: „aktywach netto – rozumie się przez to aktywa jednostki pomniejszone o zobowiązania, odpowiadające wartościowo kapitałowi (funduszowi) własnemu". Aktywa netto = Aktywa ogółem − Zobowiązania ogółem = Kapitał własny. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 29).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 2,
+    "question": "Według Art. 3 ust. 1 pkt 39 UoR „jednostka zależna" to:",
+    "options": ["Jednostka współkontrolowana przez wspólników na podstawie umowy spółki", "Jednostka, na którą znaczący inwestor wywiera znaczący wpływ", "Jednostka będąca spółką handlową, kontrolowana przez jednostkę dominującą", "Jednostka powiązana kapitałowo z inną jednostką w grupie kapitałowej"],
+    "correct_answer": "Jednostka będąca spółką handlową, kontrolowana przez jednostkę dominującą",
+    "explanation": "Art. 3 ust. 1 pkt 39 UoR: „jednostce zależnej – rozumie się przez to jednostkę będącą spółką handlową lub podmiotem utworzonym i działającym zgodnie z przepisami obcego prawa handlowego, kontrolowaną przez jednostkę dominującą". Kluczem jest pojęcie KONTROLI – odróżnia jednostkę zależną od współzależnej (współkontrola) i stowarzyszonej (znaczący wpływ). (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 39).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 3,
+    "question": "Zgodnie z Art. 3 ust. 1 pkt 37c UoR „wspólnik jednostki współzależnej" to:",
+    "options": ["Każdy udziałowiec posiadający ponad 20% udziałów w jednostce", "Jednostka będąca spółką handlową lub przedsiębiorstwem państwowym, sprawująca wraz z innymi udziałowcami współkontrolę nad jednostką współzależną", "Jednostka posiadająca ponad 50% głosów na walnym zgromadzeniu", "Jednostka wywierająca znaczący wpływ bez sprawowania kontroli"],
+    "correct_answer": "Jednostka będąca spółką handlową lub przedsiębiorstwem państwowym, sprawująca wraz z innymi udziałowcami współkontrolę nad jednostką współzależną",
+    "explanation": "Art. 3 ust. 1 pkt 37c UoR: „wspólniku jednostki współzależnej – rozumie się przez to jednostkę będącą spółką handlową lub przedsiębiorstwem państwowym, sprawującą wraz z innymi udziałowcami współkontrolę nad jednostką współzależną". Sprawuje WRAZ Z INNYMI (= współkontrola). (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 37c/37f).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 4,
+    "question": "Na podstawie Art. 3 ust. 1 pkt 40 UoR „jednostka współzależna" to:",
+    "options": ["Jednostka kontrolowana przez jedną jednostkę dominującą", "Jednostka, która jest współkontrolowana przez wspólników na podstawie zawartej pomiędzy nimi umowy, umowy spółki lub statutu", "Jednostka, na którą wywierany jest znaczący wpływ przez znaczącego inwestora", "Każda jednostka powiązana z grupą kapitałową"],
+    "correct_answer": "Jednostka, która jest współkontrolowana przez wspólników na podstawie zawartej pomiędzy nimi umowy, umowy spółki lub statutu",
+    "explanation": "Art. 3 ust. 1 pkt 40 UoR: „jednostce współzależnej – rozumie się przez to jednostkę, która jest współkontrolowana przez wspólników na podstawie zawartej pomiędzy nimi umowy, umowy spółki lub statutu". Cecha definiująca: WSPÓŁKONTROLA. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 37e/40).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 5,
+    "question": "Zgodnie z Art. 3 ust. 1 pkt 9 UoR „rok obrotowy" to:",
+    "options": ["Wyłącznie rok kalendarzowy od 1 stycznia do 31 grudnia", "Rok kalendarzowy lub inny okres trwający 12 kolejnych pełnych miesięcy kalendarzowych, stosowany również do celów podatkowych", "Okres sprawozdawczy przyjęty przez kierownika jednostki, niekoniecznie trwający 12 miesięcy", "Każdy okres, za który sporządza się sprawozdanie finansowe"],
+    "correct_answer": "Rok kalendarzowy lub inny okres trwający 12 kolejnych pełnych miesięcy kalendarzowych, stosowany również do celów podatkowych",
+    "explanation": "Art. 3 ust. 1 pkt 9 UoR: „roku obrotowym – rozumie się przez to rok kalendarzowy lub inny okres trwający 12 kolejnych pełnych miesięcy kalendarzowych, stosowany również do celów podatkowych. Rok obrotowy lub jego zmiany określa statut lub umowa". NIE musi być rokiem kalendarzowym, ale MUSI trwać 12 pełnych miesięcy. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 9).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 6,
+    "question": "Zgodnie z Art. 3 ust. 1 pkt 10 UoR „dzień bilansowy" to:",
+    "options": ["Ostatni dzień roku kalendarzowego", "Dzień wpisania połączenia spółek do rejestru", "Dzień, na który jednostka sporządza sprawozdanie finansowe", "Pierwszy dzień nowego roku obrotowego"],
+    "correct_answer": "Dzień, na który jednostka sporządza sprawozdanie finansowe",
+    "explanation": "Art. 3 ust. 1 pkt 10 UoR: „dniu bilansowym – rozumie się przez to dzień, na który jednostka sporządza sprawozdanie finansowe". Nie zawęża się do 31 grudnia – może to być dowolny dzień bilansowy. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 10).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 7,
+    "question": "Na czym polega „sprawowanie kontroli nad inną jednostką" według Art. 3 ust. 1 pkt 34 UoR?",
+    "options": ["Na posiadaniu bezpośrednio lub pośrednio ponad 50% udziałów w jednostce", "Na zdolności jednostki do kierowania polityką finansową i operacyjną innej jednostki w celu osiągania korzyści ekonomicznych z jej działalności", "Na zasiadaniu w radzie nadzorczej innej jednostki", "Na prawie do powoływania i odwoływania zarządu innej jednostki"],
+    "correct_answer": "Na zdolności jednostki do kierowania polityką finansową i operacyjną innej jednostki w celu osiągania korzyści ekonomicznych z jej działalności",
+    "explanation": "Art. 3 ust. 1 pkt 34 UoR: „sprawowaniu kontroli nad inną jednostką – rozumie się przez to zdolność jednostki do kierowania polityką finansową i operacyjną innej jednostki, w celu osiągania korzyści ekonomicznych z jej działalności". Definicja oparta na zdolności kierowania, nie tylko na udziale ilościowym. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 34).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 8,
+    "question": "Czym różni się „sprawowanie współkontroli" od „sprawowania kontroli" według UoR?",
+    "options": ["Współkontrola wymaga posiadania ponad 20% udziałów, kontrola – ponad 50%", "Współkontrola polega na zdolności wspólnika – na równi z innymi wspólnikami, na zasadach umowy – do kierowania polityką jednostki; kontrola jest sprawowana samodzielnie", "Współkontrola dotyczy tylko jednostek stowarzyszonych", "Nie ma różnicy – oba pojęcia oznaczają to samo w prawie bilansowym"],
+    "correct_answer": "Współkontrola polega na zdolności wspólnika – na równi z innymi wspólnikami, na zasadach umowy – do kierowania polityką jednostki; kontrola jest sprawowana samodzielnie",
+    "explanation": "Art. 3 ust. 1 pkt 35 UoR: „sprawowaniu współkontroli – zdolność wspólnika jednostki współzależnej na równi z innymi wspólnikami, na zasadach określonych w zawartej pomiędzy nimi umowie do kierowania polityką finansową i operacyjną tej jednostki". WSPÓŁKONTROLA = razem z innymi, na podstawie umowy; KONTROLA = samodzielna. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 35).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 9,
+    "question": "Co oznacza „znaczący wpływ na inną jednostkę" w rozumieniu Art. 3 ust. 1 pkt 36 UoR?",
+    "options": ["Zdolność do jednostronnej kontroli nad polityką finansową i operacyjną innej jednostki", "Niemającą znamion sprawowania kontroli lub współkontroli zdolność jednostki do wpływania na politykę finansową i operacyjną innej jednostki", "Posiadanie dokładnie 20% głosów w organie stanowiącym innej jednostki", "Prawo do powoływania co najmniej połowy członków zarządu innej jednostki"],
+    "correct_answer": "Niemającą znamion sprawowania kontroli lub współkontroli zdolność jednostki do wpływania na politykę finansową i operacyjną innej jednostki",
+    "explanation": "Art. 3 ust. 1 pkt 36 UoR: „znaczącym wpływie – rozumie się przez to niemającą znamion sprawowania kontroli lub współkontroli zdolność jednostki do wpływania na politykę finansową i operacyjną innej jednostki". Najniższy poziom powiązania; wiąże się ze statusem jednostki stowarzyszonej. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 36).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 10,
+    "question": "Według Art. 3 ust. 1 pkt 12 UoR „aktywa" to:",
+    "options": ["Majątek rzeczowy jednostki wraz z prawami majątkowymi", "Kontrolowane przez jednostkę zasoby majątkowe o wiarygodnie określonej wartości, powstałe w wyniku przeszłych zdarzeń, które spowodują w przyszłości wpływ korzyści ekonomicznych", "Wszystkie składniki bilansu po stronie aktywów wykazane na dzień bilansowy", "Środki trwałe, wartości niematerialne i prawne oraz zapasy jednostki"],
+    "correct_answer": "Kontrolowane przez jednostkę zasoby majątkowe o wiarygodnie określonej wartości, powstałe w wyniku przeszłych zdarzeń, które spowodują w przyszłości wpływ korzyści ekonomicznych",
+    "explanation": "Art. 3 ust. 1 pkt 12 UoR: „aktywach – rozumie się przez to kontrolowane przez jednostkę zasoby majątkowe o wiarygodnie określonej wartości, powstałe w wyniku przeszłych zdarzeń, które spowodują w przyszłości wpływ do jednostki korzyści ekonomicznych". Trzy kluczowe elementy: (1) kontrola, (2) wiarygodna wartość, (3) przyszłe korzyści. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 12).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 11,
+    "question": "Jak definiuje UoR „aktywa obrotowe" (Art. 3 ust. 1 pkt 13)?",
+    "options": ["Aktywa o wartości poniżej progu istotności przyjętego przez jednostkę", "Ta część aktywów jednostki, które są przeznaczone do zbycia lub zużycia w ciągu 12 miesięcy od dnia bilansowego lub w ciągu normalnego cyklu operacyjnego", "Wyłącznie zapasy, należności i środki pieniężne", "Aktywa, które nie są zaliczane do aktywów trwałych"],
+    "correct_answer": "Ta część aktywów jednostki, które są przeznaczone do zbycia lub zużycia w ciągu 12 miesięcy od dnia bilansowego lub w ciągu normalnego cyklu operacyjnego",
+    "explanation": "Art. 3 ust. 1 pkt 13 UoR: aktywa obrotowe to ta część aktywów, które w przypadku aktywów rzeczowych są przeznaczone do zbycia lub zużycia w ciągu 12 miesięcy od dnia bilansowego lub w ciągu normalnego cyklu operacyjnego. Oba kryteria są równoważne. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 13).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 12,
+    "question": "Co zalicza UoR do „inwestycji" (Art. 3 ust. 1 pkt 17)?",
+    "options": ["Wyłącznie akcje i udziały w innych spółkach handlowych", "Aktywa posiadane przez jednostkę w celu osiągnięcia korzyści ekonomicznych z przyrostu ich wartości, uzyskania przychodów w formie odsetek, dywidend lub innych pożytków", "Środki trwałe nabyte w celu długotrwałego użytkowania", "Wszystkie aktywa finansowe niezależnie od celu ich nabycia"],
+    "correct_answer": "Aktywa posiadane przez jednostkę w celu osiągnięcia korzyści ekonomicznych z przyrostu ich wartości, uzyskania przychodów w formie odsetek, dywidend lub innych pożytków",
+    "explanation": "Art. 3 ust. 1 pkt 17 UoR: „inwestycjach – rozumie się przez to aktywa posiadane przez jednostkę w celu osiągnięcia z nich korzyści ekonomicznych wynikających z przyrostu wartości tych aktywów, uzyskania przychodów w formie odsetek, dywidend (udziałów w zyskach) lub innych pożytków". Cel posiadania (inwestycyjny) odróżnia je od środków trwałych. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 17).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 13,
+    "question": "Jak UoR definiuje „zobowiązania" (Art. 3 ust. 1 pkt 20)?",
+    "options": ["Wynikający z przeszłych zdarzeń obowiązek wykonania świadczeń o wiarygodnie określonej wartości, które spowodują wykorzystanie już posiadanych lub przyszłych aktywów jednostki", "Kwoty do zapłacenia przez jednostkę w ciągu najbliższych 12 miesięcy", "Wyłącznie kredyty bankowe i pożyczki zaciągnięte przez jednostkę", "Zobowiązania, których termin wymagalności lub kwota nie są pewne"],
+    "correct_answer": "Wynikający z przeszłych zdarzeń obowiązek wykonania świadczeń o wiarygodnie określonej wartości, które spowodują wykorzystanie już posiadanych lub przyszłych aktywów jednostki",
+    "explanation": "Art. 3 ust. 1 pkt 20 UoR: „zobowiązaniach – rozumie się przez to wynikający z przeszłych zdarzeń obowiązek wykonania świadczeń o wiarygodnie określonej wartości, które spowodują wykorzystanie już posiadanych lub przyszłych aktywów jednostki". Opcja D to definicja REZERW. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 20).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 14,
+    "question": "Co oznaczają „rezerwy" w rozumieniu Art. 3 ust. 1 pkt 21 UoR?",
+    "options": ["Środki pieniężne odłożone przez jednostkę na poczet przyszłych inwestycji", "Zobowiązania, których termin wymagalności lub kwota nie są pewne", "Kapitały rezerwowe tworzone z zysku", "Odpisy aktualizujące wartość aktywów"],
+    "correct_answer": "Zobowiązania, których termin wymagalności lub kwota nie są pewne",
+    "explanation": "Art. 3 ust. 1 pkt 21 UoR: „rezerwach – rozumie się przez to zobowiązania, których termin wymagalności lub kwota nie są pewne". Rezerwy to szczególna kategoria zobowiązań – od zwykłych zobowiązań odróżnia je niepewność co do kwoty lub terminu. Nie należy mylić z kapitałem rezerwowym. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 21).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 15,
+    "question": "Jak UoR definiuje „wartość godziwą" (Art. 28 ust. 6)?",
+    "options": ["Wartość rynkowa ustalona na podstawie ceny giełdowej na dzień bilansowy", "Kwota, za jaką dany składnik aktywów mógłby zostać wymieniony, a zobowiązanie uregulowane na warunkach transakcji rynkowej, między zainteresowanymi i dobrze poinformowanymi, niepowiązanymi ze sobą stronami", "Cena nabycia składnika aktywów pomniejszona o odpisy amortyzacyjne", "Wartość składnika aktywów ustalona przez niezależnego rzeczoznawcę"],
+    "correct_answer": "Kwota, za jaką dany składnik aktywów mógłby zostać wymieniony, a zobowiązanie uregulowane na warunkach transakcji rynkowej, między zainteresowanymi i dobrze poinformowanymi, niepowiązanymi ze sobą stronami",
+    "explanation": "Art. 28 ust. 6 UoR: „Za wartość godziwą przyjmuje się kwotę, za jaką dany składnik aktywów mógłby zostać wymieniony, a zobowiązanie uregulowane na warunkach transakcji rynkowej, pomiędzy zainteresowanymi i dobrze poinformowanymi, niepowiązanymi ze sobą stronami". Trzy cechy stron: zainteresowane, dobrze poinformowane, niepowiązane. (Streszczenie UoR, Rozdz. 1, Art. 28 ust. 6).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 16,
+    "question": "Co rozumie UoR przez „jednostkę dominującą" (Art. 3 ust. 1 pkt 37)?",
+    "options": ["Każda spółka akcyjna posiadająca oddziały", "Jednostka będąca spółką handlową lub przedsiębiorstwem państwowym, sprawująca kontrolę nad jednostką zależną", "Jednostka posiadająca co najmniej 20% udziałów w innej spółce", "Jednostka centralna w grupie kapitałowej wyznaczona przez KNF"],
+    "correct_answer": "Jednostka będąca spółką handlową lub przedsiębiorstwem państwowym, sprawująca kontrolę nad jednostką zależną",
+    "explanation": "Art. 3 ust. 1 pkt 37 UoR: „jednostce dominującej – rozumie się przez to jednostkę będącą spółką handlową lub przedsiębiorstwem państwowym, sprawującą kontrolę nad jednostką zależną". Forma prawna jest ograniczona (spółka handlowa lub przedsiębiorstwo państwowe), a kryterium merytorycznym jest sprawowanie KONTROLI. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 37).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 17,
+    "question": "Jak UoR definiuje „jednostkę stowarzyszoną" (Art. 3 ust. 1 pkt 41)?",
+    "options": ["Jednostka należąca do tej samej grupy kapitałowej co jednostka dominująca", "Spółka handlowa, w której znaczący inwestor posiada zaangażowanie w kapitale i wywiera na nią znaczący wpływ", "Jednostka kontrolowana przez spółkę dominującą wyższego szczebla", "Każda jednostka powiązana kapitałowo z grupą"],
+    "correct_answer": "Spółka handlowa, w której znaczący inwestor posiada zaangażowanie w kapitale i wywiera na nią znaczący wpływ",
+    "explanation": "Art. 3 ust. 1 pkt 41 UoR: „jednostce stowarzyszonej – rozumie się przez to jednostkę będącą spółką handlową, w której znaczący inwestor posiada zaangażowanie w kapitale i wywiera na nią znaczący wpływ". Cechą odróżniającą jest ZNACZĄCY WPŁYW (nie kontrola ani współkontrola). (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 41).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 18,
+    "question": "Co oznaczają „jednostki powiązane" w rozumieniu Art. 3 ust. 1 pkt 43 UoR?",
+    "options": ["Wyłącznie jednostkę dominującą i jednostkę zależną", "Dwie lub więcej jednostek wchodzących w skład danej grupy kapitałowej", "Każde dwa podmioty, które zawarły ze sobą umowę", "Jednostki posiadające wspólnych udziałowców"],
+    "correct_answer": "Dwie lub więcej jednostek wchodzących w skład danej grupy kapitałowej",
+    "explanation": "Art. 3 ust. 1 pkt 43 UoR: „jednostkach powiązanych – rozumie się przez to dwie lub więcej jednostek wchodzących w skład danej grupy kapitałowej". Pojęcie to jest szersze niż relacja dominująca–zależna i obejmuje wszystkie jednostki grupy. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 43).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 19,
+    "question": "Jak UoR definiuje „grupę kapitałową" (Art. 3 ust. 1 pkt 44)?",
+    "options": ["Wszystkie podmioty, w których ta sama osoba fizyczna posiada udziały", "Jednostkę dominującą wraz z jednostkami zależnymi", "Jednostki dominującą, zależne, współzależne i stowarzyszone łącznie", "Wyłącznie spółki akcyjne notowane na giełdzie"],
+    "correct_answer": "Jednostkę dominującą wraz z jednostkami zależnymi",
+    "explanation": "Art. 3 ust. 1 pkt 44 UoR: „grupie kapitałowej – rozumie się przez to jednostkę dominującą wraz z jednostkami zależnymi". Do grupy kapitałowej sensu stricto zalicza się tylko jednostki ZALEŻNE (nie stowarzyszone, nie współzależne). (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 44).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 20,
+    "question": "Jak UoR definiuje „instrumenty finansowe" (Art. 3 ust. 1 pkt 23)?",
+    "options": ["Wyłącznie akcje i obligacje dopuszczone do obrotu publicznego", "Kontrakt, który powoduje powstanie aktywów finansowych u jednej ze stron i zobowiązania finansowego albo instrumentu kapitałowego u drugiej ze stron", "Każda umowa o wartości pieniężnej zawarta między podmiotami", "Derywaty i instrumenty pochodne stosowane do zarządzania ryzykiem"],
+    "correct_answer": "Kontrakt, który powoduje powstanie aktywów finansowych u jednej ze stron i zobowiązania finansowego albo instrumentu kapitałowego u drugiej ze stron",
+    "explanation": "Art. 3 ust. 1 pkt 23 UoR: „instrumentach finansowych – rozumie się przez to kontrakt, który powoduje powstanie aktywów finansowych u jednej ze stron i zobowiązania finansowego albo instrumentu kapitałowego u drugiej ze stron". Zawsze dwie strony, zawsze asymetria. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 23).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 21,
+    "question": "Co to są „aktywa finansowe" według Art. 3 ust. 1 pkt 24 UoR?",
+    "options": ["Wyłącznie środki pieniężne i lokaty bankowe", "Aktywa pieniężne, instrumenty kapitałowe wyemitowane przez inne jednostki, a także wynikające z kontraktu prawo do otrzymania aktywów pieniężnych lub prawa do wymiany instrumentów finansowych", "Wszystkie inwestycje długoterminowe i krótkoterminowe", "Tylko aktywa wyceniane w wartości godziwej przez wynik finansowy"],
+    "correct_answer": "Aktywa pieniężne, instrumenty kapitałowe wyemitowane przez inne jednostki, a także wynikające z kontraktu prawo do otrzymania aktywów pieniężnych lub prawa do wymiany instrumentów finansowych",
+    "explanation": "Art. 3 ust. 1 pkt 24 UoR wymienia: aktywa pieniężne + instrumenty kapitałowe wyemitowane przez inne jednostki + kontraktowe prawo do otrzymania aktywów pieniężnych lub wymiany instrumentów finansowych na korzystnych warunkach. To szersze pojęcie niż środki pieniężne. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 24).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 22,
+    "question": "Jak UoR definiuje „przychody i zyski" (Art. 3 ust. 1 pkt 30)?",
+    "options": ["Faktycznie otrzymane środki pieniężne w danym roku obrotowym", "Uprawdopodobnione powstanie w okresie sprawozdawczym korzyści ekonomicznych, o wiarygodnie określonej wartości, w formie zwiększenia wartości aktywów albo zmniejszenia wartości zobowiązań", "Wyłącznie przychody ze sprzedaży produktów, towarów i materiałów", "Zyski nadzwyczajne i wynik działalności operacyjnej łącznie"],
+    "correct_answer": "Uprawdopodobnione powstanie w okresie sprawozdawczym korzyści ekonomicznych, o wiarygodnie określonej wartości, w formie zwiększenia wartości aktywów albo zmniejszenia wartości zobowiązań",
+    "explanation": "Art. 3 ust. 1 pkt 30 UoR: „przychodach i zyskach – rozumie się przez to uprawdopodobnione powstanie w okresie sprawozdawczym korzyści ekonomicznych, o wiarygodnie określonej wartości, w formie zwiększenia wartości aktywów, albo zmniejszenia wartości zobowiązań". Zasada memoriału – nie jest wymagana faktyczna zapłata. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 30).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 23,
+    "question": "Jak UoR definiuje „koszty i straty" (Art. 3 ust. 1 pkt 31)?",
+    "options": ["Faktycznie zapłacone wydatki jednostki w danym roku", "Uprawdopodobnione zmniejszenia w okresie sprawozdawczym korzyści ekonomicznych, w formie zmniejszenia wartości aktywów albo zwiększenia wartości zobowiązań", "Wyłącznie koszty bezpośrednio związane z działalnością operacyjną", "Amortyzacja i odpisy aktualizujące wartość aktywów"],
+    "correct_answer": "Uprawdopodobnione zmniejszenia w okresie sprawozdawczym korzyści ekonomicznych, w formie zmniejszenia wartości aktywów albo zwiększenia wartości zobowiązań",
+    "explanation": "Art. 3 ust. 1 pkt 31 UoR: „kosztach i stratach – rozumie się przez to uprawdopodobnione zmniejszenia w okresie sprawozdawczym korzyści ekonomicznych, o wiarygodnie określonej wartości, w formie zmniejszenia wartości aktywów, albo zwiększenia wartości zobowiązań i rezerw". Lustrzane odbicie definicji przychodów. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 31).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 24,
+    "question": "Co obejmuje „Europejski Obszar Gospodarczy" w rozumieniu Art. 3 ust. 1 pkt 48 UoR?",
+    "options": ["Wyłącznie kraje Unii Europejskiej", "Kraje Unii Europejskiej oraz Islandię, Liechtenstein i Norwegię", "Wszystkie kraje europejskie należące do NATO", "Kraje UE i państwa Europy Środkowej i Wschodniej"],
+    "correct_answer": "Kraje Unii Europejskiej oraz Islandię, Liechtenstein i Norwegię",
+    "explanation": "Art. 3 ust. 1 pkt 48 UoR: „Europejskim Obszarze Gospodarczym – rozumie się przez to kraje Unii Europejskiej oraz Islandię, Liechtenstein i Norwegię". Trzy dodatkowe kraje poza UE – stałe pojęcie w prawie bilansowym i rynku kapitałowym. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 48).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 25,
+    "question": "Czym charakteryzuje się „jednostka dominująca niższego szczebla" wg Art. 3 ust. 1 pkt 37a UoR?",
+    "options": ["Jednostka będąca wyłącznie jednostką zależną w strukturze grupy", "Spółka handlowa, która jest jednocześnie jednostką zależną od innej spółki handlowej i jednostką dominującą w stosunku do co najmniej jednej spółki handlowej", "Jednostka posiadająca udziały mniejszościowe w kilku spółkach", "Jednostka stowarzyszona zarządzana przez jednostkę dominującą wyższego szczebla"],
+    "correct_answer": "Spółka handlowa, która jest jednocześnie jednostką zależną od innej spółki handlowej i jednostką dominującą w stosunku do co najmniej jednej spółki handlowej",
+    "explanation": "Art. 3 ust. 1 pkt 37a UoR: „jednostce dominującej niższego szczebla – rozumie się przez to spółkę handlową, która jest jednocześnie jednostką zależną od innej spółki handlowej lub przedsiębiorstwa państwowego i jednostką dominującą w stosunku do co najmniej jednej spółki handlowej". Pełni dwojaką rolę: zależna od góry i dominująca od dołu. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 37a).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 26,
+    "question": "Jak UoR definiuje „konsolidację" (Art. 3 ust. 1 pkt 45)?",
+    "options": ["Połączenie dwóch lub więcej spółek w jedną jednostkę prawną", "Łączenie sprawozdań finansowych jednostek tworzących grupę kapitałową przez sumowanie odpowiednich pozycji sprawozdań i dokonanie wyłączeń", "Sporządzanie zbiorczego sprawozdania finansowego przez Ministerstwo Finansów", "Przekształcenie sprawozdania finansowego jednostek zagranicznych na walutę polską"],
+    "correct_answer": "Łączenie sprawozdań finansowych jednostek tworzących grupę kapitałową przez sumowanie odpowiednich pozycji sprawozdań i dokonanie wyłączeń",
+    "explanation": "Art. 3 ust. 1 pkt 45 UoR: „konsolidacji – rozumie się przez to łączenie sprawozdań finansowych jednostek tworzących grupę kapitałową przez sumowanie odpowiednich pozycji sprawozdań finansowych jednostki dominującej i jednostek zależnych, po dokonaniu wyłączeń". Konsolidacja to technika łączenia SF, nie fuzja prawna. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 45).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 27,
+    "question": "Czym są „zobowiązania warunkowe" w rozumieniu Art. 3 ust. 1 pkt 28 UoR?",
+    "options": ["Zobowiązania podlegające warunkowemu umorzeniu przez wierzyciela", "Obowiązek wykonania świadczeń, których powstanie jest uzależnione od zaistnienia określonych zdarzeń", "Zobowiązania z tytułu gwarancji i poręczeń wykazywane w bilansie", "Zobowiązania krótkoterminowe z niepewną datą wymagalności"],
+    "correct_answer": "Obowiązek wykonania świadczeń, których powstanie jest uzależnione od zaistnienia określonych zdarzeń",
+    "explanation": "Art. 3 ust. 1 pkt 28 UoR: „zobowiązaniach warunkowych – rozumie się przez to obowiązek wykonania świadczeń, których powstanie jest uzależnione od zaistnienia określonych zdarzeń". Zobowiązania warunkowe nie są wykazywane w bilansie, mogą być ujawniane w informacji dodatkowej. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 28).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 28,
+    "question": "Co oznacza pojęcie „zaangażowanie w kapitale" według Art. 3 ust. 1 pkt 37d UoR?",
+    "options": ["Każdy pakiet akcji niezależnie od intencji inwestora", "Jakikolwiek udział w kapitale innej jednostki mający charakter trwałego powiązania", "Udziały przekraczające 50% kapitału zakładowego", "Wyłącznie udziały nabyte w drodze aportu"],
+    "correct_answer": "Jakikolwiek udział w kapitale innej jednostki mający charakter trwałego powiązania",
+    "explanation": "Art. 3 ust. 1 pkt 37d UoR: „zaangażowaniu w kapitale – rozumie się przez to jakikolwiek udział w kapitale innej jednostki, mający charakter trwałego powiązania; trwałe powiązanie występuje zawsze w przypadku nabycia (...) udziałów (...), jeżeli jednostka posiada taki udział przez okres dłuższy niż rok". (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 37d).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 29,
+    "question": "Jak UoR definiuje „kapitały mniejszości" (Art. 3 ust. 1 pkt 46)?",
+    "options": ["Kapitały własne jednostki dominującej", "Część aktywów netto jednostki zależnej, objętej skonsolidowanym SF, która należy do udziałowców innych niż jednostki grupy kapitałowej", "Rezerwy tworzone przez jednostki mniejsze w grupie", "Kapitały jednostek stowarzyszonych objętych metodą praw własności"],
+    "correct_answer": "Część aktywów netto jednostki zależnej, objętej skonsolidowanym SF, która należy do udziałowców innych niż jednostki grupy kapitałowej",
+    "explanation": "Art. 3 ust. 1 pkt 46 UoR: „kapitałach mniejszości – rozumie się przez to część aktywów netto jednostki zależnej, objętej skonsolidowanym sprawozdaniem finansowym, która należy do udziałowców innych niż jednostki grupy kapitałowej". Udziały niekontrolujące to oddzielna pozycja w skonsolidowanym bilansie. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 46).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 30,
+    "question": "Jeżeli jednostka w II połowie roku obrotowego rozpoczyna działalność i chce połączyć ten okres z rokiem następnym, to według Art. 3 ust. 1 pkt 9 UoR:",
+    "options": ["Jest to niedopuszczalne – rok obrotowy musi zawsze obejmować dokładnie 12 miesięcy", "Jest to dopuszczalne – taki połączony rok obrotowy będzie trwał więcej niż 12 miesięcy", "Jest to dopuszczalne, ale wymaga zgody Ministra Finansów", "Jest to możliwe tylko dla spółek akcyjnych"],
+    "correct_answer": "Jest to dopuszczalne – taki połączony rok obrotowy będzie trwał więcej niż 12 miesięcy",
+    "explanation": "Art. 3 ust. 1 pkt 9 UoR: „Jeżeli jednostka rozpoczęła działalność w drugiej połowie przyjętego roku obrotowego, można księgi rachunkowe i sprawozdanie finansowe za ten okres połączyć z księgami rachunkowymi i sprawozdaniem finansowym za rok następny". W takim przypadku rok obrotowy może wyjątkowo trwać dłużej niż 12 miesięcy. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 9).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 31,
+    "question": "Według Art. 4 ust. 1 UoR jednostka musi stosować przyjęte zasady rachunkowości:",
+    "options": ["Dowolnie, zmieniając je co roku według potrzeb sprawozdawczych", "Rzetelnie i jasno, przedstawiając sytuację majątkową, finansową i wynik finansowy", "Wyłącznie zgodnie z Międzynarodowymi Standardami Rachunkowości", "Według wzorów ustalonych przez Ministra Finansów"],
+    "correct_answer": "Rzetelnie i jasno, przedstawiając sytuację majątkową, finansową i wynik finansowy",
+    "explanation": "Art. 4 ust. 1 UoR: „Jednostki obowiązane są stosować przyjęte zasady (politykę) rachunkowości, rzetelnie i jasno przedstawiając sytuację majątkową i finansową oraz wynik finansowy". Dwa filary: rzetelność + jasność (true and fair view). (Streszczenie UoR, Rozdz. 1, Art. 4).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 32,
+    "question": "Zgodnie z Art. 4 ust. 2 UoR zasada wyższości treści nad formą oznacza, że:",
+    "options": ["Przepisy podatkowe mają pierwszeństwo przed przepisami rachunkowości", "Zdarzenia ujmuje się w księgach rachunkowych i wykazuje w SF zgodnie z ich treścią ekonomiczną", "Forma prezentacji SF jest ważniejsza niż rzetelność informacji", "Jednostka może stosować uproszczenia, jeżeli nie zmienia to wyniku finansowego"],
+    "correct_answer": "Zdarzenia ujmuje się w księgach rachunkowych i wykazuje w SF zgodnie z ich treścią ekonomiczną",
+    "explanation": "Art. 4 ust. 2 UoR: „Zdarzenia, w tym operacje gospodarcze, ujmuje się w księgach rachunkowych i wykazuje w sprawozdaniu finansowym zgodnie z ich treścią ekonomiczną". Zasada substancji nad formą – decyduje gospodarcze znaczenie transakcji, nie jej forma prawna. (Streszczenie UoR, Rozdz. 1, Art. 4 ust. 2).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 33,
+    "question": "Kto ponosi odpowiedzialność za wykonywanie obowiązków w zakresie rachunkowości według Art. 4 ust. 5 UoR?",
+    "options": ["Główny księgowy jednostki", "Kierownik jednostki, nawet jeśli powierzył obowiązki innej osobie", "Biegły rewident badający sprawozdanie finansowe", "Organ nadzorczy (rada nadzorcza lub komisja rewizyjna)"],
+    "correct_answer": "Kierownik jednostki, nawet jeśli powierzył obowiązki innej osobie",
+    "explanation": "Art. 4 ust. 5 UoR: „Kierownik jednostki ponosi odpowiedzialność za wykonywanie obowiązków w zakresie rachunkowości (...), również w przypadku gdy określone obowiązki w zakresie rachunkowości zostaną powierzone innej osobie za jej zgodą". Odpowiedzialność kierownika jest niezbywalna. (Streszczenie UoR, Rozdz. 1, Art. 4 ust. 5).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 34,
+    "question": "Na czym polega zasada kontynuacji działalności z Art. 5 ust. 2 UoR?",
+    "options": ["Jednostka musi przez co najmniej 3 lata stosować te same metody wyceny", "Przy stosowaniu zasad rachunkowości przyjmuje się, że jednostka będzie kontynuowała działalność w niezmniejszonym istotnie zakresie, bez postawienia jej w stan likwidacji lub upadłości", "Jednostka nie może zmieniać formy prawnej ani zasad rachunkowości", "Rok obrotowy musi być taki sam jak w poprzednich latach"],
+    "correct_answer": "Przy stosowaniu zasad rachunkowości przyjmuje się, że jednostka będzie kontynuowała działalność w niezmniejszonym istotnie zakresie, bez postawienia jej w stan likwidacji lub upadłości",
+    "explanation": "Art. 5 ust. 2 UoR: „Przy stosowaniu przyjętych zasad (polityki) rachunkowości przyjmuje się założenie, że jednostka będzie kontynuowała w dającej się przewidzieć przyszłości działalność w niezmniejszonym istotnie zakresie, bez postawienia jej w stan likwidacji lub upadłości, chyba że jest to niezgodne ze stanem faktycznym lub prawnym". (Streszczenie UoR, Rozdz. 1, Art. 5 ust. 2).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 35,
+    "question": "Na jaki minimalny okres kierownik jednostki ocenia zdolność do kontynuacji działalności przy sporządzaniu SF?",
+    "options": ["Co najmniej 6 miesięcy od dnia bilansowego", "Co najmniej 1 rok od dnia bilansowego", "Co najmniej 2 lata od dnia bilansowego", "Do końca bieżącego roku obrotowego"],
+    "correct_answer": "Co najmniej 1 rok od dnia bilansowego",
+    "explanation": "Art. 5 ust. 2 UoR (zdanie drugie): „Ustalając zdolność jednostki do kontynuowania działalności, kierownik jednostki uwzględnia wszystkie informacje dostępne na dzień sporządzenia sprawozdania finansowego, dotyczące dającej się przewidzieć przyszłości, obejmującej okres nie krótszy niż jeden rok od dnia bilansowego". (Streszczenie UoR, Rozdz. 1, Art. 5 ust. 2).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 36,
+    "question": "Co nakazuje zasada ciągłości z Art. 5 ust. 1 UoR?",
+    "options": ["Zasady rachunkowości muszą być identyczne we wszystkich spółkach grupy kapitałowej", "Przyjęte zasady (politykę) rachunkowości należy stosować w sposób ciągły, dokonując w kolejnych latach jednakowego grupowania operacji, wyceny aktywów i pasywów", "Raz przyjęte zasady nie mogą być nigdy zmieniane", "Jednostka musi co roku weryfikować i aktualizować zasady rachunkowości"],
+    "correct_answer": "Przyjęte zasady (politykę) rachunkowości należy stosować w sposób ciągły, dokonując w kolejnych latach jednakowego grupowania operacji, wyceny aktywów i pasywów",
+    "explanation": "Art. 5 ust. 1 UoR: „Przyjęte zasady (politykę) rachunkowości należy stosować w sposób ciągły, dokonując w kolejnych latach obrotowych jednakowego grupowania operacji gospodarczych, wyceny aktywów i pasywów, w tym także dokonywania odpisów amortyzacyjnych lub umorzeniowych". Zasada ciągłości (porównywalności). (Streszczenie UoR, Rozdz. 1, Art. 5 ust. 1).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 37,
+    "question": "Czym jest zasada memoriału wyrażona w Art. 6 ust. 1 UoR?",
+    "options": ["Przychody i koszty ujmuje się tylko w momencie zapłaty", "W księgach rachunkowych ujmuje się wszystkie przychody i koszty dotyczące danego roku, niezależnie od terminu ich zapłaty", "Jednostka ujmuje tylko faktycznie otrzymane środki i poniesione wydatki", "Przychody ujmuje się w dacie wystawienia faktury, koszty w dacie ich poniesienia"],
+    "correct_answer": "W księgach rachunkowych ujmuje się wszystkie przychody i koszty dotyczące danego roku, niezależnie od terminu ich zapłaty",
+    "explanation": "Art. 6 ust. 1 UoR: „W księgach rachunkowych jednostki należy ująć wszystkie osiągnięte, przypadające na jej rzecz przychody i obciążające ją koszty związane z tymi przychodami dotyczące danego roku obrotowego, niezależnie od terminu ich zapłaty". Fundamentalna zasada memoriałowa. (Streszczenie UoR, Rozdz. 1, Art. 6 ust. 1).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 38,
+    "question": "Co nakazuje zasada ostrożności z Art. 7 ust. 1 UoR w zakresie przychodów?",
+    "options": ["Ujmować wszystkie spodziewane przychody, nawet niepewne", "Ujmować wyłącznie niewątpliwe pozostałe przychody operacyjne i zyski nadzwyczajne", "Szacować przychody na podstawie danych historycznych", "Ujmować przychody wyłącznie w kwocie netto po odliczeniu podatków"],
+    "correct_answer": "Ujmować wyłącznie niewątpliwe pozostałe przychody operacyjne i zyski nadzwyczajne",
+    "explanation": "Art. 7 ust. 1 pkt 3 UoR nakazuje uwzględniać „wyłącznie niewątpliwe pozostałe przychody operacyjne i zyski nadzwyczajne". Asymetria: przychody – tylko pewne; koszty i straty – WSZYSTKIE. To istota zasady ostrożności (konserwatyzmu). (Streszczenie UoR, Rozdz. 1, Art. 7 ust. 1).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 39,
+    "question": "Czy jednostka mikro może zrezygnować z zasady ostrożności przy wycenie aktywów i pasywów?",
+    "options": ["Nie – zasada ostrożności jest obowiązkowa dla wszystkich jednostek", "Tak – zgodnie z Art. 7 ust. 2a UoR jednostka mikro może zrezygnować z zachowania zasady ostrożności", "Tak, ale tylko za zgodą biegłego rewidenta", "Tak, wyłącznie w zakresie wyceny inwestycji krótkoterminowych"],
+    "correct_answer": "Tak – zgodnie z Art. 7 ust. 2a UoR jednostka mikro może zrezygnować z zachowania zasady ostrożności",
+    "explanation": "Art. 7 ust. 2a UoR: „Jednostka mikro może zrezygnować z zachowania zasady ostrożności przy wycenie poszczególnych składników aktywów i pasywów". Wyjątek dostępny wyłącznie dla jednostek mikro. (Streszczenie UoR, Rozdz. 1, Art. 7 ust. 2a).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 40,
+    "question": "Od kiedy obowiązują skutki zmiany zasad rachunkowości zgodnie z Art. 8 ust. 2 UoR?",
+    "options": ["Od dnia podjęcia decyzji o zmianie", "Od pierwszego dnia roku obrotowego, bez względu na datę podjęcia decyzji", "Od początku następnego roku obrotowego", "Od dnia zatwierdzenia sprawozdania finansowego przez organ zatwierdzający"],
+    "correct_answer": "Od pierwszego dnia roku obrotowego, bez względu na datę podjęcia decyzji",
+    "explanation": "Art. 8 ust. 2 UoR: „W celu rzetelnego i jasnego przedstawienia sytuacji jednostka może, ze skutkiem od pierwszego dnia roku obrotowego, bez względu na datę podjęcia decyzji, zmienić dotychczas stosowane rozwiązania na inne, przewidziane ustawą". Zmiana ma zawsze skutek retrospektywny od początku roku. (Streszczenie UoR, Rozdz. 1, Art. 8 ust. 2).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 41,
+    "question": "Jak wycenia się należności na dzień bilansowy zgodnie z Art. 28 ust. 1 pkt 7 UoR?",
+    "options": ["W wartości godziwej", "W kwocie wymaganej zapłaty, z zachowaniem zasady ostrożności", "W kwocie nominalnej bez żadnych korekt", "W cenie nabycia pomniejszonej o odpisy umorzeniowe"],
+    "correct_answer": "W kwocie wymaganej zapłaty, z zachowaniem zasady ostrożności",
+    "explanation": "Art. 28 ust. 1 pkt 7 UoR: „należności i udzielone pożyczki – w kwocie wymaganej zapłaty, z zachowaniem zasady ostrożności". Musi być korygowana odpisami aktualizującymi zgodnie z zasadą ostrożności. (Streszczenie UoR, Rozdz. 4, Art. 28 ust. 1 pkt 7).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 42,
+    "question": "Jak wycenia się udziały (akcje) własne na dzień bilansowy według Art. 28 ust. 1 pkt 9a UoR?",
+    "options": ["Według wartości nominalnej", "Według wartości rynkowej na dzień bilansowy", "Według cen nabycia", "Według wartości godziwej ustalonej przez zarząd"],
+    "correct_answer": "Według cen nabycia",
+    "explanation": "Art. 28 ust. 1 pkt 9a UoR: „udziały (akcje) własne – według cen nabycia". Szczególna zasada wyceny – własne akcje/udziały nie podlegają aktualizacji wyceny do wartości rynkowej. Wykazuje się je jako wartość ujemną w pasywach bilansu. (Streszczenie UoR, Rozdz. 4, Art. 28 ust. 1 pkt 9a).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 43,
+    "question": "Jak wycenia się zobowiązania na dzień bilansowy (Art. 28 ust. 1 pkt 8 UoR)?",
+    "options": ["W wartości godziwej", "W kwocie wymagającej zapłaty", "W wartości nominalnej", "W wartości zdyskontowanej przy użyciu efektywnej stopy procentowej"],
+    "correct_answer": "W kwocie wymagającej zapłaty",
+    "explanation": "Art. 28 ust. 1 pkt 8 UoR: „zobowiązania – w kwocie wymagającej zapłaty". Analogicznie do należności, ale bez zastrzeżenia o zasadzie ostrożności – zobowiązania wykazuje się w pełnej kwocie do zapłaty. (Streszczenie UoR, Rozdz. 4, Art. 28 ust. 1 pkt 8).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 44,
+    "question": "Jak wycenia się kapitały (fundusze) własne (z wyjątkiem akcji własnych) na dzień bilansowy?",
+    "options": ["W wartości godziwej", "W wartości rynkowej kapitału własnego spółki", "W wartości nominalnej (Art. 28 ust. 1 pkt 10 UoR)", "W wartości aktywów netto spółki"],
+    "correct_answer": "W wartości nominalnej (Art. 28 ust. 1 pkt 10 UoR)",
+    "explanation": "Art. 28 ust. 1 pkt 10 UoR: „kapitały (fundusze) własne, z wyjątkiem udziałów (akcji) własnych, oraz pozostałe aktywa i pasywa – w wartości nominalnej". Kapitał zakładowy jest wykazywany w kwocie określonej w statucie/umowie – nie aktualizuje się go do wartości rynkowej. (Streszczenie UoR, Rozdz. 4, Art. 28 ust. 1 pkt 10).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 45,
+    "question": "Co oznacza „trwała utrata wartości" składnika aktywów (Art. 28 ust. 7 UoR)?",
+    "options": ["Każde obniżenie wartości bilansowej składnika aktywów poniżej ceny rynkowej", "Sytuacja, gdy istnieje duże prawdopodobieństwo, że składnik aktywów nie przyniesie w przyszłości w znaczącej części lub w całości przewidywanych korzyści ekonomicznych", "Utrata wartości składnika aktywów z powodu zużycia fizycznego", "Odpis amortyzacyjny dokonany na koniec roku obrotowego"],
+    "correct_answer": "Sytuacja, gdy istnieje duże prawdopodobieństwo, że składnik aktywów nie przyniesie w przyszłości w znaczącej części lub w całości przewidywanych korzyści ekonomicznych",
+    "explanation": "Art. 28 ust. 7 UoR: „Trwała utrata wartości zachodzi wtedy, gdy istnieje duże prawdopodobieństwo, że kontrolowany przez jednostkę składnik aktywów nie przyniesie w przyszłości w znaczącej części lub w całości przewidywanych korzyści ekonomicznych". (Streszczenie UoR, Rozdz. 4, Art. 28 ust. 7).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 46,
+    "question": "Czy wszczęcie postępowania naprawczego albo upadłościowego z możliwością zawarcia układu stanowi przeszkodę dla uznania kontynuacji działalności?",
+    "options": ["Tak – zawsze oznacza brak kontynuacji", "Nie – wszczęcie takiego postępowania NIE stanowi przeszkody do uznania, że działalność będzie kontynuowana (Art. 29 ust. 3 UoR)", "Tak, ale tylko gdy postępowanie trwa dłużej niż 6 miesięcy", "Zależy od decyzji biegłego rewidenta"],
+    "correct_answer": "Nie – wszczęcie takiego postępowania NIE stanowi przeszkody do uznania, że działalność będzie kontynuowana (Art. 29 ust. 3 UoR)",
+    "explanation": "Art. 29 ust. 3 UoR: „Wszczęcie postępowania naprawczego albo upadłościowego z możliwością zawarcia układu lub zmiana formy prawnej jednostki nie stanowią przeszkody do uznania, że działalność będzie kontynuowana". Dopiero faktyczna likwidacja lub upadłość bez układu wykluczają kontynuację. (Streszczenie UoR, Rozdz. 1, Art. 29 ust. 3).",
+    "topic": "Art. 29 — Brak kontynuacji"
+  },
+  {
+    "id": 47,
+    "question": "Jaką metodą wycenia się aktywa jednostki, gdy założenie kontynuacji działalności nie jest zasadne (Art. 29 ust. 1 UoR)?",
+    "options": ["W wartości godziwej ustalonej przez rzeczoznawcę", "Po cenach sprzedaży netto możliwych do uzyskania, nie wyższych od cen nabycia lub kosztów wytworzenia pomniejszonych o odpisy", "W cenie nabycia bez żadnych korekt", "W wartości likwidacyjnej ustalonej przez sąd"],
+    "correct_answer": "Po cenach sprzedaży netto możliwych do uzyskania, nie wyższych od cen nabycia lub kosztów wytworzenia pomniejszonych o odpisy",
+    "explanation": "Art. 29 ust. 1 UoR: „Jeżeli założenie kontynuacji działalności (...) nie jest zasadne, to wycena aktywów jednostki następuje po cenach sprzedaży netto możliwych do uzyskania, nie wyższych od cen ich nabycia albo kosztów wytworzenia, pomniejszonych o dotychczasowe odpisy amortyzacyjne lub umorzeniowe". (Streszczenie UoR, Rozdz. 1, Art. 29 ust. 1).",
+    "topic": "Art. 29 — Brak kontynuacji"
+  },
+  {
+    "id": 48,
+    "question": "Na konto jakiego kapitału trafia różnica powstała w wyniku wyceny przy braku kontynuacji i utworzenia rezerwy (Art. 29 ust. 2a UoR)?",
+    "options": ["Kapitał zapasowy", "Wynik finansowy bieżącego roku obrotowego", "Kapitał (fundusz) z aktualizacji wyceny", "Pozostałe kapitały rezerwowe"],
+    "correct_answer": "Kapitał (fundusz) z aktualizacji wyceny",
+    "explanation": "Art. 29 ust. 2a UoR: „Różnica powstała w wyniku wyceny oraz utworzenia rezerwy, o których mowa w ust. 1, wpływa na kapitał (fundusz) z aktualizacji wyceny". Nie wpływa bezpośrednio na wynik finansowy. (Streszczenie UoR, Rozdz. 1, Art. 29 ust. 2a).",
+    "topic": "Art. 29 — Brak kontynuacji"
+  },
+  {
+    "id": 49,
+    "question": "Kiedy następuje wycena po cenach sprzedaży netto przy braku kontynuacji działalności (Art. 29 ust. 2 UoR)?",
+    "options": ["Wyłącznie w dniu ogłoszenia upadłości", "W przeddzień postawienia w stan likwidacji lub ogłoszenia upadłości ORAZ na koniec roku, gdy kontynuacja jest niezasadna", "Wyłącznie na żądanie wierzyciela lub sądu", "Na dzień otwarcia likwidacji, po co najmniej 6 miesiącach od decyzji"],
+    "correct_answer": "W przeddzień postawienia w stan likwidacji lub ogłoszenia upadłości ORAZ na koniec roku, gdy kontynuacja jest niezasadna",
+    "explanation": "Art. 29 ust. 2 UoR: „Wycena po cenach sprzedaży netto i utworzenie rezerwy następują w szczególności w przeddzień postawienia jednostki w stan likwidacji lub ogłoszenia upadłości, na koniec roku obrotowego, jeżeli na dzień jego zakończenia nie jest zasadne założenie kontynuowania przez nią działalności". (Streszczenie UoR, Rozdz. 1, Art. 29 ust. 2).",
+    "topic": "Art. 29 — Brak kontynuacji"
+  },
+  {
+    "id": 50,
+    "question": "Jaka dodatkowa czynność jest wymagana przy wycenie aktywów w przypadku braku kontynuacji działalności (Art. 29 ust. 1 UoR)?",
+    "options": ["Sporządzenie sprawozdania likwidacyjnego", "Utworzenie rezerwy na przewidywane dodatkowe koszty i straty spowodowane zaniechaniem lub utratą zdolności do kontynuowania działalności", "Natychmiastowe zamknięcie ksiąg rachunkowych", "Powołanie biegłego rewidenta do wyceny aktywów"],
+    "correct_answer": "Utworzenie rezerwy na przewidywane dodatkowe koszty i straty spowodowane zaniechaniem lub utratą zdolności do kontynuowania działalności",
+    "explanation": "Art. 29 ust. 1 UoR: obok wyceny po cenach sprzedaży netto, jednostka „tworzy rezerwę na przewidywane dodatkowe koszty i straty spowodowane zaniechaniem lub utratą zdolności do kontynuowania działalności". Oba elementy – wycena i rezerwa – są obligatoryjne. (Streszczenie UoR, Rozdz. 1, Art. 29 ust. 1).",
+    "topic": "Art. 29 — Brak kontynuacji"
+  },
+  {
+    "id": 51,
+    "question": "Jaki jest maksymalny okres odpisywania kosztów zakończonych prac rozwojowych, gdy nie można wiarygodnie oszacować okresu ekonomicznej użyteczności (Art. 33 ust. 3 UoR)?",
+    "options": ["3 lata", "5 lat", "10 lat", "20 lat"],
+    "correct_answer": "5 lat",
+    "explanation": "Art. 33 ust. 3 UoR: „Jeżeli w wyjątkowych przypadkach nie można wiarygodnie oszacować okresu ekonomicznej użyteczności, to dokonuje się odpisów przez okres nie dłuższy niż 5 lat". Standardem jest odpisywanie przez okres ekonomicznej użyteczności; 5 lat to maksimum dla wyjątków. (Streszczenie UoR, Rozdz. 4, Art. 33 ust. 3).",
+    "topic": "Art. 33 — Prace rozwojowe / WNiP"
+  },
+  {
+    "id": 52,
+    "question": "Ile warunków i w jaki sposób musi być spełnionych, aby koszty prac rozwojowych zaliczyć do WNiP (Art. 33 ust. 2 UoR)?",
+    "options": ["Dwa z trzech warunków jednocześnie", "Wszystkie trzy warunki ŁĄCZNIE", "Wystarczy spełnienie jednego podstawowego warunku technicznego", "Warunki muszą być potwierdzone przez niezależnego biegłego rzeczoznawcę"],
+    "correct_answer": "Wszystkie trzy warunki ŁĄCZNIE",
+    "explanation": "Art. 33 ust. 2 UoR wymaga spełnienia ŁĄCZNIE wszystkich trzech warunków: (1) produkt/technologia ściśle ustalona, koszty wiarygodnie określone, (2) techniczna przydatność stwierdzona i udokumentowana, (3) koszty zostaną pokryte przychodami ze sprzedaży. Niespełnienie choćby jednego wyklucza zaliczenie do WNiP. (Streszczenie UoR, Rozdz. 4, Art. 33 ust. 2).",
+    "topic": "Art. 33 — Prace rozwojowe / WNiP"
+  },
+  {
+    "id": 53,
+    "question": "Który z poniższych warunków NIE jest wymagany do zaliczenia kosztów prac rozwojowych do WNiP (Art. 33 ust. 2 UoR)?",
+    "options": ["Produkt lub technologia są ściśle ustalone, a koszty wiarygodnie określone", "Techniczna przydatność produktu została stwierdzona i udokumentowana", "Koszty zostaną pokryte spodziewanymi przychodami ze sprzedaży", "Prace zostały wykonane przez zewnętrzny podmiot badawczy, nie przez jednostkę"],
+    "correct_answer": "Prace zostały wykonane przez zewnętrzny podmiot badawczy, nie przez jednostkę",
+    "explanation": "Art. 33 ust. 2 UoR dotyczy wyłącznie prac prowadzonych przez jednostkę NA WŁASNE POTRZEBY, ale nie wymaga, żeby prace były wykonywane we własnym zakresie (może je zlecić). Nie ma warunku co do podmiotu wykonującego; liczy się spełnienie trzech warunków merytorycznych ŁĄCZNIE. (Streszczenie UoR, Rozdz. 4, Art. 33 ust. 2).",
+    "topic": "Art. 33 — Prace rozwojowe / WNiP"
+  },
+  {
+    "id": 54,
+    "question": "Co stanowi wartość firmy (goodwill) według Art. 33 ust. 4 UoR?",
+    "options": ["Reputacja i marka firmy wyceniona przez rzeczoznawcę", "Różnica między ceną nabycia określonej jednostki a niższą od niej wartością godziwą przejętych aktywów netto", "Nadwyżka wartości godziwej aktywów netto nad ceną nabycia", "Suma niematerialnych aktywów wykazanych w bilansie jednostki"],
+    "correct_answer": "Różnica między ceną nabycia określonej jednostki a niższą od niej wartością godziwą przejętych aktywów netto",
+    "explanation": "Art. 33 ust. 4 UoR: „Wartość firmy stanowi różnicę między ceną nabycia określonej jednostki lub zorganizowanej jej części a niższą od niej wartością godziwą przejętych aktywów netto". WF > 0 gdy cena nabycia > wartość godziwa aktywów netto. Odwrotność to ujemna wartość firmy. (Streszczenie UoR, Rozdz. 4, Art. 33 ust. 4).",
+    "topic": "Art. 33 — Prace rozwojowe / WNiP"
+  },
+  {
+    "id": 55,
+    "question": "Ile wynosi standardowy okres odpisywania wartości firmy (goodwill) według UoR, a ile maksymalny?",
+    "options": ["Standardowo 5 lat, maksymalnie 10 lat", "Standardowo 5 lat, maksymalnie 20 lat", "Standardowo 10 lat, maksymalnie 40 lat", "Dowolny okres ustalony przez kierownika jednostki, bez ograniczeń"],
+    "correct_answer": "Standardowo 5 lat, maksymalnie 20 lat",
+    "explanation": "Art. 33 ust. 4 UoR: wartość firmy podlega odpisowi przez 5 lat, a w uzasadnionych przypadkach kierownik jednostki może wydłużyć ten okres do 20 lat. Zasadą jest 5 lat; 20 lat to wyjątek wymagający uzasadnienia i ujawnienia w informacji dodatkowej. (Streszczenie UoR, Rozdz. 4, Art. 33 ust. 4).",
+    "topic": "Art. 33 — Prace rozwojowe / WNiP"
+  },
+  {
+    "id": 56,
+    "question": "Jak wycenia się inwestycje krótkoterminowe na dzień bilansowy (Art. 28 ust. 1 pkt 5 UoR)?",
+    "options": ["Wyłącznie według ceny nabycia", "Według ceny (wartości) rynkowej albo ceny nabycia lub ceny rynkowej – niższej z dwóch, albo według skorygowanej ceny nabycia", "Według wartości godziwej ustalonej przez biegłego rzeczoznawcę", "Według wartości nominalnej lub wartości godziwej – niższej z dwóch"],
+    "correct_answer": "Według ceny (wartości) rynkowej albo ceny nabycia lub ceny rynkowej – niższej z dwóch, albo według skorygowanej ceny nabycia",
+    "explanation": "Art. 28 ust. 1 pkt 5 UoR: „inwestycje krótkoterminowe – według ceny (wartości) rynkowej albo według ceny nabycia lub ceny (wartości) rynkowej, zależnie od tego, która z nich jest niższa albo według skorygowanej ceny nabycia". Trzy alternatywne metody. (Streszczenie UoR, Rozdz. 4, Art. 28 ust. 1 pkt 5).",
+    "topic": "Art. 35 — Inwestycje krótkoterminowe"
+  },
+  {
+    "id": 57,
+    "question": "Jakie są skutki rachunkowe wzrostu wartości inwestycji krótkoterminowych do poziomu cen rynkowych (Art. 35 ust. 4 UoR)?",
+    "options": ["Zwiększenie kapitału z aktualizacji wyceny", "Zaliczenie do przychodów finansowych", "Zaliczenie do pozostałych przychodów operacyjnych", "Zmniejszenie odpisów amortyzacyjnych"],
+    "correct_answer": "Zaliczenie do przychodów finansowych",
+    "explanation": "Art. 35 ust. 4 UoR: „Skutki przeszacowania inwestycji zaliczonych do aktywów obrotowych, powodujące wzrost ich wartości do poziomu cen rynkowych – zalicza się do przychodów finansowych". Wzrost wartości inwestycji krótkoterminowych = przychody finansowe (nie kapitał z aktualizacji, który dotyczy środków trwałych). (Streszczenie UoR, Rozdz. 4, Art. 35 ust. 4).",
+    "topic": "Art. 35 — Inwestycje krótkoterminowe"
+  },
+  {
+    "id": 58,
+    "question": "Gdzie trafiają skutki przeszacowania powodujące obniżenie wartości inwestycji krótkoterminowych (Art. 35 ust. 4 UoR)?",
+    "options": ["Zmniejszenie kapitału zapasowego", "Koszty finansowe", "Pozostałe koszty operacyjne", "Straty nadzwyczajne"],
+    "correct_answer": "Koszty finansowe",
+    "explanation": "Art. 35 ust. 4 UoR: skutki przeszacowania inwestycji krótkoterminowych powodujące obniżenie ich wartości do poziomu cen rynkowych zalicza się do kosztów finansowych. Asymetria wobec środków trwałych: przy inwestycjach krótkoterminowych i wzrost i spadek wpływają na wynik (nie na kapitał). (Streszczenie UoR, Rozdz. 4, Art. 35 ust. 4).",
+    "topic": "Art. 35 — Inwestycje krótkoterminowe"
+  },
+  {
+    "id": 59,
+    "question": "Gdzie wykazuje się skutki przeszacowania inwestycji DŁUGOTERMINOWYCH powodujące wzrost ich wartości (Art. 35 ust. 3 UoR)?",
+    "options": ["Przychody finansowe", "Kapitał (fundusz) z aktualizacji wyceny", "Pozostałe przychody operacyjne", "Kapitał zapasowy"],
+    "correct_answer": "Kapitał (fundusz) z aktualizacji wyceny",
+    "explanation": "Art. 35 ust. 3 UoR: wzrost wartości inwestycji zaliczonych do aktywów TRWAŁYCH do poziomu cen rynkowych zalicza się na kapitał (fundusz) z aktualizacji wyceny. To odwrotność zasady dla inwestycji krótkoterminowych (gdzie wzrost = przychody finansowe). (Streszczenie UoR, Rozdz. 4, Art. 35 ust. 3).",
+    "topic": "Art. 35 — Inwestycje krótkoterminowe"
+  },
+  {
+    "id": 60,
+    "question": "Jaka jest jodatkowa zasada przy wycenie inwestycji krótkoterminowych po cenie nabycia lub cenie rynkowej (niższej z dwóch)?",
+    "options": ["Zawsze stosuje się cenę nabycia bez porównania z rynkową", "Porównuje się cenę nabycia z ceną rynkową i wykazuje niższą – realizacja zasady ostrożności", "Stosuje się tylko cenę rynkową, bez względu na cenę nabycia", "Decyduje kierownik jednostki bez żadnych reguł"],
+    "correct_answer": "Porównuje się cenę nabycia z ceną rynkową i wykazuje niższą – realizacja zasady ostrożności",
+    "explanation": "Metoda „niższa z dwóch" (lower of cost or market) stosowana do inwestycji krótkoterminowych jest bezpośrednim wyrazem zasady ostrożności z Art. 7 UoR. Art. 28 ust. 1 pkt 5: cena nabycia lub cena rynkowa – zależnie od tego, która jest niższa. Gwarantuje to, że nie zawyżamy wartości aktywów. (Streszczenie UoR, Rozdz. 4, Art. 28 ust. 1 pkt 5).",
+    "topic": "Art. 35 — Inwestycje krótkoterminowe"
+  },
+  {
+    "id": 61,
+    "question": "W jakiej wysokości wykazuje się kapitał zakładowy spółek kapitałowych w bilansie (Art. 36 ust. 2 UoR)?",
+    "options": ["W wartości rynkowej spółki na dzień bilansowy", "W wysokości określonej w umowie lub statucie i wpisanej w rejestrze sądowym", "W wysokości faktycznie wpłaconych wkładów przez wspólników", "W wartości aktywów netto na dzień bilansowy"],
+    "correct_answer": "W wysokości określonej w umowie lub statucie i wpisanej w rejestrze sądowym",
+    "explanation": "Art. 36 ust. 2 UoR: „Kapitał zakładowy spółek kapitałowych (...) wykazuje się w wysokości określonej w umowie lub statucie i wpisanej w rejestrze sądowym". Kapital zakładowy to kwota zarejestrowana, a nie faktycznie wniesiona. Różnica to „należne wpłaty na kapitał podstawowy" (ujemna pozycja). (Streszczenie UoR, Rozdz. 4, Art. 36 ust. 2).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 62,
+    "question": "Jak prezentuje się „należne wpłaty na kapitał podstawowy" w bilansie sporządzanym zgodnie z UoR?",
+    "options": ["Jako aktywo – należność od wspólników", "Jako odrębna pozycja pasywów ze znakiem ujemnym, zmniejszająca kapitały własne", "Nie wykazuje się ich w bilansie – tylko w informacji dodatkowej", "Jako zmniejszenie kapitału zapasowego"],
+    "correct_answer": "Jako odrębna pozycja pasywów ze znakiem ujemnym, zmniejszająca kapitały własne",
+    "explanation": "Art. 36 ust. 2 UoR oraz Załącznik nr 1 do UoR: należne wpłaty na kapitał (fundusz) podstawowy wykazuje się jako pozycję C pasywów ze znakiem ujemnym. Jest to zadeklarowany, ale jeszcze niewniesiony wkład kapitałowy, który pomniejsza sumę kapitałów własnych. (Streszczenie UoR, Rozdz. 4, Art. 36 ust. 2).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 63,
+    "question": "Gdzie są ujmowane koszty emisji akcji poniesione przy podwyższeniu kapitału zakładowego (Art. 36 ust. 2b UoR)?",
+    "options": ["Jako koszty bieżącego roku obrotowego (koszty finansowe)", "Zmniejszają kapitał zapasowy do wysokości nadwyżki wartości emisji nad wartością nominalną akcji, a pozostała część to koszty finansowe", "Jako wartości niematerialne i prawne podlegające amortyzacji", "Zmniejszają bezpośrednio kapitał zakładowy"],
+    "correct_answer": "Zmniejszają kapitał zapasowy do wysokości nadwyżki wartości emisji nad wartością nominalną akcji, a pozostała część to koszty finansowe",
+    "explanation": "Art. 36 ust. 2b UoR: „Koszty emisji akcji poniesione przy powstaniu spółki akcyjnej lub podwyższeniu kapitału zakładowego zmniejszają kapitał zapasowy spółki do wysokości nadwyżki wartości emisji nad wartością nominalną akcji, a pozostałe koszty emisji zalicza się do kosztów finansowych". Pierwszeństwo ma pomniejszenie agio. (Streszczenie UoR, Rozdz. 4, Art. 36 ust. 2b).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 64,
+    "question": "Na jakie konto odnosi się ZYSK uzyskany ze zbycia akcji własnych (Art. 36a ust. 1 UoR)?",
+    "options": ["Przychody finansowe bieżącego roku", "Kapitał zapasowy", "Pozostałe przychody operacyjne", "Kapitał rezerwowy na akcje własne"],
+    "correct_answer": "Kapitał zapasowy",
+    "explanation": "Art. 36a ust. 1 UoR: „W razie zbycia akcji własnych, dodatnią różnicę między ceną sprzedaży, pomniejszoną o koszty sprzedaży, a ich ceną nabycia, należy odnieść na kapitał zapasowy". Zysk ze zbycia akcji własnych nie jest traktowany jako przychód finansowy – trafia bezpośrednio na kapitał zapasowy. (Streszczenie UoR, Rozdz. 4, Art. 36a ust. 1).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 65,
+    "question": "Co się dzieje z ujemną różnicą (stratą) przy zbyciu akcji własnych (Art. 36a ust. 1 UoR)?",
+    "options": ["Zalicza się ją do kosztów finansowych", "Ujemną różnicę ujmuje się jako zmniejszenie kapitału zapasowego, a jeżeli jest niewystarczający – zmniejszenie kapitału rezerwowego lub obciążenie wyniku finansowego bieżącego roku", "Zwiększa ona deficyt kapitału zakładowego", "Zawsze obciąża wynik finansowy bieżącego roku"],
+    "correct_answer": "Ujemną różnicę ujmuje się jako zmniejszenie kapitału zapasowego, a jeżeli jest niewystarczający – zmniejszenie kapitału rezerwowego lub obciążenie wyniku finansowego bieżącego roku",
+    "explanation": "Art. 36a ust. 1 UoR: „Ujemną różnicę należy ująć jako zmniejszenie kapitału zapasowego, a jeżeli kapitał zapasowy nie jest wystarczający – jako zmniejszenie pozostałych kapitałów (funduszy) rezerwowych, a w przypadku ich braku – jako stratę z lat ubiegłych lub obciążenie wyniku finansowego bieżącego roku". Hierarchia: kap. zapasowy → kap. rezerwowy → wynik. (Streszczenie UoR, Rozdz. 4, Art. 36a ust. 1).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 66,
+    "question": "Jak rozlicza się przy umorzeniu akcji własnych nadwyżkę ich wartości nominalnej nad ceną nabycia (Art. 36a ust. 2 UoR)?",
+    "options": ["Jako przychód finansowy", "Na kapitał zapasowy", "Na pozostałe przychody operacyjne", "Na kapitał rezerwowy na akcje własne"],
+    "correct_answer": "Na kapitał zapasowy",
+    "explanation": "Art. 36a ust. 2 UoR: „W przypadku umorzenia akcji własnych, dodatnią różnicę między ich wartością nominalną a ceną nabycia należy odnieść na kapitał zapasowy". Symetria ze zbyciem: zysk zawsze idzie na kapitał zapasowy. (Streszczenie UoR, Rozdz. 4, Art. 36a ust. 2).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 67,
+    "question": "Co dzieje się z udziałami własnymi spółki z o.o. umorzonymi BEZ obniżenia kapitału zakładowego (Art. 36a ust. 3 UoR)?",
+    "options": ["Wartość umorzonych udziałów trafia na wynik finansowy", "Wartość udziałów własnych przeksięgowuje się na kapitał rezerwowy", "Wartość trafia na kapitał zapasowy", "Wartość obciąża pozostałe koszty operacyjne"],
+    "correct_answer": "Wartość udziałów własnych przeksięgowuje się na kapitał rezerwowy",
+    "explanation": "Art. 36a ust. 3 UoR: „W przypadku umorzenia udziałów własnych bez obniżenia kapitału zakładowego, wartość udziałów własnych przeksięgowuje się na kapitał rezerwowy". Wyjątek od zasad z ust. 1 i 2 (które stosuje się do umorzenia z obniżeniem kapitału). (Streszczenie UoR, Rozdz. 4, Art. 36a ust. 3).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 68,
+    "question": "Jak wykazuje się udziały (akcje) własne w bilansie jednostki?",
+    "options": ["Po stronie aktywów jako inwestycje długoterminowe", "Jako odrębna pozycja D pasywów ze znakiem ujemnym", "W informacji dodatkowej – nie wykazuje się w bilansie", "Po stronie aktywów jako należności od wspólników"],
+    "correct_answer": "Jako odrębna pozycja D pasywów ze znakiem ujemnym",
+    "explanation": "Załącznik nr 1 do UoR (po zmianach od 2016 r.): udziały (akcje) własne wykazuje się jako pozycję D pasywów ze znakiem ujemnym, zmniejszając sumę kapitałów własnych. Wycena: wg cen nabycia (Art. 28 ust. 1 pkt 9a). (Streszczenie UoR, Rozdz. 4, Art. 36 i Załącznik nr 1).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 69,
+    "question": "Jaka jest definicja „ujemnej wartości firmy" według Art. 44b ust. 11 UoR?",
+    "options": ["Ujemna wartość aktywów netto spółki przejmowanej", "Nadwyżka wartości godziwej aktywów netto spółki przejętej nad ceną przejęcia", "Różnica między ceną nabycia a wartością bilansową spółki przejętej", "Strata poniesiona w wyniku przejęcia innej spółki"],
+    "correct_answer": "Nadwyżka wartości godziwej aktywów netto spółki przejętej nad ceną przejęcia",
+    "explanation": "Art. 44b ust. 11 UoR: „nadwyżkę wartości godziwej aktywów netto spółki przejętej nad ceną przejęcia, czyli ujemną wartość firmy…". Ujemna WF = wartość godziwa AN > cena przejęcia (odwrotność goodwill). Pojawia się gdy przejmujemy jednostkę „po okazyjnej cenie". (Streszczenie UoR, Rozdz. 4a, Art. 44b ust. 11).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 70,
+    "question": "W jaki sposób rozlicza się ujemną wartość firmy do wysokości nieprzekraczającej wartości godziwej nabytych aktywów niepieniężnych (Art. 44b ust. 11 UoR)?",
+    "options": ["Zalicza się ją do kapitału zapasowego", "Odpisuje się przez okres będący średnią ważoną okresu ekonomicznej użyteczności nabytych aktywów podlegających amortyzacji jako pozostałe przychody operacyjne", "Odpisuje się jednorazowo na dzień połączenia jako przychód finansowy", "Wykazuje się jako zobowiązanie długoterminowe"],
+    "correct_answer": "Odpisuje się przez okres będący średnią ważoną okresu ekonomicznej użyteczności nabytych aktywów podlegających amortyzacji jako pozostałe przychody operacyjne",
+    "explanation": "Art. 44b ust. 11 UoR: ujemna WF do wysokości wartości godziwej aktywów niepieniężnych odpisuje się „przez okres będący średnią ważoną okresu ekonomicznej użyteczności nabytych aktywów podlegających amortyzacji" i zalicza do pozostałych przychodów operacyjnych. (Streszczenie UoR, Rozdz. 4a, Art. 44b ust. 11).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 71,
+    "question": "Jak rozlicza się nadwyżkę ujemnej wartości firmy ponad wartość godziwą aktywów niepieniężnych (Art. 44b ust. 11 UoR)?",
+    "options": ["Odnosi się na kapitał zapasowy", "Zalicza się jednorazowo do pozostałych przychodów operacyjnych na dzień połączenia", "Zalicza się do przychodów finansowych", "Rozkłada się na 5 lat równomiernie jako przychody przyszłych okresów"],
+    "correct_answer": "Zalicza się jednorazowo do pozostałych przychodów operacyjnych na dzień połączenia",
+    "explanation": "Art. 44b ust. 11 UoR: „Nadwyżkę ujemnej wartości firmy nad wartością godziwą nabytych aktywów niepieniężnych zalicza się do pozostałych przychodów operacyjnych na dzień połączenia". Ta część ujemnej WF jest rozliczana natychmiastowo, bez rozłożenia w czasie. (Streszczenie UoR, Rozdz. 4a, Art. 44b ust. 11).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 72,
+    "question": "Jak rozlicza się część ujemnej wartości firmy dotyczącą oszacowanych przyszłych strat i kosztów (Art. 44b ust. 12 UoR)?",
+    "options": ["Jednorazowo na dzień połączenia jako przychody finansowe", "W momencie gdy przewidywane straty i koszty wpływają na wynik finansowy – jako pozostałe przychody operacyjne", "Przez 5 lat równomiernie jako przychody operacyjne", "Na kapitał zapasowy spółki przejmującej"],
+    "correct_answer": "W momencie gdy przewidywane straty i koszty wpływają na wynik finansowy – jako pozostałe przychody operacyjne",
+    "explanation": "Art. 44b ust. 12 UoR: „Ujemną wartość firmy odpisuje się w pozostałe przychody operacyjne do wysokości, w jakiej dotyczy oszacowanych w sposób wiarygodny przyszłych strat i kosztów (...). Odpis następuje w tym momencie, gdy przewidywane straty i koszty wpływają na wynik finansowy". (Streszczenie UoR, Rozdz. 4a, Art. 44b ust. 12).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 73,
+    "question": "Co stanowi podstawę wyceny aktywów spółki przejmowanej przy metodzie nabycia (Art. 44b ust. 1 UoR)?",
+    "options": ["Wartości księgowe z ksiąg rachunkowych spółki przejmowanej", "Wartości godziwe na dzień połączenia", "Ceny nabycia historyczne pomniejszone o amortyzację", "Wartości podatkowe aktywów spółki przejmowanej"],
+    "correct_answer": "Wartości godziwe na dzień połączenia",
+    "explanation": "Art. 44b ust. 1 UoR: metoda nabycia polega na sumowaniu pozycji spółki przejmującej wg wartości KSIĘGOWEJ z odpowiednimi pozycjami spółki przejętej, przy czym te ostatnie ujmuje się wg ich WARTOŚCI GODZIWYCH na dzień połączenia. To fundamentalna różnica wobec metody łączenia udziałów. (Streszczenie UoR, Rozdz. 4a, Art. 44b ust. 1).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 74,
+    "question": "Za dzień połączenia spółek przyjmuje się (Art. 44a ust. 3 UoR):",
+    "options": ["Dzień podpisania umowy połączenia przez zarządy obu spółek", "Dzień wpisania połączenia do rejestru właściwego dla siedziby spółki przejmującej albo nowo zawiązanej", "Dzień zatwierdzenia połączenia przez walne zgromadzenie", "Dzień, na który sporządza się plan połączenia"],
+    "correct_answer": "Dzień wpisania połączenia do rejestru właściwego dla siedziby spółki przejmującej albo nowo zawiązanej",
+    "explanation": "Art. 44a ust. 3 UoR: „Za dzień połączenia spółek przyjmuje się dzień wpisania połączenia do rejestru właściwego dla siedziby odpowiednio spółki przejmującej albo spółki nowo zawiązanej". Jest to dzień prawnego skutku połączenia, nie data umowy. (Streszczenie UoR, Rozdz. 4a, Art. 44a ust. 3).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 75,
+    "question": "Gdzie ujmuje się koszty przeprowadzenia połączenia spółek metodą nabycia?",
+    "options": ["Jako wartości niematerialne i prawne", "Jako koszty finansowe bieżącego roku", "Zmniejszają kapitał zapasowy spółki przejmującej", "Zwiększają wartość firmy"],
+    "correct_answer": "Jako koszty finansowe bieżącego roku",
+    "explanation": "Art. 44b ust. 6 UoR: koszty przeprowadzenia połączenia, w tym koszty rejestracji, doradztwa, wycen – obciążają koszty finansowe spółki przejmującej. Nie są kapitalizowane jako wartość firmy ani jako WNiP. (Streszczenie UoR, Rozdz. 4a, Art. 44b ust. 6).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 76,
+    "question": "Kiedy można zastosować metodę łączenia udziałów przy połączeniu spółek (Art. 44a ust. 2 UoR)?",
+    "options": ["Zawsze, gdy obie spółki wyrażą zgodę", "Gdy na skutek połączenia nie następuje utrata kontroli nad spółkami przez ich dotychczasowych udziałowców", "Wyłącznie przy połączeniu spółek z ograniczoną odpowiedzialnością", "Gdy wartość przejętych aktywów jest wyższa niż cena nabycia"],
+    "correct_answer": "Gdy na skutek połączenia nie następuje utrata kontroli nad spółkami przez ich dotychczasowych udziałowców",
+    "explanation": "Art. 44a ust. 2 UoR: „W razie łączenia się spółek, na skutek którego nie następuje utrata kontroli nad nimi przez ich dotychczasowych udziałowców, można zastosować metodę łączenia udziałów". Metoda łączenia udziałów to wyjątek – zasadą jest metoda nabycia. (Streszczenie UoR, Rozdz. 4a, Art. 44a ust. 2).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 77,
+    "question": "Na czym polega metoda łączenia udziałów (Art. 44c ust. 1 UoR) w zakresie wyceny aktywów?",
+    "options": ["Aktywa przejmowaej wycenia się do wartości godziwych na dzień połączenia", "Sumuje się pozycje aktywów i pasywów łączących się spółek wg stanu na dzień połączenia, po doprowadzeniu do jednolitych metod wyceny (historycznych)", "Zawsze stosuje się wartości podatkowe aktywów", "Stosuje się MSR jako podstawę wyceny aktywów"],
+    "correct_answer": "Sumuje się pozycje aktywów i pasywów łączących się spółek wg stanu na dzień połączenia, po doprowadzeniu do jednolitych metod wyceny (historycznych)",
+    "explanation": "Art. 44c ust. 1 UoR: „Łączenie metodą łączenia udziałów polega na sumowaniu poszczególnych pozycji odpowiednich aktywów i pasywów oraz przychodów i kosztów połączonych spółek, według stanu na dzień połączenia, po uprzednim doprowadzeniu ich wartości do jednolitych metod wyceny". Nie stosuje się wartości godziwych. (Streszczenie UoR, Rozdz. 4a, Art. 44c ust. 1).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 78,
+    "question": "Jaka jest różnica w zakresie danych porównawczych przy metodzie łączenia udziałów vs. metodzie nabycia?",
+    "options": ["Obie metody stosują identyczne dane porównawcze", "Metoda łączenia: SF zawiera dane za cały rok obrotowy (w tym przed połączeniem); metoda nabycia: bez przekształcenia danych porównawczych", "Metoda nabycia wymaga przekształcenia danych za 5 lat wstecz", "Metoda łączenia: dane tylko od dnia połączenia; metoda nabycia: dane za cały rok"],
+    "correct_answer": "Metoda łączenia: SF zawiera dane za cały rok obrotowy (w tym przed połączeniem); metoda nabycia: bez przekształcenia danych porównawczych",
+    "explanation": "Art. 44c ust. 6 (metoda łączenia): „SF (...) zawiera dane za cały rok obrotowy, w ciągu którego nastąpiło połączenie". Art. 44b ust. 16 (metoda nabycia): dane porównawcze bez przekształcenia. Metoda łączenia traktuje połączenie jakby nastąpiło na początku roku. (Streszczenie UoR, Rozdz. 4a, Art. 44b ust. 16 i Art. 44c ust. 6).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 79,
+    "question": "Jak traktuje się koszty poniesione w związku z połączeniem przy metodzie łączenia udziałów (Art. 44c ust. 5 UoR)?",
+    "options": ["Zwiększają wartość aktywów spółki nowo zawiązanej", "Zalicza się je do kosztów okresu sprawozdawczego, w którym zostały poniesione", "Zmniejszają kapitał zapasowy spółki przejmującej", "Zwiększają koszty założenia spółki jako wartości niematerialne"],
+    "correct_answer": "Zalicza się je do kosztów okresu sprawozdawczego, w którym zostały poniesione",
+    "explanation": "Art. 44c ust. 5 UoR: „Koszty poniesione w związku z połączeniem (...) zalicza się do kosztów okresu sprawozdawczego, w którym zostały poniesione". (Streszczenie UoR, Rozdz. 4a, Art. 44c ust. 5).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 80,
+    "question": "Co dzieje się z wartością kapitału zakładowego spółki przejmowaej przy zastosowaniu metody łączenia udziałów?",
+    "options": ["Pozostaje niezmieniona w skonsolidowanym bilansie", "Wartość kapitału zakładowego spółki, której majątek jest przenoszony, podlega wyłączeniu przy sumowaniu", "Zwiększa kapitał zapasowy spółki przejmującej w całości", "Jest eliminowana wyłącznie gdy przekracza wartość kapitału zakładowego spółki przejmującej"],
+    "correct_answer": "Wartość kapitału zakładowego spółki, której majątek jest przenoszony, podlega wyłączeniu przy sumowaniu",
+    "explanation": "Art. 44c ust. 2 UoR: „Wyłączeniu podlega wartość kapitału zakładowego spółki, której majątek został przeniesiony na inną spółkę". Różnica między wyłączonym kapitałem a wartością innych składników własnych może trafić na kapitał zapasowy lub wynik z lat ubiegłych. (Streszczenie UoR, Rozdz. 4a, Art. 44c ust. 2).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 81,
+    "question": "Co obejmuje sprawozdanie finansowe PODSTAWOWE (bez obowiązku badania) według Art. 45 ust. 2 UoR?",
+    "options": ["Bilans, rachunek zysków i strat, rachunek przepływów pieniężnych", "Bilans, rachunek zysków i strat, informację dodatkową", "Bilans, rachunek zysków i strat, zestawienie zmian w kapitale własnym, informację dodatkową", "Bilans, informację dodatkową i sprawozdanie z działalności"],
+    "correct_answer": "Bilans, rachunek zysków i strat, informację dodatkową",
+    "explanation": "Art. 45 ust. 2 UoR: „Sprawozdanie finansowe składa się z: 1) bilansu; 2) rachunku zysków i strat; 3) informacji dodatkowej, obejmującej wprowadzenie do sprawozdania finansowego oraz dodatkowe informacje i objaśnienia". Rachunek przepływów i zestawienie zmian w kapitale to elementy tylko dla jednostek badanych. (Streszczenie UoR, Rozdz. 5, Art. 45 ust. 2).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 82,
+    "question": "Które elementy NIE wchodzą w skład sprawozdania finansowego otwartego funduszu inwestycyjnego (FIO) – Art. 45 ust. 3a UoR?",
+    "options": ["Bilans i rachunek zysków i strat", "Rachunek przepływów pieniężnych", "Informacja dodatkowa", "Zestawienie zmian w aktywach netto funduszu"],
+    "correct_answer": "Rachunek przepływów pieniężnych",
+    "explanation": "Art. 45 ust. 3a UoR: „Sprawozdanie finansowe funduszu inwestycyjnego otwartego oraz sprawozdanie finansowe specjalistycznego funduszu inwestycyjnego otwartego nie obejmuje rachunku przepływów pieniężnych". FIO sporządza bilans, rachunek wyniku z operacji, zestawienie zmian w aktywach netto – ale NIE rachunek przepływów. (Streszczenie UoR, Rozdz. 5, Art. 45 ust. 3a).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 83,
+    "question": "Kto podejmuje decyzję o stosowaniu MSR (IFRS) przy sporządzaniu sprawozdań finansowych jednostek z grupy kapitałowej (Art. 45 ust. 1c UoR)?",
+    "options": ["Kierownik jednostki", "Organ zatwierdzający sprawozdanie finansowe", "Zarząd jednostki dominującej", "Komisja Nadzoru Finansowego"],
+    "correct_answer": "Organ zatwierdzający sprawozdanie finansowe",
+    "explanation": "Art. 45 ust. 1c UoR: „Decyzję w sprawie sporządzania sprawozdań finansowych zgodnie z MSR, przez jednostki, o których mowa w ust. 1a oraz 1b, podejmuje organ zatwierdzający". Organ zatwierdzający (np. walne zgromadzenie) decyduje o stosowaniu MSR, nie kierownik ani zarząd. (Streszczenie UoR, Rozdz. 5, Art. 45 ust. 1c).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 84,
+    "question": "Zgodnie z Art. 45 ust. 1b UoR, jednostki wchodzące w skład grupy kapitałowej sporządzającej skonsolidowane SF wg MSR:",
+    "options": ["Mają obowiązek sporządzać jednostkowe SF zgodnie z MSR", "Mogą sporządzać jednostkowe SF zgodnie z MSR, jeśli zdecyduje o tym organ zatwierdzający", "Nie mogą stosować MSR do jednostkowych SF", "Muszą uzyskać zgodę KNF na stosowanie MSR"],
+    "correct_answer": "Mogą sporządzać jednostkowe SF zgodnie z MSR, jeśli zdecyduje o tym organ zatwierdzający",
+    "explanation": "Art. 45 ust. 1b UoR: „Sprawozdania finansowe jednostek wchodzących w skład grupy kapitałowej, w której jednostka dominująca sporządza skonsolidowane sprawozdanie finansowe zgodnie z MSR, mogą być sporządzane zgodnie z MSR". To uprawnienie (MOGĄ), nie obowiązek. Decyduje organ zatwierdzający. (Streszczenie UoR, Rozdz. 5, Art. 45 ust. 1b).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 85,
+    "question": "Czy organ zatwierdzający może podjąć decyzję o zaprzestaniu stosowania MSR przy sporządzaniu jednostkowego SF (Art. 45 ust. 1d UoR)?",
+    "options": ["Nie – raz podjęta decyzja o MSR jest nieodwołalna", "Tak – organ zatwierdzający może podjąć decyzję o zaprzestaniu stosowania MSR w przypadku ustania okoliczności uzasadniających ich stosowanie", "Tylko za zgodą Ministra Finansów", "Wyłącznie KNF może nakazać zaprzestanie stosowania MSR"],
+    "correct_answer": "Tak – organ zatwierdzający może podjąć decyzję o zaprzestaniu stosowania MSR w przypadku ustania okoliczności uzasadniających ich stosowanie",
+    "explanation": "Art. 45 ust. 1d UoR: „Organ zatwierdzający może podjąć decyzję w sprawie zaprzestania stosowania MSR przy sporządzaniu sprawozdań finansowych przez jednostki w przypadku ustania okoliczności, o których mowa w ust. 1a i 1b". Symetrycznie – ten sam organ, który zdecydował o MSR, może cofnąć tę decyzję. (Streszczenie UoR, Rozdz. 5, Art. 45 ust. 1d).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 86,
+    "question": "Co definiuje UoR jako „działalność operacyjną" w rachunku przepływów pieniężnych (Art. 48b ust. 3 pkt 1)?",
+    "options": ["Nabywanie i zbywanie składników aktywów trwałych", "Podstawowy rodzaj działalności jednostki oraz inne rodzaje działalności niezaliczone do inwestycyjnej lub finansowej", "Pozyskiwanie i spłata źródeł finansowania", "Wyłącznie przychody i koszty ze sprzedaży produktów i usług"],
+    "correct_answer": "Podstawowy rodzaj działalności jednostki oraz inne rodzaje działalności niezaliczone do inwestycyjnej lub finansowej",
+    "explanation": "Art. 48b ust. 3 pkt 1 UoR: „przez działalność operacyjną rozumie się podstawowy rodzaj działalności jednostki oraz inne rodzaje działalności, niezaliczone do działalności inwestycyjnej (lokacyjnej) lub finansowej". Działalność operacyjna to „kosz rezydualny". (Streszczenie UoR, Rozdz. 5, Art. 48b ust. 3 pkt 1).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 87,
+    "question": "Czym jest „działalność inwestycyjna (lokacyjna)" w RPP według Art. 48b ust. 3 pkt 2 UoR?",
+    "options": ["Lokowanie środków pieniężnych w banku na lokatach", "Nabywanie lub zbywanie składników aktywów trwałych i krótkoterminowych aktywów finansowych oraz wszelkie pieniężne koszty i korzyści z nimi związane", "Wyłącznie zakup i sprzedaż środków trwałych", "Wszelkie płatności z tytułu pochodnych instrumentów finansowych"],
+    "correct_answer": "Nabywanie lub zbywanie składników aktywów trwałych i krótkoterminowych aktywów finansowych oraz wszelkie pieniężne koszty i korzyści z nimi związane",
+    "explanation": "Art. 48b ust. 3 pkt 2 UoR: „przez działalność inwestycyjną (lokacyjną) rozumie się nabywanie lub zbywanie składników aktywów trwałych i krótkoterminowych aktywów finansowych oraz wszystkie z nimi związane pieniężne koszty i korzyści". Obejmuje ŚT, WNiP, akcje i obligacje innych spółek. (Streszczenie UoR, Rozdz. 5, Art. 48b ust. 3 pkt 2).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 88,
+    "question": "Co obejmuje „działalność finansowa" w rachunku przepływów pieniężnych (Art. 48b ust. 3 pkt 3 UoR)?",
+    "options": ["Wyłącznie płatności odsetek i dywidend", "Pozyskiwanie lub utratę źródeł finansowania oraz wszystkie związane z nimi przepływy pieniężne", "Zaciąganie wyłącznie kredytów i pożyczek", "Przychody z tytułu odsetek od lokat bankowych"],
+    "correct_answer": "Pozyskiwanie lub utratę źródeł finansowania oraz wszystkie związane z nimi przepływy pieniężne",
+    "explanation": "Art. 48b ust. 3 pkt 3 UoR: „przez działalność finansową rozumie się pozyskiwanie lub utratę źródeł finansowania [zmiany w rozmiarach i relacjach kapitału (funduszu) własnego i obcego w jednostce] oraz wszystkie z nimi związane pieniężne koszty i korzyści". Emisja akcji, zaciąganie kredytów, spłata, wypłata dywidend – to działalność finansowa. (Streszczenie UoR, Rozdz. 5, Art. 48b ust. 3 pkt 3).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 89,
+    "question": "Jakie są wymagania dotyczące języka i waluty sprawozdania finansowego (Art. 45 ust. 5 UoR)?",
+    "options": ["Sprawozdanie może być sporządzone w dowolnym języku, ale musi być w PLN", "Sprawozdanie sporządza się w języku polskim i w walucie polskiej", "Sprawozdania spółek zagranicznych mogą być w walucie EUR", "Zarząd może wybrać walutę funkcjonalną inną niż PLN"],
+    "correct_answer": "Sprawozdanie sporządza się w języku polskim i w walucie polskiej",
+    "explanation": "Art. 45 ust. 5 UoR: „Sprawozdanie finansowe oraz sprawozdanie z działalności jednostki sporządza się w języku polskim i w walucie polskiej". Wymóg bezwzględny. Dane liczbowe można wykazywać w zaokrągleniu do tysięcy złotych. (Streszczenie UoR, Rozdz. 5, Art. 45 ust. 5).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 90,
+    "question": "W jakim terminie należy zatwierdzić roczne sprawozdanie finansowe (Art. 53 ust. 1 UoR)?",
+    "options": ["W ciągu 3 miesięcy od dnia bilansowego", "W ciągu 6 miesięcy od dnia bilansowego", "W ciągu 9 miesięcy od dnia bilansowego", "Do końca roku następnego po roku bilansowym"],
+    "correct_answer": "W ciągu 6 miesięcy od dnia bilansowego",
+    "explanation": "Art. 53 ust. 1 UoR: „Roczne sprawozdanie finansowe jednostki (...) podlega zatwierdzeniu przez organ zatwierdzający, nie później niż 6 miesięcy od dnia bilansowego". Sporządzenie SF następuje wcześniej – w ciągu 3 miesięcy (Art. 52 ust. 1). (Streszczenie UoR, Rozdz. 5, Art. 53 ust. 1).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 91,
+    "question": "Ile elementów obejmuje skonsolidowane sprawozdanie finansowe grupy kapitałowej (Art. 55 ust. 2 UoR)?",
+    "options": ["3 elementy: bilans, RZiS i informacja dodatkowa", "4 elementy: bilans, RZiS, RPP i zestawienie zmian w kapitale", "5 elementów: bilans, RZiS, RPP, zestawienie zmian w kapitale własnym i informacja dodatkowa", "2 elementy: bilans i rachunek zysków i strat"],
+    "correct_answer": "5 elementów: bilans, RZiS, RPP, zestawienie zmian w kapitale własnym i informacja dodatkowa",
+    "explanation": "Art. 55 ust. 2 UoR: skonsolidowane SF składa się z: (1) skonsolidowanego bilansu, (2) skonsolidowanego RZiS, (3) skonsolidowanego RPP, (4) zestawienia zmian w skonsolidowanym kapitale własnym, (5) informacji dodatkowej. Skonsolidowane SF zawsze ma wszystkie 5 elementów. (Streszczenie UoR, Rozdz. 6, Art. 55 ust. 2).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 92,
+    "question": "Kto ma OBOWIĄZEK sporządzać skonsolidowane sprawozdania finansowe zgodnie z MSR (Art. 55 ust. 6 UoR)?",
+    "options": ["Każda jednostka dominująca posiadająca co najmniej jedną jednostkę zależną", "Emitenci papierów wartościowych zamierzający ubiegać się lub ubiegający się o dopuszczenie do obrotu na rynkach regulowanych EOG", "Wyłącznie banki państwowe nadzorowane przez NBP", "Wszystkie spółki akcyjne niezależnie od struktury grupy"],
+    "correct_answer": "Emitenci papierów wartościowych zamierzający ubiegać się lub ubiegający się o dopuszczenie do obrotu na rynkach regulowanych EOG",
+    "explanation": "Art. 55 ust. 6 UoR: „Skonsolidowane sprawozdania finansowe emitentów papierów wartościowych zamierzających ubiegać się lub ubiegających się o ich dopuszczenie do obrotu na jednym z rynków regulowanych krajów Europejskiego Obszaru Gospodarczego sporządzane są zgodnie z MSR". Dotyczy to w szczególności banków będących emitentami publicznymi. (Streszczenie UoR, Rozdz. 6, Art. 55 ust. 6).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 93,
+    "question": "Jednostki dominujące niższego szczebla, wchodzące w skład grupy sporządzającej skonsolidowane SF wg MSR (Art. 55 ust. 7 UoR):",
+    "options": ["Mają obowiązek sporządzać skonsolidowane SF wg MSR", "Mogą sporządzać skonsolidowane SF wg MSR, jeśli zdecyduje o tym organ zatwierdzający jednostki dominującej", "Są zwolnione z obowiązku sporządzania skonsolidowanego SF", "Muszą uzyskać zgodę Ministra Finansów na stosowanie MSR"],
+    "correct_answer": "Mogą sporządzać skonsolidowane SF wg MSR, jeśli zdecyduje o tym organ zatwierdzający jednostki dominującej",
+    "explanation": "Art. 55 ust. 7 UoR: jednostki dominujące niższego szczebla, wchodzące w skład grupy, w której dominująca wyższego szczebla sporządza skonsolidowane SF wg MSR, MOGĄ (nie muszą) sporządzać skonsolidowane SF wg MSR. Decyduje organ zatwierdzający jednostki dominującej (Art. 55 ust. 8). (Streszczenie UoR, Rozdz. 6, Art. 55 ust. 7).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 94,
+    "question": "W jakim terminie jednostka dominująca sporządza skonsolidowane sprawozdanie finansowe (Art. 63c ust. 2 UoR)?",
+    "options": ["W ciągu 1 miesiąca od dnia bilansowego", "Nie później niż w ciągu 3 miesięcy od dnia bilansowego", "W ciągu 6 miesięcy od dnia bilansowego", "Razem z jednostkowym SF, do końca roku następnego"],
+    "correct_answer": "Nie później niż w ciągu 3 miesięcy od dnia bilansowego",
+    "explanation": "Art. 63c ust. 2 UoR: „Jednostka dominująca sporządza skonsolidowane sprawozdanie finansowe, nie później niż w ciągu 3 miesięcy od dnia bilansowego, na który jednostka dominująca sporządza roczne sprawozdanie finansowe". Zatwierdzenie następuje w ciągu 6 miesięcy. (Streszczenie UoR, Rozdz. 6, Art. 63c ust. 2).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 95,
+    "question": "Jaką metodą wykazuje się udziały w jednostkach stowarzyszonych w skonsolidowanym SF (Art. 59 ust. 3 UoR)?",
+    "options": ["Metodą konsolidacji pełnej", "Metodą praw własności", "Metodą konsolidacji proporcjonalnej", "Po cenie nabycia bez żadnych korekt"],
+    "correct_answer": "Metodą praw własności",
+    "explanation": "Art. 59 ust. 3 UoR: „Udziały w jednostce stowarzyszonej wykazuje się w skonsolidowanym sprawozdaniu finansowym metodą praw własności". Metoda praw własności: korekta wartości udziałów o udział w wyniku i wypłacone dywidendy. (Streszczenie UoR, Rozdz. 6, Art. 59 ust. 3 i Art. 63).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 96,
+    "question": "Jaką metodą konsoliduje się dane jednostek zależnych w skonsolidowanym SF (Art. 59 ust. 1 UoR)?",
+    "options": ["Metodą praw własności", "Metodą konsolidacji pełnej", "Metodą konsolidacji proporcjonalnej", "Metodą łączenia udziałów"],
+    "correct_answer": "Metodą konsolidacji pełnej",
+    "explanation": "Art. 59 ust. 1 UoR: „Dane jednostki zależnej konsoliduje się metodą konsolidacji pełnej, o której mowa w art. 60". Metoda pełna: sumowanie 100% pozycji SF, następnie wyłączenia konsolidacyjne i wykazanie udziałów mniejszości. (Streszczenie UoR, Rozdz. 6, Art. 59 ust. 1 i Art. 60).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 97,
+    "question": "Na czym polega metoda konsolidacji proporcjonalnej stosowana do jednostek współzależnych (Art. 61 UoR)?",
+    "options": ["Pełne sumowanie danych jednostki współzależnej", "Sumowanie wyłącznie proporcjonalnej do udziału części aktywów, pasywów, przychodów i kosztów jednostki współzależnej", "Wykazanie udziałów w aktywach netto metodą praw własności", "Wyłączenie jednostki współzależnej z konsolidacji"],
+    "correct_answer": "Sumowanie wyłącznie proporcjonalnej do udziału części aktywów, pasywów, przychodów i kosztów jednostki współzależnej",
+    "explanation": "Art. 61 ust. 1 UoR: metoda proporcjonalna polega na sumowaniu proporcjonalnej do posiadanych udziałów części poszczególnych pozycji SF jednostki współzależnej z pełnymi danymi jednostki dominującej i jednostek zależnych. Stosowana wyłącznie do jednostek WSPÓŁZALEŻNYCH. (Streszczenie UoR, Rozdz. 6, Art. 61).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 98,
+    "question": "Kiedy jednostka dominująca może nie sporządzać skonsolidowanego SF ze względu na mały rozmiar grupy (Art. 56 ust. 1 UoR)?",
+    "options": ["Gdy suma aktywów jednostki dominującej jest niższa niż 50 mln PLN", "Gdy łączne dane grupy (przed wyłączeniami) nie przekraczają co najmniej dwóch z: 38 400 000 PLN aktywów, 76 800 000 PLN przychodów, 250 osób", "Gdy jednostka dominująca ma tylko jedną jednostkę zależną", "Wyłącznie gdy są spełnione wszystkie trzy kryteria łącznie"],
+    "correct_answer": "Gdy łączne dane grupy (przed wyłączeniami) nie przekraczają co najmniej dwóch z: 38 400 000 PLN aktywów, 76 800 000 PLN przychodów, 250 osób",
+    "explanation": "Art. 56 ust. 1 pkt 1 UoR: jednostka dominująca może nie sporządzać skonsolidowanego SF jeśli łączne dane (przed wyłączeniami konsolidacyjnymi) nie przekraczają co najmniej dwóch z trzech: (a) 38 400 000 PLN aktywów, (b) 76 800 000 PLN przychodów, (c) 250 osób. (Streszczenie UoR, Rozdz. 6, Art. 56 ust. 1).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 99,
+    "question": "Banki będące emitentami papierów wartościowych dopuszczonych do obrotu na rynkach regulowanych EOG – jakie są ich obowiązki w zakresie stosowania MSR?",
+    "options": ["Banki podlegają obowiązkowemu badaniu skonsolidowanego SF wg UoR", "Banki te MAJĄ OBOWIĄZEK sporządzać skonsolidowane SF wg MSR (IFRS)", "Banki mogą wybrać między UoR a MSR za zgodą KNF", "Tylko banki z aktywami przekraczającymi 100 mld PLN"],
+    "correct_answer": "Banki te MAJĄ OBOWIĄZEK sporządzać skonsolidowane SF wg MSR (IFRS)",
+    "explanation": "Art. 55 ust. 6 UoR: banki będące emitentami papierów wartościowych dopuszczonych do obrotu na rynkach regulowanych EOG MUSZĄ (obowiązek) sporządzać skonsolidowane SF wg MSR. Jest to połączenie obowiązku stosowania MSR z obowiązkiem badania z Art. 64. (Streszczenie UoR, Rozdz. 6, Art. 55 ust. 6).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 100,
+    "question": "Co obejmuje „wartość firmy" wykazywana w aktywach skonsolidowanego bilansu przy metodzie konsolidacji pełnej (Art. 60 ust. 2 UoR)?",
+    "options": ["Znaki towarowe i patenty grupy kapitałowej", "Nadwyżkę wartości udziałów nad odpowiadającą im częścią aktywów netto wycenionych według wartości godziwych", "Reputację i wartość marki grupy kapitałowej", "Różnicę między sumą aktywów wszystkich spółek grupy"],
+    "correct_answer": "Nadwyżkę wartości udziałów nad odpowiadającą im częścią aktywów netto wycenionych według wartości godziwych",
+    "explanation": "Art. 60 ust. 2 pkt 1 UoR: „nadwyżkę wartości udziałów nad odpowiadającą im częścią aktywów netto wycenionych według ich wartości godziwych – wartość firmy, wykazuje się w aktywach skonsolidowanego bilansu w odrębnej pozycji aktywów trwałych". (Streszczenie UoR, Rozdz. 6, Art. 60 ust. 2).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 101,
+    "question": "Które jednostki mają bezwzględny obowiązek badania sprawozdania finansowego niezależnie od rozmiaru (Art. 64 ust. 1 pkt 1 i 3 UoR)?",
+    "options": ["Wszystkie spółki z ograniczoną odpowiedzialnością", "Banki, zakłady ubezpieczeń, zakłady reasekuracji i spółki akcyjne", "Tylko spółki publiczne notowane na giełdzie", "Spółki zatrudniające ponad 250 pracowników"],
+    "correct_answer": "Banki, zakłady ubezpieczeń, zakłady reasekuracji i spółki akcyjne",
+    "explanation": "Art. 64 ust. 1 pkt 1 i 3 UoR: obowiązkowemu badaniu podlegają m.in. banki krajowe, zakłady ubezpieczeń i reasekuracji oraz spółki akcyjne (z wyjątkiem spółek w organizacji na dzień bilansowy). Obowiązek dla spółek akcyjnych jest bezwzględny – niezależnie od rozmiarów. (Streszczenie UoR, Rozdz. 7, Art. 64 ust. 1 pkt 1 i 3).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 102,
+    "question": "Jakie są kryteria obowiązkowego badania SF dla „pozostałych jednostek" (Art. 64 ust. 1 pkt 4 UoR)?",
+    "options": ["Zatrudnienie powyżej 100 osób lub suma aktywów powyżej 10 mln EUR", "Spełnienie co najmniej dwóch z trzech warunków: zatrudnienie ≥50, suma aktywów ≥3 125 000 EUR, przychody netto ≥6 250 000 EUR", "Przekroczenie jednego z trzech progów w poprzednim roku", "Tylko przychody netto powyżej 5 mln EUR"],
+    "correct_answer": "Spełnienie co najmniej dwóch z trzech warunków: zatrudnienie ≥50, suma aktywów ≥3 125 000 EUR, przychody netto ≥6 250 000 EUR",
+    "explanation": "Art. 64 ust. 1 pkt 4 UoR: obowiązek badania dotyczy jednostek, które w poprzednim roku spełniły co najmniej DWA z trzech: (a) zatrudnienie ≥50 osób, (b) suma aktywów ≥3 125 000 EUR, (c) przychody netto ≥6 250 000 EUR. Muszą być spełnione co najmniej 2 warunki jednocześnie. (Streszczenie UoR, Rozdz. 7, Art. 64 ust. 1 pkt 4).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 103,
+    "question": "Ile wynosi próg przychodów netto ze sprzedaży przy obowiązku badania SF dla pozostałych jednostek (Art. 64 ust. 1 pkt 4 lit. c UoR)?",
+    "options": ["Równowartość 2 000 000 EUR", "Równowartość 5 000 000 EUR", "Równowartość 6 250 000 EUR", "Równowartość 10 000 000 EUR"],
+    "correct_answer": "Równowartość 6 250 000 EUR",
+    "explanation": "Art. 64 ust. 1 pkt 4 lit. c UoR: jednym z trzech kryteriów (co najmniej dwa muszą być spełnione) jest: „przychody netto ze sprzedaży towarów i produktów oraz operacji finansowych za rok obrotowy stanowiły równowartość w walucie polskiej co najmniej 6 250 000 euro". (Streszczenie UoR, Rozdz. 7, Art. 64 ust. 1 pkt 4c).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 104,
+    "question": "Jaki jest próg sumy aktywów bilansu przy obowiązku badania SF dla pozostałych jednostek (Art. 64 ust. 1 pkt 4 lit. b UoR)?",
+    "options": ["Równowartość 2 000 000 EUR", "Równowartość 3 125 000 EUR", "Równowartość 5 000 000 EUR", "Równowartość 8 000 000 EUR"],
+    "correct_answer": "Równowartość 3 125 000 EUR",
+    "explanation": "Art. 64 ust. 1 pkt 4 lit. b UoR: jednym z trzech kryteriów (co najmniej dwa muszą być spełnione) jest: „suma aktywów bilansu na koniec roku obrotowego stanowiła równowartość w walucie polskiej co najmniej 3 125 000 euro". (Streszczenie UoR, Rozdz. 7, Art. 64 ust. 1 pkt 4b).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 105,
+    "question": "Kto dokonuje wyboru firmy audytorskiej do badania sprawozdania finansowego (Art. 66 ust. 4 UoR)?",
+    "options": ["Kierownik jednostki (prezes zarządu)", "Organ zatwierdzający sprawozdanie finansowe (np. walne zgromadzenie)", "Główny księgowy lub dyrektor finansowy", "Rada nadzorcza bez udziału walnego zgromadzenia"],
+    "correct_answer": "Organ zatwierdzający sprawozdanie finansowe (np. walne zgromadzenie)",
+    "explanation": "Art. 66 ust. 4 UoR: „Wyboru firmy audytorskiej do przeprowadzenia badania sprawozdania finansowego dokonuje organ zatwierdzający sprawozdanie finansowe jednostki, chyba że statut, umowa lub inne wiążące jednostkę przepisy prawa stanowią inaczej". Nie jest to kompetencja kierownika jednostki. (Streszczenie UoR, Rozdz. 7, Art. 66 ust. 4).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 106,
+    "question": "W jakim terminie kierownik jednostki zawiera umowę z firmą audytorską (Art. 66 ust. 5 UoR)?",
+    "options": ["Najpóźniej 30 dni przed dniem bilansowym", "W terminie umożliwiającym firmie audytorskiej udział w inwentaryzacji znaczących składników majątkowych", "Do końca września każdego roku", "W ciągu 3 miesięcy od walnego zgromadzenia zatwierdzającego SF"],
+    "correct_answer": "W terminie umożliwiającym firmie audytorskiej udział w inwentaryzacji znaczących składników majątkowych",
+    "explanation": "Art. 66 ust. 5 UoR: „Kierownik jednostki zawiera z firmą audytorską umowę o badanie sprawozdania finansowego w terminie umożliwiającym firmie audytorskiej udział w inwentaryzacji znaczących składników majątkowych". Udział w inwentaryzacji to kluczowe uprawnienie i obowiązek audytora. (Streszczenie UoR, Rozdz. 7, Art. 66 ust. 5).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 107,
+    "question": "Jaki jest status klauzul umownych ograniczających wybór firmy audytorskiej przez uprawniony organ (Art. 66 ust. 5a UoR)?",
+    "options": ["Są ważne, jeśli zatwierdzi je organ zatwierdzający", "Są nieważne z mocy prawa", "Wymagają zgody KNF aby być ważne", "Są ważne tylko przez jeden rok"],
+    "correct_answer": "Są nieważne z mocy prawa",
+    "explanation": "Art. 66 ust. 5a UoR: „Za nieważne z mocy prawa uznaje się wszelkie klauzule umowne w umowach zawartych przez badaną jednostkę, które ograniczałyby możliwość wyboru firmy audytorskiej przez organ dokonujący wyboru firmy audytorskiej". Ochrona niezależności wyboru jest bezwzględna. (Streszczenie UoR, Rozdz. 7, Art. 66 ust. 5a).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 108,
+    "question": "W jakich przypadkach można rozwiązać umowę o badanie sprawozdania finansowego (Art. 66 ust. 7 UoR)?",
+    "options": ["Zawsze, z zachowaniem 3-miesięcznego okresu wypowiedzenia", "Tylko gdy firma audytorska naruszy przepisy o niezależności", "Jedynie w sytuacji zaistnienia uzasadnionej podstawy", "Wyłącznie za zgodą KNF"],
+    "correct_answer": "Jedynie w sytuacji zaistnienia uzasadnionej podstawy",
+    "explanation": "Art. 66 ust. 7 UoR: „Rozwiązanie umowy o badanie sprawozdania finansowego jest możliwe jedynie w sytuacji zaistnienia uzasadnionej podstawy". Uzasadnioną podstawą są m.in.: zdarzenia uniemożliwiające spełnienie wymogów prawa/etyki, niedotrzymanie warunków umowy, przekształcenia lub zmiany właścicielskie. (Streszczenie UoR, Rozdz. 7, Art. 66 ust. 7).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 109,
+    "question": "Komu należy niezwłocznie przekazać informację o rozwiązaniu umowy o badanie SF (Art. 66 ust. 9 UoR)?",
+    "options": ["Ministrowi Finansów", "Komisji Nadzoru Finansowego", "Polskiej Agencji Nadzoru Audytowego (PANA)", "Zarządowi jednostki dominującej"],
+    "correct_answer": "Polskiej Agencji Nadzoru Audytowego (PANA)",
+    "explanation": "Art. 66 ust. 9 UoR: „O rozwiązaniu umowy o badanie sprawozdania finansowego kierownik jednostki oraz firma audytorska informują niezwłocznie, wraz z podaniem stosownego wyjaśnienia przyczyn rozwiązania umowy, Polską Agencję Nadzoru Audytowego". PANA jest organem nadzoru nad biegłymi rewidentami i firmami audytorskimi. (Streszczenie UoR, Rozdz. 7, Art. 66 ust. 9).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 110,
+    "question": "Jaki jest skutek badania sprawozdania finansowego przeprowadzonego z naruszeniem zasad niezależności biegłego rewidenta (Art. 66 ust. 6 UoR)?",
+    "options": ["Badanie jest ważne, ale wymagane jest ponowne badanie", "Badanie jest nieważne z mocy prawa", "Badanie wymaga zatwierdzenia przez organ nadzoru", "Kierownik jednostki ponosi odpowiedzialność karną"],
+    "correct_answer": "Badanie jest nieważne z mocy prawa",
+    "explanation": "Art. 66 ust. 6 UoR: badanie przeprowadzone z naruszeniem przepisów o niezależności biegłego rewidenta „jest nieważne z mocy prawa". Skutek bezwzględny – bez możliwości sanacji czy zatwierdzenia przez organ nadzoru. (Streszczenie UoR, Rozdz. 7, Art. 66 ust. 6).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 111,
+    "question": "Jakie obowiązki informacyjne ma kierownik jednostki wobec biegłego rewidenta (Art. 67 ust. 1 UoR)?",
+    "options": ["Wyłącznie udostępnienie ksiąg rachunkowych i dokumentów", "Zapewnienie udostępnienia ksiąg rachunkowych, dokumentów i wszelkich informacji niezbędnych do badania", "Udostępnienie wyłącznie sprawozdania finansowego i polityki rachunkowości", "Obowiązek istnieje tylko jeśli biegły złoży pisemny wniosek"],
+    "correct_answer": "Zapewnienie udostępnienia ksiąg rachunkowych, dokumentów i wszelkich informacji niezbędnych do badania",
+    "explanation": "Art. 67 ust. 1 UoR: „Kierownik badanej jednostki zapewnia udostępnienie biegłemu rewidentowi (...) ksiąg rachunkowych oraz dokumentów stanowiących podstawę dokonanych w nich zapisów oraz wszelkich innych informacji i dokumentów niezbędnych do badania". (Streszczenie UoR, Rozdz. 7, Art. 67 ust. 1).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 112,
+    "question": "Jakie uprawnienie ma biegły rewident w zakresie uzyskiwania informacji od kontrahentów badanej jednostki (Art. 67 ust. 2 UoR)?",
+    "options": ["Brak – biegły może uzyskiwać informacje wyłącznie od kierownika jednostki", "Biegły jest uprawniony do uzyskania informacji od kontrahentów, banków i doradców prawnych – z upoważnienia kierownika badanej jednostki", "Biegły może żądać informacji bezpośrednio bez upoważnienia", "Tylko KNF może zobowiązać kontrahentów do udzielenia informacji"],
+    "correct_answer": "Biegły jest uprawniony do uzyskania informacji od kontrahentów, banków i doradców prawnych – z upoważnienia kierownika badanej jednostki",
+    "explanation": "Art. 67 ust. 2 UoR: „Biegły rewident jest uprawniony do uzyskania informacji związanych z przebiegiem badania od kontrahentów badanej jednostki, w tym także od banków i jej doradców prawnych – z upoważnienia kierownika jednostki". Kluczowe: potrzebne jest upoważnienie kierownika. (Streszczenie UoR, Rozdz. 7, Art. 67 ust. 2).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 113,
+    "question": "Jakie obowiązkowe badanie SF dotyczy spółdzielczych kas oszczędnościowo-kredytowych (Art. 64 ust. 1 pkt 1a UoR)?",
+    "options": ["SKOK-i nie mają obowiązku badania SF", "SKOK-i podlegają obowiązkowemu badaniu SF niezależnie od rozmiaru", "Tylko duże SKOK-i spełniające 2 z 3 kryteriów ilościowych", "SKOK-i podlegają badaniu wyłącznie na żądanie Kasy Krajowej"],
+    "correct_answer": "SKOK-i podlegają obowiązkowemu badaniu SF niezależnie od rozmiaru",
+    "explanation": "Art. 64 ust. 1 pkt 1a UoR: „Badaniu podlegają roczne (...) sprawozdania finansowe (...) 1a) spółdzielczych kas oszczędnościowo-kredytowych". Obowiązek jest bezwzględny, bez progów ilościowych, podobnie jak dla banków i zakładów ubezpieczeń. (Streszczenie UoR, Rozdz. 7, Art. 64 ust. 1 pkt 1a).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 114,
+    "question": "Co rozumie się przez „jednostkę mikro" w kontekście zasad wyceny (Art. 28a UoR)?",
+    "options": ["Jednostka stosująca uproszczone zasady wyceny, zawsze zgodne z UoR", "Jednostka, która NIE wycenia aktywów i pasywów według wartości godziwej i skorygowanej ceny nabycia", "Jednostka stosująca wyłącznie MSR do wszystkich kategorii aktywów", "Jednostka stosująca takie same zasady jak jednostki małe"],
+    "correct_answer": "Jednostka, która NIE wycenia aktywów i pasywów według wartości godziwej i skorygowanej ceny nabycia",
+    "explanation": "Art. 28a UoR: „Jednostka mikro nie wycenia aktywów i pasywów według wartości godziwej i skorygowanej ceny nabycia". To ograniczenie metod wyceny jest przywilejem (uproszczeniem) dla jednostek mikro – stosują tylko cenę historyczną. (Streszczenie UoR, Rozdz. 4, Art. 28a).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 115,
+    "question": "Co oznacza pojęcie „zasady istotności" w rachunkowości (Art. 4 ust. 4a UoR)?",
+    "options": ["Każda operacja musi być ujęta bez względu na kwotę", "Informacje wykazywane w SF uznaje się za istotne, gdy ich pominięcie lub zniekształcenie mogłoby wpłynąć na decyzje ekonomiczne podejmowane na ich podstawie", "Jednostka może pomijać wszelkie operacje o wartości poniżej 1000 PLN", "Zasada ta dotyczy wyłącznie badania SF przez biegłego rewidenta"],
+    "correct_answer": "Informacje wykazywane w SF uznaje się za istotne, gdy ich pominięcie lub zniekształcenie mogłoby wpłynąć na decyzje ekonomiczne podejmowane na ich podstawie",
+    "explanation": "Art. 4 ust. 4a UoR: „Stosując przepisy ustawy, jednostka kieruje się zasadą istotności. Informacje wykazywane w sprawozdaniu finansowym (...) należy uznać za istotne, gdy ich pominięcie lub zniekształcenie może wpłynąć na decyzje podejmowane na ich podstawie przez użytkowników tych sprawozdań". (Streszczenie UoR, Rozdz. 1, Art. 4 ust. 4a).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 116,
+    "question": "Jakie elementy SF są dodatkowe (wymagane tylko dla jednostek podlegających badaniu) – Art. 45 ust. 3 UoR?",
+    "options": ["Bilans i rachunek zysków i strat", "Zestawienie zmian w kapitale (funduszu) własnym oraz rachunek przepływów pieniężnych", "Informacja dodatkowa i sprawozdanie z działalności", "Sprawozdanie zarządu i opinia biegłego rewidenta"],
+    "correct_answer": "Zestawienie zmian w kapitale (funduszu) własnym oraz rachunek przepływów pieniężnych",
+    "explanation": "Art. 45 ust. 3 UoR: „Sprawozdanie finansowe jednostek określonych w art. 64 ust. 1, podlegające corocznemu badaniu, obejmuje ponadto zestawienie zmian w kapitale (funduszu) własnym oraz rachunek przepływów pieniężnych". Te dwa elementy są dodatkowe – tylko dla jednostek objętych obowiązkiem badania. (Streszczenie UoR, Rozdz. 5, Art. 45 ust. 3).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 117,
+    "question": "Kto podpisuje roczne sprawozdanie finansowe w jednostce z wieloosobowym organem zarządzającym (Art. 52 ust. 2 UoR)?",
+    "options": ["Wystarczy podpis głównego księgowego i jednego członka zarządu", "Wszyscy członkowie organu wieloosobowego kierującego jednostką oraz osoba prowadząca księgi", "Tylko prezes zarządu i główny księgowy", "Wyłącznie biegły rewident badający sprawozdanie"],
+    "correct_answer": "Wszyscy członkowie organu wieloosobowego kierującego jednostką oraz osoba prowadząca księgi",
+    "explanation": "Art. 52 ust. 2 UoR: „Sprawozdanie finansowe podpisuje – podając zarazem datę podpisu – osoba, której powierzono prowadzenie ksiąg rachunkowych, i kierownik jednostki, a jeżeli jednostką kieruje organ wieloosobowy – wszyscy członkowie tego organu". (Streszczenie UoR, Rozdz. 5, Art. 52 ust. 2).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 118,
+    "question": "Co obejmuje „informacja dodatkowa" jako element sprawozdania finansowego (Art. 48 ust. 1 UoR)?",
+    "options": ["Wyłącznie wprowadzenie do sprawozdania finansowego", "Wprowadzenie do sprawozdania finansowego oraz dodatkowe informacje i objaśnienia", "Rachunek przepływów pieniężnych i zestawienie zmian w kapitale", "Opis ryzyk i komentarz zarządu do wyników"],
+    "correct_answer": "Wprowadzenie do sprawozdania finansowego oraz dodatkowe informacje i objaśnienia",
+    "explanation": "Art. 48 ust. 1 UoR: „Informacja dodatkowa powinna zawierać (...) 1) wprowadzenie do sprawozdania finansowego, zawierające opis przyjętych zasad (polityki) rachunkowości; 2) dodatkowe informacje i objaśnienia" (m.in. do pozycji bilansu, RZiS, propozycja podziału zysku, informacje o pracownikach). (Streszczenie UoR, Rozdz. 5, Art. 48 ust. 1).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 119,
+    "question": "Jakie są uzasadnione podstawy rozwiązania umowy o badanie SF wymienione w Art. 66 ust. 7 UoR?",
+    "options": ["Wyłącznie gdy biegły rewident odmawia wydania opinii", "Zdarzenia uniemożliwiające spełnienie wymogów prawa/etyki, niedotrzymanie warunków umowy, przekształcenia lub zmiany właścicielskie", "Gdy jednostka ponosi straty finansowe i nie może zapłacić za badanie", "Wyłącznie za porozumieniem obu stron bez podania przyczyny"],
+    "correct_answer": "Zdarzenia uniemożliwiające spełnienie wymogów prawa/etyki, niedotrzymanie warunków umowy, przekształcenia lub zmiany właścicielskie",
+    "explanation": "Art. 66 ust. 7 UoR: uzasadnioną podstawą rozwiązania umowy są m.in.: (1) zdarzenia uniemożliwiające spełnienie wymogów prawa, etyki lub niezależności, (2) niedotrzymanie warunków umowy (innych niż skutkujące odmową opinii), (3) przekształcenia, zmiany właścicielskie lub organizacyjne uzasadniające zmianę firmy. (Streszczenie UoR, Rozdz. 7, Art. 66 ust. 7).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 120,
+    "question": "Jaka jest kluczowa różnica między metodą łączenia udziałów a metodą nabycia w zakresie wartości firmy?",
+    "options": ["Obie metody mogą prowadzić do powstania wartości firmy lub ujemnej wartości firmy", "Przy metodzie łączenia udziałów wartość firmy NIE powstaje; przy metodzie nabycia może powstać wartość firmy lub ujemna wartość firmy", "Tylko metoda łączenia udziałów prowadzi do powstania wartości firmy", "Metody różnią się wyłącznie sposobem ujęcia kosztów połączenia"],
+    "correct_answer": "Przy metodzie łączenia udziałów wartość firmy NIE powstaje; przy metodzie nabycia może powstać wartość firmy lub ujemna wartość firmy",
+    "explanation": "Art. 44b (metoda nabycia): różnica między ceną nabycia a wartością godziwą aktywów netto daje wartość firmy lub ujemną wartość firmy. Art. 44c ust. 1 (metoda łączenia udziałów): sumuje się wartości historyczne po doprowadzeniu do jednolitych metod wyceny – brak wyceny do wartości godziwych, a tym samym brak mechanizmu powstawania wartości firmy. (Streszczenie UoR, Rozdz. 4a, Art. 44b i Art. 44c).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  }
+]
