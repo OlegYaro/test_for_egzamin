@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "Zgodnie z ustawą o nadzorze nad rynkiem finansowym, który organ sprawuje nadzór nad działalnością Urzędu Komisji Nadzoru Finansowego?",
+    "options": ["Prezes Narodowego Banku Polskiego", "Prezes Rady Ministrów", "Minister właściwy do spraw instytucji finansowych", "Sejm Rzeczypospolitej Polskiej"],
+    "correct_answer": "Prezes Rady Ministrów",
+    "explanation": "Zgodnie z art. 3 ust. 3 ustawy, nadzór nad działalnością Urzędu Komisji sprawuje Prezes Rady Ministrów. UKNF jest państwową osobą prawną z siedzibą w Warszawie."
+  },
+  {
+    "id": 2,
+    "question": "Wskaż, ile osób wchodzi łącznie w skład Komisji Nadzoru Finansowego (z Przewodniczącym i Zastępcami włącznie):",
+    "options": ["9", "12", "13", "10"],
+    "correct_answer": "13",
+    "explanation": "Zgodnie z art. 5 ust. 1 ustawy, w skład Komisji wchodzą: Przewodniczący, trzech Zastępców Przewodniczącego i dziewięciu członków – łącznie 13 osób."
+  },
+  {
+    "id": 3,
+    "question": "Przewodniczący Komisji Nadzoru Finansowego jest powoływany przez:",
+    "options": ["Sejm Rzeczypospolitej Polskiej", "Prezydenta Rzeczypospolitej Polskiej", "Prezesa Rady Ministrów", "Radę Polityki Pieniężnej"],
+    "correct_answer": "Prezesa Rady Ministrów",
+    "explanation": "Zgodnie z art. 7 ust. 1 ustawy, Przewodniczącego Komisji powołuje Prezes Rady Ministrów na pięcioletnią kadencję, spośród osób spełniających wskazane wymogi ustawowe."
+  },
+  {
+    "id": 4,
+    "question": "Kadencja Przewodniczącego Komisji Nadzoru Finansowego trwa:",
+    "options": ["3 lata", "4 lata", "5 lat", "6 lat"],
+    "correct_answer": "5 lat",
+    "explanation": "Zgodnie z art. 7 ust. 1 ustawy, Przewodniczący Komisji jest powoływany przez Prezesa Rady Ministrów na pięcioletnią kadencję. Pełni obowiązki do dnia powołania swego następcy (art. 7 ust. 2)."
+  },
+  {
+    "id": 5,
+    "question": "Które z poniższych wymagań NIE jest wymagane od kandydata na Przewodniczącego Komisji Nadzoru Finansowego?",
+    "options": ["Posiadanie obywatelstwa polskiego", "Co najmniej trzyletni staż pracy na stanowiskach kierowniczych", "Posiadanie wyższego wykształcenia prawniczego lub ekonomicznego", "Uprzednie uzyskanie rekomendacji Bankowego Funduszu Gwarancyjnego"],
+    "correct_answer": "Uprzednie uzyskanie rekomendacji Bankowego Funduszu Gwarancyjnego",
+    "explanation": "Art. 7 ust. 1 ustawy wymienia zamknięty katalog warunków dla Przewodniczącego: obywatelstwo polskie, pełnia praw publicznych, wyższe wykształcenie prawnicze lub ekonomiczne, odpowiednia wiedza i doświadczenie, min. 3-letni staż na stanowiskach kierowniczych, brak skazania za umyślne przestępstwo lub skarbowe, nieposzlakowana opinia. Rekomendacja BFG nie jest wymagana."
+  },
+  {
+    "id": 6,
+    "question": "Prezes Rady Ministrów może odwołać Przewodniczącego Komisji Nadzoru Finansowego przed upływem kadencji wyłącznie w przypadku:",
+    "options": ["Długotrwałej nieobecności trwającej ponad 1 miesiąc", "Utraty zdolności do pełnienia obowiązków na skutek długotrwałej choroby, trwającej dłużej niż 3 miesiące", "Negatywnej oceny przez Sejm RP", "Zmiany rządu i wniosku Ministra Finansów"],
+    "correct_answer": "Utraty zdolności do pełnienia obowiązków na skutek długotrwałej choroby, trwającej dłużej niż 3 miesiące",
+    "explanation": "Art. 8 ust. 1 ustawy przewiduje zamknięty katalog przesłanek odwołania Przewodniczącego: prawomocne skazanie za umyślne przestępstwo lub przestępstwo skarbowe, rezygnacja ze stanowiska, utrata obywatelstwa polskiego lub utrata zdolności do pełnienia obowiązków na skutek długotrwałej choroby trwającej dłużej niż 3 miesiące."
+  },
+  {
+    "id": 7,
+    "question": "Które z poniższych rodzajów nadzoru NIE wchodzi w zakres art. 1 ust. 2 ustawy o nadzorze nad rynkiem finansowym?",
+    "options": ["Nadzór bankowy", "Nadzór emerytalny", "Nadzór nad rynkiem towarowym w rozumieniu Kodeksu cywilnego", "Nadzór uzupełniający"],
+    "correct_answer": "Nadzór nad rynkiem towarowym w rozumieniu Kodeksu cywilnego",
+    "explanation": "Art. 1 ust. 2 ustawy wymienia enumeratywnie rodzaje nadzoru sprawowanego przez KNF: bankowy, emerytalny, ubezpieczeniowy, nad rynkiem kapitałowym, nad instytucjami płatniczymi i pieniądza elektronicznego, nad agencjami ratingowymi, uzupełniający, nad SKOK-ami i KSKOK, nad pośrednikami kredytu hipotecznego i inne. Nadzór nad rynkiem towarowym w rozumieniu KC nie jest wymieniony."
+  },
+  {
+    "id": 8,
+    "question": "Zgodnie z ustawą, celem nadzoru nad rynkiem finansowym jest zapewnienie m.in.:",
+    "options": ["Wyłącznie stabilności sektora bankowego", "Prawidłowego funkcjonowania rynku, jego stabilności, bezpieczeństwa oraz przejrzystości i zaufania do rynku finansowego", "Maksymalizacji zysku podmiotów nadzorowanych", "Wyłącznie ochrony interesów dużych inwestorów instytucjonalnych"],
+    "correct_answer": "Prawidłowego funkcjonowania rynku, jego stabilności, bezpieczeństwa oraz przejrzystości i zaufania do rynku finansowego",
+    "explanation": "Art. 2 ustawy stanowi, że celem nadzoru jest zapewnienie prawidłowego funkcjonowania rynku, jego stabilności, bezpieczeństwa oraz przejrzystości, zaufania do rynku finansowego, a także ochrony interesów uczestników tego rynku poprzez m.in. rzetelną informację dotyczącą funkcjonowania rynku."
+  },
+  {
+    "id": 9,
+    "question": "Kto jest uprawniony do powołania i odwołania Zastępców Przewodniczącego Komisji Nadzoru Finansowego?",
+    "options": ["Prezes Rady Ministrów na wniosek Przewodniczącego Komisji", "Sejm RP na wniosek Prezydenta", "Przewodniczący Komisji samodzielnie", "Minister właściwy do spraw instytucji finansowych"],
+    "correct_answer": "Prezes Rady Ministrów na wniosek Przewodniczącego Komisji",
+    "explanation": "Zgodnie z art. 9 ustawy, Zastępców Przewodniczącego powołuje i odwołuje Prezes Rady Ministrów na wniosek Przewodniczącego Komisji. Zastępcą może być osoba spełniająca te same wymogi co Przewodniczący, określone w art. 7 ust. 1."
+  },
+  {
+    "id": 10,
+    "question": "Który z poniższych podmiotów NIE jest wymienionym w art. 5 ust. 2 ustawy członkiem Komisji Nadzoru Finansowego?",
+    "options": ["Przedstawiciel Bankowego Funduszu Gwarancyjnego", "Przedstawiciel Prezydenta Rzeczypospolitej Polskiej", "Przedstawiciel Prezesa Urzędu Ochrony Konkurencji i Konsumentów", "Prezes Najwyższej Izby Kontroli lub jego przedstawiciel"],
+    "correct_answer": "Prezes Najwyższej Izby Kontroli lub jego przedstawiciel",
+    "explanation": "Art. 5 ust. 2 wymienia jako członków KNF m.in.: ministrów właściwych (finanse, gospodarka, zabezpieczenie społeczne lub ich przedstawicieli), Prezesa NBP lub delegowanego członka Zarządu NBP, przedstawiciela Prezydenta RP, Prezesa RM, BFG, Prezesa UOKiK oraz przedstawiciela ministra ds. koordynacji służb specjalnych. Prezes NIK nie jest wymieniony."
+  },
+  {
+    "id": 11,
+    "question": "Zgodnie z ustawą, do zadań Komisji Nadzoru Finansowego należy m.in.:",
+    "options": ["Wyłącznie sprawowanie nadzoru bez podejmowania działań informacyjnych", "Podejmowanie działań edukacyjnych i informacyjnych w zakresie funkcjonowania rynku finansowego oraz stwarzanie możliwości polubownego rozstrzygania sporów", "Ustalanie stóp procentowych na rynku finansowym", "Wydawanie zgody na fuzje spółek giełdowych"],
+    "correct_answer": "Podejmowanie działań edukacyjnych i informacyjnych w zakresie funkcjonowania rynku finansowego oraz stwarzanie możliwości polubownego rozstrzygania sporów",
+    "explanation": "Art. 4 ust. 1 ustawy wymienia zadania KNF, m.in.: sprawowanie nadzoru, działania na rzecz prawidłowego funkcjonowania i rozwoju rynku, działania edukacyjne i informacyjne (pkt 3a i 4), stwarzanie możliwości polubownego i pojednawczego rozstrzygania sporów (pkt 6), udział w przygotowywaniu projektów aktów prawnych (pkt 5)."
+  },
+  {
+    "id": 12,
+    "question": "Do kiedy Urząd Komisji Nadzoru Finansowego jest zobowiązany przedstawić Prezesowi Rady Ministrów coroczne sprawozdanie ze swojej działalności?",
+    "options": ["Do dnia 31 marca następnego roku", "Do dnia 30 czerwca następnego roku", "Do dnia 31 lipca następnego roku", "Do dnia 31 grudnia tego samego roku"],
+    "correct_answer": "Do dnia 31 lipca następnego roku",
+    "explanation": "Zgodnie z art. 4 ust. 2 ustawy, Urząd Komisji przedstawia Prezesowi Rady Ministrów coroczne sprawozdanie ze swojej działalności oraz działalności Komisji w terminie do dnia 31 lipca następnego roku. Sprawozdanie jest jawne i obejmuje m.in. zestawienie kosztów w podziale na obszary nadzoru."
+  },
+  {
+    "id": 13,
+    "question": "Obowiązek zachowania tajemnicy przez pracowników Urzędu KNF w zakresie informacji chronionych na podstawie odrębnych ustaw:",
+    "options": ["Wygasa z dniem rozwiązania stosunku pracy", "Trwa wyłącznie przez 5 lat po ustaniu pracy", "Trwa również po ustaniu pełnienia funkcji lub rozwiązaniu stosunku pracy", "Dotyczy wyłącznie informacji z zakresu nadzoru bankowego"],
+    "correct_answer": "Trwa również po ustaniu pełnienia funkcji lub rozwiązaniu stosunku pracy",
+    "explanation": "Art. 16 ust. 1 ustawy wyraźnie wskazuje, że obowiązek nieujawniania informacji chronionych trwa również po ustaniu pełnienia funkcji, rozwiązaniu stosunku pracy lub rozwiązaniu umowy cywilnoprawnej. Dotyczy Przewodniczącego, Zastępców, członków Komisji, pracowników i osób na umowach cywilnoprawnych."
+  },
+  {
+    "id": 14,
+    "question": "Postępowanie wyjaśniające prowadzone przez KNF na podstawie art. 18a ustawy nie może trwać dłużej niż:",
+    "options": ["6 miesięcy", "9 miesięcy", "12 miesięcy", "18 miesięcy"],
+    "correct_answer": "12 miesięcy",
+    "explanation": "Zgodnie z art. 18i ust. 1 ustawy, postępowanie wyjaśniające nie może trwać dłużej niż 12 miesięcy od dnia zarządzenia jego przeprowadzenia przez Przewodniczącego Komisji."
+  },
+  {
+    "id": 15,
+    "question": "Akta postępowania wyjaśniającego prowadzonego przez KNF są przechowywane przez okres:",
+    "options": ["3 lat", "5 lat", "10 lat", "15 lat"],
+    "correct_answer": "10 lat",
+    "explanation": "Art. 18i ust. 4 ustawy stanowi, że akta postępowania wyjaśniającego przechowuje się przez okres 10 lat, chyba że przepisy odrębne przewidują inny okres przechowywania określonych informacji."
+  },
+  {
+    "id": 16,
+    "question": "Kto przeprowadza czynności postępowania wyjaśniającego w imieniu KNF?",
+    "options": ["Wyłącznie Przewodniczący Komisji lub jego Zastępcy", "Pracownik Urzędu Komisji na podstawie pisemnego upoważnienia Przewodniczącego", "Dowolny pracownik Urzędu Komisji bez konieczności posiadania upoważnienia", "Zewnętrzny audytor wyznaczony przez Przewodniczącego"],
+    "correct_answer": "Pracownik Urzędu Komisji na podstawie pisemnego upoważnienia Przewodniczącego",
+    "explanation": "Art. 18c ustawy stanowi, że czynności postępowania prowadzi pracownik Urzędu Komisji na podstawie pisemnego upoważnienia Przewodniczącego Komisji. Upoważnienie musi zawierać m.in.: podstawę prawną, oznaczenie organu, datę i miejsce wystawienia, dane pracownika, oznaczenie podmiotu, przedmiot i zakres postępowania, daty oraz pouczenie."
+  },
+  {
+    "id": 17,
+    "question": "Przy Komisji Nadzoru Finansowego tworzy się sąd polubowny. Wskaż, jakie podmioty mogą być stronami postępowania przed tym sądem:",
+    "options": ["Wyłącznie instytucje bankowe i ubezpieczeniowe", "Uczestnicy rynku finansowego, w szczególności w sporach ze stosunków umownych między podmiotami nadzorowanymi a odbiorcami ich usług", "Wyłącznie podmioty posiadające siedzibę w Polsce", "Wyłącznie osoby fizyczne będące konsumentami"],
+    "correct_answer": "Uczestnicy rynku finansowego, w szczególności w sporach ze stosunków umownych między podmiotami nadzorowanymi a odbiorcami ich usług",
+    "explanation": "Art. 18 ust. 1 ustawy stanowi, że przy KNF tworzy się sąd polubowny, którego celem jest rozpatrywanie sporów między uczestnikami rynku finansowego, w szczególności sporów ze stosunków umownych między podmiotami nadzorowanymi a odbiorcami usług. W ramach sądu działa centrum arbitrażu i centrum mediacji."
+  },
+  {
+    "id": 18,
+    "question": "Które z poniższych stanowi przychód Urzędu Komisji Nadzoru Finansowego zgodnie z art. 19a ustawy?",
+    "options": ["Wyłącznie wpłaty od podmiotów nadzorowanych", "Opłaty za egzaminy na maklerów papierów wartościowych, doradców inwestycyjnych i inne, a także wpłaty i opłaty od podmiotów nadzorowanych", "Dotacje celowe z budżetu państwa jako główne źródło finansowania", "Wyłącznie środki z Unii Europejskiej"],
+    "correct_answer": "Opłaty za egzaminy na maklerów papierów wartościowych, doradców inwestycyjnych i inne, a także wpłaty i opłaty od podmiotów nadzorowanych",
+    "explanation": "Art. 19a ust. 2 ustawy wymienia przychody UKNF: wpłaty i opłaty od podmiotów nadzorowanych, opłaty za egzaminy (m.in. dla brokerów ubezpieczeniowych, aktuariuszy, maklerów papierów wartościowych, doradców inwestycyjnych, agentów firm inwestycyjnych, pośredników kredytu hipotecznego), opłaty za interpretacje KNF, darowizny i zapisy, odsetki za zwłokę, przychody z najmu, lokat oraz inne."
+  },
+  {
+    "id": 19,
+    "question": "Kto dokonuje wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego Urzędu Komisji Nadzoru Finansowego?",
+    "options": ["Komisja Nadzoru Finansowego w drodze uchwały", "Przewodniczący Komisji samodzielnie", "Prezes Rady Ministrów", "Minister właściwy do spraw instytucji finansowych"],
+    "correct_answer": "Prezes Rady Ministrów",
+    "explanation": "Zgodnie z art. 19c ust. 2 ustawy, Prezes Rady Ministrów dokonuje wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego Urzędu Komisji. Roczne sprawozdanie finansowe UKNF podlega obligatoryjnemu badaniu przez firmę audytorską."
+  },
+  {
+    "id": 20,
+    "question": "Kto zatwierdza roczne sprawozdanie finansowe Urzędu Komisji Nadzoru Finansowego?",
+    "options": ["Komisja Nadzoru Finansowego", "Sejm Rzeczypospolitej Polskiej", "Prezes Rady Ministrów", "Minister właściwy do spraw finansów publicznych"],
+    "correct_answer": "Prezes Rady Ministrów",
+    "explanation": "Art. 19c ust. 3 ustawy stanowi, że sporządzone przez Komisję roczne sprawozdanie finansowe UKNF jest przekazywane wraz ze sprawozdaniem z badania firmy audytorskiej Prezesowi Rady Ministrów w celu zatwierdzenia."
+  },
+  {
+    "id": 21,
+    "question": "Zgodnie z przepisami karnymi ustawy (art. 20a), kto utrudnia lub udaremnia przeprowadzenie czynności w postępowaniu wyjaśniającym KNF, podlega:",
+    "options": ["Wyłącznie grzywnie do 100 000 zł", "Grzywnie do 500 000 zł, karze ograniczenia wolności albo pozbawienia wolności do lat 2", "Wyłącznie karze pozbawienia wolności do lat 3", "Grzywnie do 1 000 000 zł lub karze pozbawienia wolności do lat 3"],
+    "correct_answer": "Grzywnie do 500 000 zł, karze ograniczenia wolności albo pozbawienia wolności do lat 2",
+    "explanation": "Art. 20a ustawy stanowi wprost: kto utrudnia lub udaremnia przeprowadzenie czynności w postępowaniu wyjaśniającym, podlega grzywnie do 500 000 zł, karze ograniczenia wolności albo pozbawienia wolności do lat 2. Taka sama sankcja dotyczy utrudniania kontroli z art. 3d ust. 2 (art. 20b)."
+  },
+  {
+    "id": 22,
+    "question": "Zgodnie z art. 16 ustawy, w jakim zakresie Przewodniczący Komisji i jego Zastępcy mogą wymieniać między sobą informacje chronione?",
+    "options": ["Wyłącznie za zgodą Prezesa Rady Ministrów", "W zakresie niezbędnym do prawidłowej realizacji celów nadzoru nad rynkiem finansowym", "Wyłącznie w kwestiach dotyczących nadzoru bankowego", "Nie mogą wymieniać żadnych informacji chronionych"],
+    "correct_answer": "W zakresie niezbędnym do prawidłowej realizacji celów nadzoru nad rynkiem finansowym",
+    "explanation": "Art. 16 ust. 2 ustawy stanowi, że Przewodniczący, jego Zastępcy oraz członkowie Komisji mogą dokonywać wzajemnej wymiany informacji, w tym chronionych na podstawie odrębnych ustaw, w zakresie niezbędnym do prawidłowej realizacji celów nadzoru nad rynkiem finansowym."
+  },
+  {
+    "id": 23,
+    "question": "Na żądanie Prezesa Rady Ministrów, Przewodniczący Komisji i jego Zastępcy:",
+    "options": ["Mogą odmówić przekazania informacji powołując się na tajemnicę służbową", "Udostępniają Prezesowi RM informacje uzyskane w związku z uczestnictwem w pracach Komisji, w tym chronione", "Mogą udostępnić wyłącznie informacje nieobjęte tajemnicą bankową", "Są zobowiązani wyłącznie do udostępnienia informacji publicznych"],
+    "correct_answer": "Udostępniają Prezesowi RM informacje uzyskane w związku z uczestnictwem w pracach Komisji, w tym chronione",
+    "explanation": "Art. 16a ust. 1 ustawy stanowi, że na żądanie Prezesa Rady Ministrów, Przewodniczący Komisji i jego Zastępcy udostępniają mu informacje uzyskane w związku z uczestnictwem w pracach Komisji, w tym chronione na podstawie odrębnych ustaw."
+  },
+  {
+    "id": 24,
+    "question": "Komisja Nadzoru Finansowego i Narodowy Bank Polski przekazują sobie nawzajem dokumenty i informacje:",
+    "options": ["Wyłącznie w zakresie informacji publicznych", "W zakresie niezbędnym do wykonywania ich ustawowych zadań, w tym chronionych na podstawie odrębnych ustaw", "Tylko na podstawie odrębnej umowy zatwierdzonej przez Sejm", "Wyłącznie w zakresie nadzoru bankowego"],
+    "correct_answer": "W zakresie niezbędnym do wykonywania ich ustawowych zadań, w tym chronionych na podstawie odrębnych ustaw",
+    "explanation": "Art. 17 ust. 1 ustawy stanowi, że Komisja i Narodowy Bank Polski przekazują sobie dokumenty i informacje, w tym chronione na podstawie odrębnych ustaw, w zakresie niezbędnym do wykonywania ich ustawowych zadań. W celu określenia zasad współpracy Komisja zawiera porozumienia i umowy (art. 17 ust. 3)."
+  },
+  {
+    "id": 25,
+    "question": "Przepis art. 17 ust. 2 ustawy stosuje się odpowiednio do przekazywania dokumentów między Komisją a:",
+    "options": ["Wyłącznie Bankowym Funduszem Gwarancyjnym", "BFG, Ubezpieczeniowym Funduszem Gwarancyjnym, Rzecznikiem Finansowym oraz ministrem właściwym do spraw instytucji finansowych", "Wyłącznie ministrem właściwym ds. finansów i Prezydentem RP", "Wyłącznie zagranicznymi organami nadzoru z UE"],
+    "correct_answer": "BFG, Ubezpieczeniowym Funduszem Gwarancyjnym, Rzecznikiem Finansowym oraz ministrem właściwym do spraw instytucji finansowych",
+    "explanation": "Art. 17 ust. 2 ustawy rozszerza zasadę wymiany informacji (z art. 17 ust. 1 dotyczącego NBP) na: Bankowy Fundusz Gwarancyjny, Ubezpieczeniowy Fundusz Gwarancyjny, Rzecznika Finansowego oraz ministra właściwego do spraw instytucji finansowych."
+  },
+  {
+    "id": 26,
+    "question": "Komisja Nadzoru Finansowego może w drodze uchwały zdecydować o podaniu do publicznej wiadomości informacji chronionych. Informacje te:",
+    "options": ["Mogą zawierać pełne dane osobowe podmiotów naruszających prawo", "Nie mogą zawierać danych osobowych, z wyjątkiem możliwości podania firmy (nazwy) osoby fizycznej prowadzącej działalność", "Muszą zostać uprzednio zaakceptowane przez Prezydenta RP", "Mogą dotyczyć wyłącznie podmiotów zagranicznych"],
+    "correct_answer": "Nie mogą zawierać danych osobowych, z wyjątkiem możliwości podania firmy (nazwy) osoby fizycznej prowadzącej działalność",
+    "explanation": "Art. 16 ust. 6 i 7 ustawy stanowi, że KNF może w drodze uchwały zdecydować o podaniu do wiadomości publicznej informacji chronionych, gdy jest to uzasadnione celem nadzoru. Informacje te nie mogą jednak zawierać danych osobowych. Zakazu tego nie narusza jednak podanie do publicznej wiadomości firmy (nazwy), pod którą prowadzi działalność osoba fizyczna."
+  },
+  {
+    "id": 27,
+    "question": "Siedzibą Urzędu Komisji Nadzoru Finansowego jest:",
+    "options": ["Kraków", "Łódź", "Gdańsk", "Warszawa"],
+    "correct_answer": "Warszawa",
+    "explanation": "Zgodnie z art. 3 ust. 2 ustawy o nadzorze nad rynkiem finansowym, siedzibą Urzędu Komisji jest Warszawa. UKNF jest państwową osobą prawną, której zadaniem jest zapewnienie obsługi Komisji Nadzoru Finansowego i Przewodniczącego KNF."
+  },
+  {
+    "id": 28,
+    "question": "W przypadku naruszenia rozporządzenia 2017/2402 (o sekurytyzacji), Komisja może nałożyć karę pieniężną na osobę prawną w wysokości nieprzekraczającej:",
+    "options": ["Kwoty 10 000 000 zł lub 5% przychodów netto", "Kwoty 20 869 500 zł lub 10% przychodów netto ze sprzedaży i operacji finansowych albo dwukrotności korzyści uzyskanych z naruszenia", "Kwoty 50 000 000 zł lub 20% przychodów netto", "Kwoty 5 000 000 zł bez względu na przychody"],
+    "correct_answer": "Kwoty 20 869 500 zł lub 10% przychodów netto ze sprzedaży i operacji finansowych albo dwukrotności korzyści uzyskanych z naruszenia",
+    "explanation": "Art. 3g ust. 1 pkt 7 lit. a ustawy wskazuje, że w przypadku osoby prawnej lub jednostki organizacyjnej kara nie może przekraczać: kwoty 20 869 500 zł lub 10% przychodów netto ze sprzedaży towarów i usług oraz operacji finansowych (a dla zakładu ubezpieczeń – 10% składki przypisanej brutto) albo dwukrotności korzyści uzyskanych lub strat unikniętych w wyniku naruszenia, gdy możliwe jest ich ustalenie."
+  },
+  {
+    "id": 29,
+    "question": "Legitymacja służbowa pracownika Urzędu KNF zawiera m.in.:",
+    "options": ["Wyłącznie imię, nazwisko i numer legitymacji", "Numer legitymacji, imię i nazwisko, stanowisko służbowe oraz datę ważności legitymacji", "Imię, nazwisko, zdjęcie i numer PESEL pracownika", "Numer legitymacji oraz zakres uprawnień nadzorczych pracownika"],
+    "correct_answer": "Numer legitymacji, imię i nazwisko, stanowisko służbowe oraz datę ważności legitymacji",
+    "explanation": "Art. 10a ust. 2 ustawy określa zawartość legitymacji służbowej pracownika UKNF: numer legitymacji służbowej, imię i nazwisko, stanowisko służbowe pracownika Urzędu Komisji oraz datę ważności legitymacji służbowej."
+  },
+  {
+    "id": 30,
+    "question": "Kto jest zobowiązany do poinformowania Prezesa Rady Ministrów o zidentyfikowaniu ryzyka systemowego w systemie finansowym lub zdarzeniu zagrażającym bezpieczeństwu rynku finansowego?",
+    "options": ["Prezes Narodowego Banku Polskiego", "Przewodniczący Komisji Nadzoru Finansowego", "Minister właściwy do spraw instytucji finansowych", "Bankowy Fundusz Gwarancyjny"],
+    "correct_answer": "Przewodniczący Komisji Nadzoru Finansowego",
+    "explanation": "Zgodnie z art. 17aa ustawy, Przewodniczący Komisji jest obowiązany do poinformowania Prezesa Rady Ministrów o zidentyfikowaniu ryzyka systemowego w systemie finansowym lub jego otoczeniu oraz o każdym zdarzeniu, które może zagrozić bezpieczeństwu lub skutkuje zagrożeniem bezpieczeństwa rynku finansowego, w tym zagrożeniu interesów znacznej liczby inwestorów indywidualnych."
+  }
+]
