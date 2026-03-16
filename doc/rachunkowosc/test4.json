@@ -1,0 +1,392 @@
+[
+  {
+    "id": 91,
+    "question": "Ile elementów obejmuje skonsolidowane sprawozdanie finansowe grupy kapitałowej (Art. 55 ust. 2 UoR)?",
+    "options": [
+      "3 elementy: bilans, RZiS i informacja dodatkowa",
+      "4 elementy: bilans, RZiS, RPP i zestawienie zmian w kapitale",
+      "5 elementów: bilans, RZiS, RPP, zestawienie zmian w kapitale własnym i informacja dodatkowa",
+      "2 elementy: bilans i rachunek zysków i strat"
+    ],
+    "correct_answer": "5 elementów: bilans, RZiS, RPP, zestawienie zmian w kapitale własnym i informacja dodatkowa",
+    "explanation": "Art. 55 ust. 2 UoR: skonsolidowane SF składa się z: (1) skonsolidowanego bilansu, (2) skonsolidowanego RZiS, (3) skonsolidowanego RPP, (4) zestawienia zmian w skonsolidowanym kapitale własnym, (5) informacji dodatkowej. Skonsolidowane SF zawsze ma wszystkie 5 elementów. (Streszczenie UoR, Rozdz. 6, Art. 55 ust. 2).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 92,
+    "question": "Kto ma OBOWIĄZEK sporządzać skonsolidowane sprawozdania finansowe zgodnie z MSR (Art. 55 ust. 6 UoR)?",
+    "options": [
+      "Każda jednostka dominująca posiadająca co najmniej jedną jednostkę zależną",
+      "Emitenci papierów wartościowych zamierzający ubiegać się lub ubiegający się o dopuszczenie do obrotu na rynkach regulowanych EOG",
+      "Wyłącznie banki państwowe nadzorowane przez NBP",
+      "Wszystkie spółki akcyjne niezależnie od struktury grupy"
+    ],
+    "correct_answer": "Emitenci papierów wartościowych zamierzający ubiegać się lub ubiegający się o dopuszczenie do obrotu na rynkach regulowanych EOG",
+    "explanation": "Art. 55 ust. 6 UoR: „Skonsolidowane sprawozdania finansowe emitentów papierów wartościowych zamierzających ubiegać się lub ubiegających się o ich dopuszczenie do obrotu na jednym z rynków regulowanych krajów Europejskiego Obszaru Gospodarczego sporządzane są zgodnie z MSR“. Dotyczy to w szczególności banków będących emitentami publicznymi. (Streszczenie UoR, Rozdz. 6, Art. 55 ust. 6).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 93,
+    "question": "Jednostki dominujące niższego szczebla, wchodzące w skład grupy sporządzającej skonsolidowane SF wg MSR (Art. 55 ust. 7 UoR):",
+    "options": [
+      "Mają obowiązek sporządzać skonsolidowane SF wg MSR",
+      "Mogą sporządzać skonsolidowane SF wg MSR, jeśli zdecyduje o tym organ zatwierdzający jednostki dominującej",
+      "Są zwolnione z obowiązku sporządzania skonsolidowanego SF",
+      "Muszą uzyskać zgodę Ministra Finansów na stosowanie MSR"
+    ],
+    "correct_answer": "Mogą sporządzać skonsolidowane SF wg MSR, jeśli zdecyduje o tym organ zatwierdzający jednostki dominującej",
+    "explanation": "Art. 55 ust. 7 UoR: jednostki dominujące niższego szczebla, wchodzące w skład grupy, w której dominująca wyższego szczebla sporządza skonsolidowane SF wg MSR, MOGĄ (nie muszą) sporządzać skonsolidowane SF wg MSR. Decyduje organ zatwierdzający jednostki dominującej (Art. 55 ust. 8). (Streszczenie UoR, Rozdz. 6, Art. 55 ust. 7).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 94,
+    "question": "W jakim terminie jednostka dominująca sporządza skonsolidowane sprawozdanie finansowe (Art. 63c ust. 2 UoR)?",
+    "options": [
+      "W ciągu 1 miesiąca od dnia bilansowego",
+      "Nie później niż w ciągu 3 miesięcy od dnia bilansowego",
+      "W ciągu 6 miesięcy od dnia bilansowego",
+      "Razem z jednostkowym SF, do końca roku następnego"
+    ],
+    "correct_answer": "Nie później niż w ciągu 3 miesięcy od dnia bilansowego",
+    "explanation": "Art. 63c ust. 2 UoR: „Jednostka dominująca sporządza skonsolidowane sprawozdanie finansowe, nie później niż w ciągu 3 miesięcy od dnia bilansowego, na który jednostka dominująca sporządza roczne sprawozdanie finansowe“. Zatwierdzenie następuje w ciągu 6 miesięcy. (Streszczenie UoR, Rozdz. 6, Art. 63c ust. 2).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 95,
+    "question": "Jaką metodą wykazuje się udziały w jednostkach stowarzyszonych w skonsolidowanym SF (Art. 59 ust. 3 UoR)?",
+    "options": [
+      "Metodą konsolidacji pełnej",
+      "Metodą praw własności",
+      "Metodą konsolidacji proporcjonalnej",
+      "Po cenie nabycia bez żadnych korekt"
+    ],
+    "correct_answer": "Metodą praw własności",
+    "explanation": "Art. 59 ust. 3 UoR: „Udziały w jednostce stowarzyszonej wykazuje się w skonsolidowanym sprawozdaniu finansowym metodą praw własności“. Metoda praw własności: korekta wartości udziałów o udział w wyniku i wypłacone dywidendy. (Streszczenie UoR, Rozdz. 6, Art. 59 ust. 3 i Art. 63).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 96,
+    "question": "Jaką metodą konsoliduje się dane jednostek zależnych w skonsolidowanym SF (Art. 59 ust. 1 UoR)?",
+    "options": [
+      "Metodą praw własności",
+      "Metodą konsolidacji pełnej",
+      "Metodą konsolidacji proporcjonalnej",
+      "Metodą łączenia udziałów"
+    ],
+    "correct_answer": "Metodą konsolidacji pełnej",
+    "explanation": "Art. 59 ust. 1 UoR: „Dane jednostki zależnej konsoliduje się metodą konsolidacji pełnej, o której mowa w art. 60“. Metoda pełna: sumowanie 100% pozycji SF, następnie wyłączenia konsolidacyjne i wykazanie udziałów mniejszości. (Streszczenie UoR, Rozdz. 6, Art. 59 ust. 1 i Art. 60).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 97,
+    "question": "Na czym polega metoda konsolidacji proporcjonalnej stosowana do jednostek współzależnych (Art. 61 UoR)?",
+    "options": [
+      "Pełne sumowanie danych jednostki współzależnej",
+      "Sumowanie wyłącznie proporcjonalnej do udziału części aktywów, pasywów, przychodów i kosztów jednostki współzależnej",
+      "Wykazanie udziałów w aktywach netto metodą praw własności",
+      "Wyłączenie jednostki współzależnej z konsolidacji"
+    ],
+    "correct_answer": "Sumowanie wyłącznie proporcjonalnej do udziału części aktywów, pasywów, przychodów i kosztów jednostki współzależnej",
+    "explanation": "Art. 61 ust. 1 UoR: metoda proporcjonalna polega na sumowaniu proporcjonalnej do posiadanych udziałów części poszczególnych pozycji SF jednostki współzależnej z pełnymi danymi jednostki dominującej i jednostek zależnych. Stosowana wyłącznie do jednostek WSPÓŁZALEŻNYCH. (Streszczenie UoR, Rozdz. 6, Art. 61).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 98,
+    "question": "Kiedy jednostka dominująca może nie sporządzać skonsolidowanego SF ze względu na mały rozmiar grupy (Art. 56 ust. 1 UoR)?",
+    "options": [
+      "Gdy suma aktywów jednostki dominującej jest niższa niż 50 mln PLN",
+      "Gdy łączne dane grupy (przed wyłączeniami) nie przekraczają co najmniej dwóch z: 38 400 000 PLN aktywów, 76 800 000 PLN przychodów, 250 osób",
+      "Gdy jednostka dominująca ma tylko jedną jednostkę zależną",
+      "Wyłącznie gdy są spełnione wszystkie trzy kryteria łącznie"
+    ],
+    "correct_answer": "Gdy łączne dane grupy (przed wyłączeniami) nie przekraczają co najmniej dwóch z: 38 400 000 PLN aktywów, 76 800 000 PLN przychodów, 250 osób",
+    "explanation": "Art. 56 ust. 1 pkt 1 UoR: jednostka dominująca może nie sporządzać skonsolidowanego SF jeśli łączne dane (przed wyłączeniami konsolidacyjnymi) nie przekraczają co najmniej dwóch z trzech: (a) 38 400 000 PLN aktywów, (b) 76 800 000 PLN przychodów, (c) 250 osób. (Streszczenie UoR, Rozdz. 6, Art. 56 ust. 1).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 99,
+    "question": "Banki będące emitentami papierów wartościowych dopuszczonych do obrotu na rynkach regulowanych EOG – jakie są ich obowiązki w zakresie stosowania MSR?",
+    "options": [
+      "Banki podlegają obowiązkowemu badaniu skonsolidowanego SF wg UoR",
+      "Banki te MAJĄ OBOWIĄZEK sporządzać skonsolidowane SF wg MSR (IFRS)",
+      "Banki mogą wybrać między UoR a MSR za zgodą KNF",
+      "Tylko banki z aktywami przekraczającymi 100 mld PLN"
+    ],
+    "correct_answer": "Banki te MAJĄ OBOWIĄZEK sporządzać skonsolidowane SF wg MSR (IFRS)",
+    "explanation": "Art. 55 ust. 6 UoR: banki będące emitentami papierów wartościowych dopuszczonych do obrotu na rynkach regulowanych EOG MUSZĄ (obowiązek) sporządzać skonsolidowane SF wg MSR. Jest to połączenie obowiązku stosowania MSR z obowiązkiem badania z Art. 64. (Streszczenie UoR, Rozdz. 6, Art. 55 ust. 6).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 100,
+    "question": "Co obejmuje „wartość firmy“ wykazywana w aktywach skonsolidowanego bilansu przy metodzie konsolidacji pełnej (Art. 60 ust. 2 UoR)?",
+    "options": [
+      "Znaki towarowe i patenty grupy kapitałowej",
+      "Nadwyżkę wartości udziałów nad odpowiadającą im częścią aktywów netto wycenionych według wartości godziwych",
+      "Reputację i wartość marki grupy kapitałowej",
+      "Różnicę między sumą aktywów wszystkich spółek grupy"
+    ],
+    "correct_answer": "Nadwyżkę wartości udziałów nad odpowiadającą im częścią aktywów netto wycenionych według wartości godziwych",
+    "explanation": "Art. 60 ust. 2 pkt 1 UoR: „nadwyżkę wartości udziałów nad odpowiadającą im częścią aktywów netto wycenionych według ich wartości godziwych – wartość firmy, wykazuje się w aktywach skonsolidowanego bilansu w odrębnej pozycji aktywów trwałych“. (Streszczenie UoR, Rozdz. 6, Art. 60 ust. 2).",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 101,
+    "question": "Które jednostki mają bezwzględny obowiązek badania sprawozdania finansowego niezależnie od rozmiaru (Art. 64 ust. 1 pkt 1 i 3 UoR)?",
+    "options": [
+      "Wszystkie spółki z ograniczoną odpowiedzialnością",
+      "Banki, zakłady ubezpieczeń, zakłady reasekuracji i spółki akcyjne",
+      "Tylko spółki publiczne notowane na giełdzie",
+      "Spółki zatrudniające ponad 250 pracowników"
+    ],
+    "correct_answer": "Banki, zakłady ubezpieczeń, zakłady reasekuracji i spółki akcyjne",
+    "explanation": "Art. 64 ust. 1 pkt 1 i 3 UoR: obowiązkowemu badaniu podlegają m.in. banki krajowe, zakłady ubezpieczeń i reasekuracji oraz spółki akcyjne (z wyjątkiem spółek w organizacji na dzień bilansowy). Obowiązek dla spółek akcyjnych jest bezwzględny – niezależnie od rozmiarów. (Streszczenie UoR, Rozdz. 7, Art. 64 ust. 1 pkt 1 i 3).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 102,
+    "question": "Jakie są kryteria obowiązkowego badania SF dla „pozostałych jednostek“ (Art. 64 ust. 1 pkt 4 UoR)?",
+    "options": [
+      "Zatrudnienie powyżej 100 osób lub suma aktywów powyżej 10 mln EUR",
+      "Spełnienie co najmniej dwóch z trzech warunków: zatrudnienie ≥50, suma aktywów ≥3 125 000 EUR, przychody netto ≥6 250 000 EUR",
+      "Przekroczenie jednego z trzech progów w poprzednim roku",
+      "Tylko przychody netto powyżej 5 mln EUR"
+    ],
+    "correct_answer": "Spełnienie co najmniej dwóch z trzech warunków: zatrudnienie ≥50, suma aktywów ≥3 125 000 EUR, przychody netto ≥6 250 000 EUR",
+    "explanation": "Art. 64 ust. 1 pkt 4 UoR: obowiązek badania dotyczy jednostek, które w poprzednim roku spełniły co najmniej DWA z trzech: (a) zatrudnienie ≥50 osób, (b) suma aktywów ≥3 125 000 EUR, (c) przychody netto ≥6 250 000 EUR. Muszą być spełnione co najmniej 2 warunki jednocześnie. (Streszczenie UoR, Rozdz. 7, Art. 64 ust. 1 pkt 4).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 103,
+    "question": "Ile wynosi próg przychodów netto ze sprzedaży przy obowiązku badania SF dla pozostałych jednostek (Art. 64 ust. 1 pkt 4 lit. c UoR)?",
+    "options": [
+      "Równowartość 2 000 000 EUR",
+      "Równowartość 5 000 000 EUR",
+      "Równowartość 6 250 000 EUR",
+      "Równowartość 10 000 000 EUR"
+    ],
+    "correct_answer": "Równowartość 6 250 000 EUR",
+    "explanation": "Art. 64 ust. 1 pkt 4 lit. c UoR: jednym z trzech kryteriów (co najmniej dwa muszą być spełnione) jest: „przychody netto ze sprzedaży towarów i produktów oraz operacji finansowych za rok obrotowy stanowiły równowartość w walucie polskiej co najmniej 6 250 000 euro“. (Streszczenie UoR, Rozdz. 7, Art. 64 ust. 1 pkt 4c).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 104,
+    "question": "Jaki jest próg sumy aktywów bilansu przy obowiązku badania SF dla pozostałych jednostek (Art. 64 ust. 1 pkt 4 lit. b UoR)?",
+    "options": [
+      "Równowartość 2 000 000 EUR",
+      "Równowartość 3 125 000 EUR",
+      "Równowartość 5 000 000 EUR",
+      "Równowartość 8 000 000 EUR"
+    ],
+    "correct_answer": "Równowartość 3 125 000 EUR",
+    "explanation": "Art. 64 ust. 1 pkt 4 lit. b UoR: jednym z trzech kryteriów (co najmniej dwa muszą być spełnione) jest: „suma aktywów bilansu na koniec roku obrotowego stanowiła równowartość w walucie polskiej co najmniej 3 125 000 euro“. (Streszczenie UoR, Rozdz. 7, Art. 64 ust. 1 pkt 4b).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 105,
+    "question": "Kto dokonuje wyboru firmy audytorskiej do badania sprawozdania finansowego (Art. 66 ust. 4 UoR)?",
+    "options": [
+      "Kierownik jednostki (prezes zarządu)",
+      "Organ zatwierdzający sprawozdanie finansowe (np. walne zgromadzenie)",
+      "Główny księgowy lub dyrektor finansowy",
+      "Rada nadzorcza bez udziału walnego zgromadzenia"
+    ],
+    "correct_answer": "Organ zatwierdzający sprawozdanie finansowe (np. walne zgromadzenie)",
+    "explanation": "Art. 66 ust. 4 UoR: „Wyboru firmy audytorskiej do przeprowadzenia badania sprawozdania finansowego dokonuje organ zatwierdzający sprawozdanie finansowe jednostki, chyba że statut, umowa lub inne wiążące jednostkę przepisy prawa stanowią inaczej“. Nie jest to kompetencja kierownika jednostki. (Streszczenie UoR, Rozdz. 7, Art. 66 ust. 4).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 106,
+    "question": "W jakim terminie kierownik jednostki zawiera umowę z firmą audytorską (Art. 66 ust. 5 UoR)?",
+    "options": [
+      "Najpóźniej 30 dni przed dniem bilansowym",
+      "W terminie umożliwiającym firmie audytorskiej udział w inwentaryzacji znaczących składników majątkowych",
+      "Do końca września każdego roku",
+      "W ciągu 3 miesięcy od walnego zgromadzenia zatwierdzającego SF"
+    ],
+    "correct_answer": "W terminie umożliwiającym firmie audytorskiej udział w inwentaryzacji znaczących składników majątkowych",
+    "explanation": "Art. 66 ust. 5 UoR: „Kierownik jednostki zawiera z firmą audytorską umowę o badanie sprawozdania finansowego w terminie umożliwiającym firmie audytorskiej udział w inwentaryzacji znaczących składników majątkowych“. Udział w inwentaryzacji to kluczowe uprawnienie i obowiązek audytora. (Streszczenie UoR, Rozdz. 7, Art. 66 ust. 5).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 107,
+    "question": "Jaki jest status klauzul umownych ograniczających wybór firmy audytorskiej przez uprawniony organ (Art. 66 ust. 5a UoR)?",
+    "options": [
+      "Są ważne, jeśli zatwierdzi je organ zatwierdzający",
+      "Są nieważne z mocy prawa",
+      "Wymagają zgody KNF aby być ważne",
+      "Są ważne tylko przez jeden rok"
+    ],
+    "correct_answer": "Są nieważne z mocy prawa",
+    "explanation": "Art. 66 ust. 5a UoR: „Za nieważne z mocy prawa uznaje się wszelkie klauzule umowne w umowach zawartych przez badaną jednostkę, które ograniczałyby możliwość wyboru firmy audytorskiej przez organ dokonujący wyboru firmy audytorskiej“. Ochrona niezależności wyboru jest bezwzględna. (Streszczenie UoR, Rozdz. 7, Art. 66 ust. 5a).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 108,
+    "question": "W jakich przypadkach można rozwiązać umowę o badanie sprawozdania finansowego (Art. 66 ust. 7 UoR)?",
+    "options": [
+      "Zawsze, z zachowaniem 3-miesięcznego okresu wypowiedzenia",
+      "Tylko gdy firma audytorska naruszy przepisy o niezależności",
+      "Jedynie w sytuacji zaistnienia uzasadnionej podstawy",
+      "Wyłącznie za zgodą KNF"
+    ],
+    "correct_answer": "Jedynie w sytuacji zaistnienia uzasadnionej podstawy",
+    "explanation": "Art. 66 ust. 7 UoR: „Rozwiązanie umowy o badanie sprawozdania finansowego jest możliwe jedynie w sytuacji zaistnienia uzasadnionej podstawy“. Uzasadnioną podstawą są m.in.: zdarzenia uniemożliwiające spełnienie wymogów prawa/etyki, niedotrzymanie warunków umowy, przekształcenia lub zmiany właścicielskie. (Streszczenie UoR, Rozdz. 7, Art. 66 ust. 7).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 109,
+    "question": "Komu należy niezwłocznie przekazać informację o rozwiązaniu umowy o badanie SF (Art. 66 ust. 9 UoR)?",
+    "options": [
+      "Ministrowi Finansów",
+      "Komisji Nadzoru Finansowego",
+      "Polskiej Agencji Nadzoru Audytowego (PANA)",
+      "Zarządowi jednostki dominującej"
+    ],
+    "correct_answer": "Polskiej Agencji Nadzoru Audytowego (PANA)",
+    "explanation": "Art. 66 ust. 9 UoR: „O rozwiązaniu umowy o badanie sprawozdania finansowego kierownik jednostki oraz firma audytorska informują niezwłocznie, wraz z podaniem stosownego wyjaśnienia przyczyn rozwiązania umowy, Polską Agencję Nadzoru Audytowego“. PANA jest organem nadzoru nad biegłymi rewidentami i firmami audytorskimi. (Streszczenie UoR, Rozdz. 7, Art. 66 ust. 9).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 110,
+    "question": "Jaki jest skutek badania sprawozdania finansowego przeprowadzonego z naruszeniem zasad niezależności biegłego rewidenta (Art. 66 ust. 6 UoR)?",
+    "options": [
+      "Badanie jest ważne, ale wymagane jest ponowne badanie",
+      "Badanie jest nieważne z mocy prawa",
+      "Badanie wymaga zatwierdzenia przez organ nadzoru",
+      "Kierownik jednostki ponosi odpowiedzialność karną"
+    ],
+    "correct_answer": "Badanie jest nieważne z mocy prawa",
+    "explanation": "Art. 66 ust. 6 UoR: badanie przeprowadzone z naruszeniem przepisów o niezależności biegłego rewidenta „jest nieważne z mocy prawa“. Skutek bezwzględny – bez możliwości sanacji czy zatwierdzenia przez organ nadzoru. (Streszczenie UoR, Rozdz. 7, Art. 66 ust. 6).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 111,
+    "question": "Jakie obowiązki informacyjne ma kierownik jednostki wobec biegłego rewidenta (Art. 67 ust. 1 UoR)?",
+    "options": [
+      "Wyłącznie udostępnienie ksiąg rachunkowych i dokumentów",
+      "Zapewnienie udostępnienia ksiąg rachunkowych, dokumentów i wszelkich informacji niezbędnych do badania",
+      "Udostępnienie wyłącznie sprawozdania finansowego i polityki rachunkowości",
+      "Obowiązek istnieje tylko jeśli biegły złoży pisemny wniosek"
+    ],
+    "correct_answer": "Zapewnienie udostępnienia ksiąg rachunkowych, dokumentów i wszelkich informacji niezbędnych do badania",
+    "explanation": "Art. 67 ust. 1 UoR: „Kierownik badanej jednostki zapewnia udostępnienie biegłemu rewidentowi (...) ksiąg rachunkowych oraz dokumentów stanowiących podstawę dokonanych w nich zapisów oraz wszelkich innych informacji i dokumentów niezbędnych do badania“. (Streszczenie UoR, Rozdz. 7, Art. 67 ust. 1).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 112,
+    "question": "Jakie uprawnienie ma biegły rewident w zakresie uzyskiwania informacji od kontrahentów badanej jednostki (Art. 67 ust. 2 UoR)?",
+    "options": [
+      "Brak – biegły może uzyskiwać informacje wyłącznie od kierownika jednostki",
+      "Biegły jest uprawniony do uzyskania informacji od kontrahentów, banków i doradców prawnych – z upoważnienia kierownika badanej jednostki",
+      "Biegły może żądać informacji bezpośrednio bez upoważnienia",
+      "Tylko KNF może zobowiązać kontrahentów do udzielenia informacji"
+    ],
+    "correct_answer": "Biegły jest uprawniony do uzyskania informacji od kontrahentów, banków i doradców prawnych – z upoważnienia kierownika badanej jednostki",
+    "explanation": "Art. 67 ust. 2 UoR: „Biegły rewident jest uprawniony do uzyskania informacji związanych z przebiegiem badania od kontrahentów badanej jednostki, w tym także od banków i jej doradców prawnych – z upoważnienia kierownika jednostki“. Kluczowe: potrzebne jest upoważnienie kierownika. (Streszczenie UoR, Rozdz. 7, Art. 67 ust. 2).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 113,
+    "question": "Jakie obowiązkowe badanie SF dotyczy spółdzielczych kas oszczędnościowo-kredytowych (Art. 64 ust. 1 pkt 1a UoR)?",
+    "options": [
+      "SKOK-i nie mają obowiązku badania SF",
+      "SKOK-i podlegają obowiązkowemu badaniu SF niezależnie od rozmiaru",
+      "Tylko duże SKOK-i spełniające 2 z 3 kryteriów ilościowych",
+      "SKOK-i podlegają badaniu wyłącznie na żądanie Kasy Krajowej"
+    ],
+    "correct_answer": "SKOK-i podlegają obowiązkowemu badaniu SF niezależnie od rozmiaru",
+    "explanation": "Art. 64 ust. 1 pkt 1a UoR: „Badaniu podlegają roczne (...) sprawozdania finansowe (...) 1a) spółdzielczych kas oszczędnościowo-kredytowych“. Obowiązek jest bezwzględny, bez progów ilościowych, podobnie jak dla banków i zakładów ubezpieczeń. (Streszczenie UoR, Rozdz. 7, Art. 64 ust. 1 pkt 1a).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 114,
+    "question": "Co rozumie się przez „jednostkę mikro“ w kontekście zasad wyceny (Art. 28a UoR)?",
+    "options": [
+      "Jednostka stosująca uproszczone zasady wyceny, zawsze zgodne z UoR",
+      "Jednostka, która NIE wycenia aktywów i pasywów według wartości godziwej i skorygowanej ceny nabycia",
+      "Jednostka stosująca wyłącznie MSR do wszystkich kategorii aktywów",
+      "Jednostka stosująca takie same zasady jak jednostki małe"
+    ],
+    "correct_answer": "Jednostka, która NIE wycenia aktywów i pasywów według wartości godziwej i skorygowanej ceny nabycia",
+    "explanation": "Art. 28a UoR: „Jednostka mikro nie wycenia aktywów i pasywów według wartości godziwej i skorygowanej ceny nabycia“. To ograniczenie metod wyceny jest przywilejem (uproszczeniem) dla jednostek mikro – stosują tylko cenę historyczną. (Streszczenie UoR, Rozdz. 4, Art. 28a).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 115,
+    "question": "Co oznacza pojęcie „zasady istotności“ w rachunkowości (Art. 4 ust. 4a UoR)?",
+    "options": [
+      "Każda operacja musi być ujęta bez względu na kwotę",
+      "Informacje wykazywane w SF uznaje się za istotne, gdy ich pominięcie lub zniekształcenie mogłoby wpłynąć na decyzje ekonomiczne podejmowane na ich podstawie",
+      "Jednostka może pomijać wszelkie operacje o wartości poniżej 1000 PLN",
+      "Zasada ta dotyczy wyłącznie badania SF przez biegłego rewidenta"
+    ],
+    "correct_answer": "Informacje wykazywane w SF uznaje się za istotne, gdy ich pominięcie lub zniekształcenie mogłoby wpłynąć na decyzje ekonomiczne podejmowane na ich podstawie",
+    "explanation": "Art. 4 ust. 4a UoR: „Stosując przepisy ustawy, jednostka kieruje się zasadą istotności. Informacje wykazywane w sprawozdaniu finansowym (...) należy uznać za istotne, gdy ich pominięcie lub zniekształcenie może wpłynąć na decyzje podejmowane na ich podstawie przez użytkowników tych sprawozdań“. (Streszczenie UoR, Rozdz. 1, Art. 4 ust. 4a).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 116,
+    "question": "Jakie elementy SF są dodatkowe (wymagane tylko dla jednostek podlegających badaniu) – Art. 45 ust. 3 UoR?",
+    "options": [
+      "Bilans i rachunek zysków i strat",
+      "Zestawienie zmian w kapitale (funduszu) własnym oraz rachunek przepływów pieniężnych",
+      "Informacja dodatkowa i sprawozdanie z działalności",
+      "Sprawozdanie zarządu i opinia biegłego rewidenta"
+    ],
+    "correct_answer": "Zestawienie zmian w kapitale (funduszu) własnym oraz rachunek przepływów pieniężnych",
+    "explanation": "Art. 45 ust. 3 UoR: „Sprawozdanie finansowe jednostek określonych w art. 64 ust. 1, podlegające corocznemu badaniu, obejmuje ponadto zestawienie zmian w kapitale (funduszu) własnym oraz rachunek przepływów pieniężnych“. Te dwa elementy są dodatkowe – tylko dla jednostek objętych obowiązkiem badania. (Streszczenie UoR, Rozdz. 5, Art. 45 ust. 3).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 117,
+    "question": "Kto podpisuje roczne sprawozdanie finansowe w jednostce z wieloosobowym organem zarządzającym (Art. 52 ust. 2 UoR)?",
+    "options": [
+      "Wystarczy podpis głównego księgowego i jednego członka zarządu",
+      "Wszyscy członkowie organu wieloosobowego kierującego jednostką oraz osoba prowadząca księgi",
+      "Tylko prezes zarządu i główny księgowy",
+      "Wyłącznie biegły rewident badający sprawozdanie"
+    ],
+    "correct_answer": "Wszyscy członkowie organu wieloosobowego kierującego jednostką oraz osoba prowadząca księgi",
+    "explanation": "Art. 52 ust. 2 UoR: „Sprawozdanie finansowe podpisuje – podając zarazem datę podpisu – osoba, której powierzono prowadzenie ksiąg rachunkowych, i kierownik jednostki, a jeżeli jednostką kieruje organ wieloosobowy – wszyscy członkowie tego organu“. (Streszczenie UoR, Rozdz. 5, Art. 52 ust. 2).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 118,
+    "question": "Co obejmuje „informacja dodatkowa“ jako element sprawozdania finansowego (Art. 48 ust. 1 UoR)?",
+    "options": [
+      "Wyłącznie wprowadzenie do sprawozdania finansowego",
+      "Wprowadzenie do sprawozdania finansowego oraz dodatkowe informacje i objaśnienia",
+      "Rachunek przepływów pieniężnych i zestawienie zmian w kapitale",
+      "Opis ryzyk i komentarz zarządu do wyników"
+    ],
+    "correct_answer": "Wprowadzenie do sprawozdania finansowego oraz dodatkowe informacje i objaśnienia",
+    "explanation": "Art. 48 ust. 1 UoR: „Informacja dodatkowa powinna zawierać (...) 1) wprowadzenie do sprawozdania finansowego, zawierające opis przyjętych zasad (polityki) rachunkowości; 2) dodatkowe informacje i objaśnienia“ (m.in. do pozycji bilansu, RZiS, propozycja podziału zysku, informacje o pracownikach). (Streszczenie UoR, Rozdz. 5, Art. 48 ust. 1).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 119,
+    "question": "Jakie są uzasadnione podstawy rozwiązania umowy o badanie SF wymienione w Art. 66 ust. 7 UoR?",
+    "options": [
+      "Wyłącznie gdy biegły rewident odmawia wydania opinii",
+      "Zdarzenia uniemożliwiające spełnienie wymogów prawa/etyki, niedotrzymanie warunków umowy, przekształcenia lub zmiany właścicielskie",
+      "Gdy jednostka ponosi straty finansowe i nie może zapłacić za badanie",
+      "Wyłącznie za porozumieniem obu stron bez podania przyczyny"
+    ],
+    "correct_answer": "Zdarzenia uniemożliwiające spełnienie wymogów prawa/etyki, niedotrzymanie warunków umowy, przekształcenia lub zmiany właścicielskie",
+    "explanation": "Art. 66 ust. 7 UoR: uzasadnioną podstawą rozwiązania umowy są m.in.: (1) zdarzenia uniemożliwiające spełnienie wymogów prawa, etyki lub niezależności, (2) niedotrzymanie warunków umowy (innych niż skutkujące odmową opinii), (3) przekształcenia, zmiany właścicielskie lub organizacyjne uzasadniające zmianę firmy. (Streszczenie UoR, Rozdz. 7, Art. 66 ust. 7).",
+    "topic": "Art. 64/66 — Badanie SF"
+  },
+  {
+    "id": 120,
+    "question": "Jaka jest kluczowa różnica między metodą łączenia udziałów a metodą nabycia w zakresie wartości firmy?",
+    "options": [
+      "Obie metody mogą prowadzić do powstania wartości firmy lub ujemnej wartości firmy",
+      "Przy metodzie łączenia udziałów wartość firmy NIE powstaje; przy metodzie nabycia może powstać wartość firmy lub ujemna wartość firmy",
+      "Tylko metoda łączenia udziałów prowadzi do powstania wartości firmy",
+      "Metody różnią się wyłącznie sposobem ujęcia kosztów połączenia"
+    ],
+    "correct_answer": "Przy metodzie łączenia udziałów wartość firmy NIE powstaje; przy metodzie nabycia może powstać wartość firmy lub ujemna wartość firmy",
+    "explanation": "Art. 44b (metoda nabycia): różnica między ceną nabycia a wartością godziwą aktywów netto daje wartość firmy lub ujemną wartość firmy. Art. 44c ust. 1 (metoda łączenia udziałów): sumuje się wartości historyczne po doprowadzeniu do jednolitych metod wyceny – brak wyceny do wartości godziwych, a tym samym brak mechanizmu powstawania wartości firmy. (Streszczenie UoR, Rozdz. 4a, Art. 44b i Art. 44c).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  }
+]

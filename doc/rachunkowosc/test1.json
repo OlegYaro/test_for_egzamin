@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "question": "Zgodnie z Art. 3 ust. 1 pkt 29 ustawy o rachunkowości, „aktywa netto“ to:",
+    "options": [
+      "Aktywa jednostki pomniejszone o zobowiązania długoterminowe",
+      "Aktywa jednostki pomniejszone o zobowiązania, odpowiadające wartościowo kapitałowi (funduszowi) własnemu",
+      "Aktywa trwałe pomniejszone o amortyzację",
+      "Suma aktywów obrotowych i inwestycji krótkoterminowych"
+    ],
+    "correct_answer": "Aktywa jednostki pomniejszone o zobowiązania, odpowiadające wartościowo kapitałowi (funduszowi) własnemu",
+    "explanation": "Art. 3 ust. 1 pkt 29 UoR stanowi wprost: „aktywach netto – rozumie się przez to aktywa jednostki pomniejszone o zobowiązania, odpowiadające wartościowo kapitałowi (funduszowi) własnemu“. Aktywa netto = Aktywa ogółem − Zobowiązania ogółem = Kapitał własny. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 29).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 2,
+    "question": "Według Art. 3 ust. 1 pkt 39 UoR „jednostka zależna“ to:",
+    "options": [
+      "Jednostka współkontrolowana przez wspólników na podstawie umowy spółki",
+      "Jednostka, na którą znaczący inwestor wywiera znaczący wpływ",
+      "Jednostka będąca spółką handlową, kontrolowana przez jednostkę dominującą",
+      "Jednostka powiązana kapitałowo z inną jednostką w grupie kapitałowej"
+    ],
+    "correct_answer": "Jednostka będąca spółką handlową, kontrolowana przez jednostkę dominującą",
+    "explanation": "Art. 3 ust. 1 pkt 39 UoR: „jednostce zależnej – rozumie się przez to jednostkę będącą spółką handlową lub podmiotem utworzonym i działającym zgodnie z przepisami obcego prawa handlowego, kontrolowaną przez jednostkę dominującą“. Kluczem jest pojęcie KONTROLI – odróżnia jednostkę zależną od współzależnej (współkontrola) i stowarzyszonej (znaczący wpływ). (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 39).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 3,
+    "question": "Zgodnie z Art. 3 ust. 1 pkt 37c UoR „wspólnik jednostki współzależnej“ to:",
+    "options": [
+      "Każdy udziałowiec posiadający ponad 20% udziałów w jednostce",
+      "Jednostka będąca spółką handlową lub przedsiębiorstwem państwowym, sprawująca wraz z innymi udziałowcami współkontrolę nad jednostką współzależną",
+      "Jednostka posiadająca ponad 50% głosów na walnym zgromadzeniu",
+      "Jednostka wywierająca znaczący wpływ bez sprawowania kontroli"
+    ],
+    "correct_answer": "Jednostka będąca spółką handlową lub przedsiębiorstwem państwowym, sprawująca wraz z innymi udziałowcami współkontrolę nad jednostką współzależną",
+    "explanation": "Art. 3 ust. 1 pkt 37c UoR: „wspólniku jednostki współzależnej – rozumie się przez to jednostkę będącą spółką handlową lub przedsiębiorstwem państwowym, sprawującą wraz z innymi udziałowcami współkontrolę nad jednostką współzależną“. Sprawuje WRAZ Z INNYMI (= współkontrola). (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 37c/37f).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 4,
+    "question": "Na podstawie Art. 3 ust. 1 pkt 40 UoR „jednostka współzależna“ to:",
+    "options": [
+      "Jednostka kontrolowana przez jedną jednostkę dominującą",
+      "Jednostka, która jest współkontrolowana przez wspólników na podstawie zawartej pomiędzy nimi umowy, umowy spółki lub statutu",
+      "Jednostka, na którą wywierany jest znaczący wpływ przez znaczącego inwestora",
+      "Każda jednostka powiązana z grupą kapitałową"
+    ],
+    "correct_answer": "Jednostka, która jest współkontrolowana przez wspólników na podstawie zawartej pomiędzy nimi umowy, umowy spółki lub statutu",
+    "explanation": "Art. 3 ust. 1 pkt 40 UoR: „jednostce współzależnej – rozumie się przez to jednostkę, która jest współkontrolowana przez wspólników na podstawie zawartej pomiędzy nimi umowy, umowy spółki lub statutu“. Cecha definiująca: WSPÓŁKONTROLA. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 37e/40).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 5,
+    "question": "Zgodnie z Art. 3 ust. 1 pkt 9 UoR „rok obrotowy“ to:",
+    "options": [
+      "Wyłącznie rok kalendarzowy od 1 stycznia do 31 grudnia",
+      "Rok kalendarzowy lub inny okres trwający 12 kolejnych pełnych miesięcy kalendarzowych, stosowany również do celów podatkowych",
+      "Okres sprawozdawczy przyjęty przez kierownika jednostki, niekoniecznie trwający 12 miesięcy",
+      "Każdy okres, za który sporządza się sprawozdanie finansowe"
+    ],
+    "correct_answer": "Rok kalendarzowy lub inny okres trwający 12 kolejnych pełnych miesięcy kalendarzowych, stosowany również do celów podatkowych",
+    "explanation": "Art. 3 ust. 1 pkt 9 UoR: „roku obrotowym – rozumie się przez to rok kalendarzowy lub inny okres trwający 12 kolejnych pełnych miesięcy kalendarzowych, stosowany również do celów podatkowych. Rok obrotowy lub jego zmiany określa statut lub umowa“. NIE musi być rokiem kalendarzowym, ale MUSI trwać 12 pełnych miesięcy. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 9).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 6,
+    "question": "Zgodnie z Art. 3 ust. 1 pkt 10 UoR „dzień bilansowy“ to:",
+    "options": [
+      "Ostatni dzień roku kalendarzowego",
+      "Dzień wpisania połączenia spółek do rejestru",
+      "Dzień, na który jednostka sporządza sprawozdanie finansowe",
+      "Pierwszy dzień nowego roku obrotowego"
+    ],
+    "correct_answer": "Dzień, na który jednostka sporządza sprawozdanie finansowe",
+    "explanation": "Art. 3 ust. 1 pkt 10 UoR: „dniu bilansowym – rozumie się przez to dzień, na który jednostka sporządza sprawozdanie finansowe“. Nie zawęża się do 31 grudnia – może to być dowolny dzień bilansowy. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 10).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 7,
+    "question": "Na czym polega „sprawowanie kontroli nad inną jednostką“ według Art. 3 ust. 1 pkt 34 UoR?",
+    "options": [
+      "Na posiadaniu bezpośrednio lub pośrednio ponad 50% udziałów w jednostce",
+      "Na zdolności jednostki do kierowania polityką finansową i operacyjną innej jednostki w celu osiągania korzyści ekonomicznych z jej działalności",
+      "Na zasiadaniu w radzie nadzorczej innej jednostki",
+      "Na prawie do powoływania i odwoływania zarządu innej jednostki"
+    ],
+    "correct_answer": "Na zdolności jednostki do kierowania polityką finansową i operacyjną innej jednostki w celu osiągania korzyści ekonomicznych z jej działalności",
+    "explanation": "Art. 3 ust. 1 pkt 34 UoR: „sprawowaniu kontroli nad inną jednostką – rozumie się przez to zdolność jednostki do kierowania polityką finansową i operacyjną innej jednostki, w celu osiągania korzyści ekonomicznych z jej działalności“. Definicja oparta na zdolności kierowania, nie tylko na udziale ilościowym. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 34).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 8,
+    "question": "Czym różni się „sprawowanie współkontroli“ od „sprawowania kontroli“ według UoR?",
+    "options": [
+      "Współkontrola wymaga posiadania ponad 20% udziałów, kontrola – ponad 50%",
+      "Współkontrola polega na zdolności wspólnika – na równi z innymi wspólnikami, na zasadach umowy – do kierowania polityką jednostki; kontrola jest sprawowana samodzielnie",
+      "Współkontrola dotyczy tylko jednostek stowarzyszonych",
+      "Nie ma różnicy – oba pojęcia oznaczają to samo w prawie bilansowym"
+    ],
+    "correct_answer": "Współkontrola polega na zdolności wspólnika – na równi z innymi wspólnikami, na zasadach umowy – do kierowania polityką jednostki; kontrola jest sprawowana samodzielnie",
+    "explanation": "Art. 3 ust. 1 pkt 35 UoR: „sprawowaniu współkontroli – zdolność wspólnika jednostki współzależnej na równi z innymi wspólnikami, na zasadach określonych w zawartej pomiędzy nimi umowie do kierowania polityką finansową i operacyjną tej jednostki“. WSPÓŁKONTROLA = razem z innymi, na podstawie umowy; KONTROLA = samodzielna. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 35).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 9,
+    "question": "Co oznacza „znaczący wpływ na inną jednostkę“ w rozumieniu Art. 3 ust. 1 pkt 36 UoR?",
+    "options": [
+      "Zdolność do jednostronnej kontroli nad polityką finansową i operacyjną innej jednostki",
+      "Niemającą znamion sprawowania kontroli lub współkontroli zdolność jednostki do wpływania na politykę finansową i operacyjną innej jednostki",
+      "Posiadanie dokładnie 20% głosów w organie stanowiącym innej jednostki",
+      "Prawo do powoływania co najmniej połowy członków zarządu innej jednostki"
+    ],
+    "correct_answer": "Niemającą znamion sprawowania kontroli lub współkontroli zdolność jednostki do wpływania na politykę finansową i operacyjną innej jednostki",
+    "explanation": "Art. 3 ust. 1 pkt 36 UoR: „znaczącym wpływie – rozumie się przez to niemającą znamion sprawowania kontroli lub współkontroli zdolność jednostki do wpływania na politykę finansową i operacyjną innej jednostki“. Najniższy poziom powiązania; wiąże się ze statusem jednostki stowarzyszonej. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 36).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 10,
+    "question": "Według Art. 3 ust. 1 pkt 12 UoR „aktywa“ to:",
+    "options": [
+      "Majątek rzeczowy jednostki wraz z prawami majątkowymi",
+      "Kontrolowane przez jednostkę zasoby majątkowe o wiarygodnie określonej wartości, powstałe w wyniku przeszłych zdarzeń, które spowodują w przyszłości wpływ korzyści ekonomicznych",
+      "Wszystkie składniki bilansu po stronie aktywów wykazane na dzień bilansowy",
+      "Środki trwałe, wartości niematerialne i prawne oraz zapasy jednostki"
+    ],
+    "correct_answer": "Kontrolowane przez jednostkę zasoby majątkowe o wiarygodnie określonej wartości, powstałe w wyniku przeszłych zdarzeń, które spowodują w przyszłości wpływ korzyści ekonomicznych",
+    "explanation": "Art. 3 ust. 1 pkt 12 UoR: „aktywach – rozumie się przez to kontrolowane przez jednostkę zasoby majątkowe o wiarygodnie określonej wartości, powstałe w wyniku przeszłych zdarzeń, które spowodują w przyszłości wpływ do jednostki korzyści ekonomicznych“. Trzy kluczowe elementy: (1) kontrola, (2) wiarygodna wartość, (3) przyszłe korzyści. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 12).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 11,
+    "question": "Jak definiuje UoR „aktywa obrotowe“ (Art. 3 ust. 1 pkt 13)?",
+    "options": [
+      "Aktywa o wartości poniżej progu istotności przyjętego przez jednostkę",
+      "Ta część aktywów jednostki, które są przeznaczone do zbycia lub zużycia w ciągu 12 miesięcy od dnia bilansowego lub w ciągu normalnego cyklu operacyjnego",
+      "Wyłącznie zapasy, należności i środki pieniężne",
+      "Aktywa, które nie są zaliczane do aktywów trwałych"
+    ],
+    "correct_answer": "Ta część aktywów jednostki, które są przeznaczone do zbycia lub zużycia w ciągu 12 miesięcy od dnia bilansowego lub w ciągu normalnego cyklu operacyjnego",
+    "explanation": "Art. 3 ust. 1 pkt 13 UoR: aktywa obrotowe to ta część aktywów, które w przypadku aktywów rzeczowych są przeznaczone do zbycia lub zużycia w ciągu 12 miesięcy od dnia bilansowego lub w ciągu normalnego cyklu operacyjnego. Oba kryteria są równoważne. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 13).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 12,
+    "question": "Co zalicza UoR do „inwestycji“ (Art. 3 ust. 1 pkt 17)?",
+    "options": [
+      "Wyłącznie akcje i udziały w innych spółkach handlowych",
+      "Aktywa posiadane przez jednostkę w celu osiągnięcia korzyści ekonomicznych z przyrostu ich wartości, uzyskania przychodów w formie odsetek, dywidend lub innych pożytków",
+      "Środki trwałe nabyte w celu długotrwałego użytkowania",
+      "Wszystkie aktywa finansowe niezależnie od celu ich nabycia"
+    ],
+    "correct_answer": "Aktywa posiadane przez jednostkę w celu osiągnięcia korzyści ekonomicznych z przyrostu ich wartości, uzyskania przychodów w formie odsetek, dywidend lub innych pożytków",
+    "explanation": "Art. 3 ust. 1 pkt 17 UoR: „inwestycjach – rozumie się przez to aktywa posiadane przez jednostkę w celu osiągnięcia z nich korzyści ekonomicznych wynikających z przyrostu wartości tych aktywów, uzyskania przychodów w formie odsetek, dywidend (udziałów w zyskach) lub innych pożytków“. Cel posiadania (inwestycyjny) odróżnia je od środków trwałych. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 17).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 13,
+    "question": "Jak UoR definiuje „zobowiązania“ (Art. 3 ust. 1 pkt 20)?",
+    "options": [
+      "Wynikający z przeszłych zdarzeń obowiązek wykonania świadczeń o wiarygodnie określonej wartości, które spowodują wykorzystanie już posiadanych lub przyszłych aktywów jednostki",
+      "Kwoty do zapłacenia przez jednostkę w ciągu najbliższych 12 miesięcy",
+      "Wyłącznie kredyty bankowe i pożyczki zaciągnięte przez jednostkę",
+      "Zobowiązania, których termin wymagalności lub kwota nie są pewne"
+    ],
+    "correct_answer": "Wynikający z przeszłych zdarzeń obowiązek wykonania świadczeń o wiarygodnie określonej wartości, które spowodują wykorzystanie już posiadanych lub przyszłych aktywów jednostki",
+    "explanation": "Art. 3 ust. 1 pkt 20 UoR: „zobowiązaniach – rozumie się przez to wynikający z przeszłych zdarzeń obowiązek wykonania świadczeń o wiarygodnie określonej wartości, które spowodują wykorzystanie już posiadanych lub przyszłych aktywów jednostki“. Opcja D to definicja REZERW. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 20).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 14,
+    "question": "Co oznaczają „rezerwy“ w rozumieniu Art. 3 ust. 1 pkt 21 UoR?",
+    "options": [
+      "Środki pieniężne odłożone przez jednostkę na poczet przyszłych inwestycji",
+      "Zobowiązania, których termin wymagalności lub kwota nie są pewne",
+      "Kapitały rezerwowe tworzone z zysku",
+      "Odpisy aktualizujące wartość aktywów"
+    ],
+    "correct_answer": "Zobowiązania, których termin wymagalności lub kwota nie są pewne",
+    "explanation": "Art. 3 ust. 1 pkt 21 UoR: „rezerwach – rozumie się przez to zobowiązania, których termin wymagalności lub kwota nie są pewne“. Rezerwy to szczególna kategoria zobowiązań – od zwykłych zobowiązań odróżnia je niepewność co do kwoty lub terminu. Nie należy mylić z kapitałem rezerwowym. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 21).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 15,
+    "question": "Jak UoR definiuje „wartość godziwą“ (Art. 28 ust. 6)?",
+    "options": [
+      "Wartość rynkowa ustalona na podstawie ceny giełdowej na dzień bilansowy",
+      "Kwota, za jaką dany składnik aktywów mógłby zostać wymieniony, a zobowiązanie uregulowane na warunkach transakcji rynkowej, między zainteresowanymi i dobrze poinformowanymi, niepowiązanymi ze sobą stronami",
+      "Cena nabycia składnika aktywów pomniejszona o odpisy amortyzacyjne",
+      "Wartość składnika aktywów ustalona przez niezależnego rzeczoznawcę"
+    ],
+    "correct_answer": "Kwota, za jaką dany składnik aktywów mógłby zostać wymieniony, a zobowiązanie uregulowane na warunkach transakcji rynkowej, między zainteresowanymi i dobrze poinformowanymi, niepowiązanymi ze sobą stronami",
+    "explanation": "Art. 28 ust. 6 UoR: „Za wartość godziwą przyjmuje się kwotę, za jaką dany składnik aktywów mógłby zostać wymieniony, a zobowiązanie uregulowane na warunkach transakcji rynkowej, pomiędzy zainteresowanymi i dobrze poinformowanymi, niepowiązanymi ze sobą stronami“. Trzy cechy stron: zainteresowane, dobrze poinformowane, niepowiązane. (Streszczenie UoR, Rozdz. 1, Art. 28 ust. 6).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 16,
+    "question": "Co rozumie UoR przez „jednostkę dominującą“ (Art. 3 ust. 1 pkt 37)?",
+    "options": [
+      "Każda spółka akcyjna posiadająca oddziały",
+      "Jednostka będąca spółką handlową lub przedsiębiorstwem państwowym, sprawująca kontrolę nad jednostką zależną",
+      "Jednostka posiadająca co najmniej 20% udziałów w innej spółce",
+      "Jednostka centralna w grupie kapitałowej wyznaczona przez KNF"
+    ],
+    "correct_answer": "Jednostka będąca spółką handlową lub przedsiębiorstwem państwowym, sprawująca kontrolę nad jednostką zależną",
+    "explanation": "Art. 3 ust. 1 pkt 37 UoR: „jednostce dominującej – rozumie się przez to jednostkę będącą spółką handlową lub przedsiębiorstwem państwowym, sprawującą kontrolę nad jednostką zależną“. Forma prawna jest ograniczona (spółka handlowa lub przedsiębiorstwo państwowe), a kryterium merytorycznym jest sprawowanie KONTROLI. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 37).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 17,
+    "question": "Jak UoR definiuje „jednostkę stowarzyszoną“ (Art. 3 ust. 1 pkt 41)?",
+    "options": [
+      "Jednostka należąca do tej samej grupy kapitałowej co jednostka dominująca",
+      "Spółka handlowa, w której znaczący inwestor posiada zaangażowanie w kapitale i wywiera na nią znaczący wpływ",
+      "Jednostka kontrolowana przez spółkę dominującą wyższego szczebla",
+      "Każda jednostka powiązana kapitałowo z grupą"
+    ],
+    "correct_answer": "Spółka handlowa, w której znaczący inwestor posiada zaangażowanie w kapitale i wywiera na nią znaczący wpływ",
+    "explanation": "Art. 3 ust. 1 pkt 41 UoR: „jednostce stowarzyszonej – rozumie się przez to jednostkę będącą spółką handlową, w której znaczący inwestor posiada zaangażowanie w kapitale i wywiera na nią znaczący wpływ“. Cechą odróżniającą jest ZNACZĄCY WPŁYW (nie kontrola ani współkontrola). (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 41).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 18,
+    "question": "Co oznaczają „jednostki powiązane“ w rozumieniu Art. 3 ust. 1 pkt 43 UoR?",
+    "options": [
+      "Wyłącznie jednostkę dominującą i jednostkę zależną",
+      "Dwie lub więcej jednostek wchodzących w skład danej grupy kapitałowej",
+      "Każde dwa podmioty, które zawarły ze sobą umowę",
+      "Jednostki posiadające wspólnych udziałowców"
+    ],
+    "correct_answer": "Dwie lub więcej jednostek wchodzących w skład danej grupy kapitałowej",
+    "explanation": "Art. 3 ust. 1 pkt 43 UoR: „jednostkach powiązanych – rozumie się przez to dwie lub więcej jednostek wchodzących w skład danej grupy kapitałowej“. Pojęcie to jest szersze niż relacja dominująca–zależna i obejmuje wszystkie jednostki grupy. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 43).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 19,
+    "question": "Jak UoR definiuje „grupę kapitałową“ (Art. 3 ust. 1 pkt 44)?",
+    "options": [
+      "Wszystkie podmioty, w których ta sama osoba fizyczna posiada udziały",
+      "Jednostkę dominującą wraz z jednostkami zależnymi",
+      "Jednostki dominującą, zależne, współzależne i stowarzyszone łącznie",
+      "Wyłącznie spółki akcyjne notowane na giełdzie"
+    ],
+    "correct_answer": "Jednostkę dominującą wraz z jednostkami zależnymi",
+    "explanation": "Art. 3 ust. 1 pkt 44 UoR: „grupie kapitałowej – rozumie się przez to jednostkę dominującą wraz z jednostkami zależnymi“. Do grupy kapitałowej sensu stricto zalicza się tylko jednostki ZALEŻNE (nie stowarzyszone, nie współzależne). (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 44).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 20,
+    "question": "Jak UoR definiuje „instrumenty finansowe“ (Art. 3 ust. 1 pkt 23)?",
+    "options": [
+      "Wyłącznie akcje i obligacje dopuszczone do obrotu publicznego",
+      "Kontrakt, który powoduje powstanie aktywów finansowych u jednej ze stron i zobowiązania finansowego albo instrumentu kapitałowego u drugiej ze stron",
+      "Każda umowa o wartości pieniężnej zawarta między podmiotami",
+      "Derywaty i instrumenty pochodne stosowane do zarządzania ryzykiem"
+    ],
+    "correct_answer": "Kontrakt, który powoduje powstanie aktywów finansowych u jednej ze stron i zobowiązania finansowego albo instrumentu kapitałowego u drugiej ze stron",
+    "explanation": "Art. 3 ust. 1 pkt 23 UoR: „instrumentach finansowych – rozumie się przez to kontrakt, który powoduje powstanie aktywów finansowych u jednej ze stron i zobowiązania finansowego albo instrumentu kapitałowego u drugiej ze stron“. Zawsze dwie strony, zawsze asymetria. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 23).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 21,
+    "question": "Co to są „aktywa finansowe“ według Art. 3 ust. 1 pkt 24 UoR?",
+    "options": [
+      "Wyłącznie środki pieniężne i lokaty bankowe",
+      "Aktywa pieniężne, instrumenty kapitałowe wyemitowane przez inne jednostki, a także wynikające z kontraktu prawo do otrzymania aktywów pieniężnych lub prawa do wymiany instrumentów finansowych",
+      "Wszystkie inwestycje długoterminowe i krótkoterminowe",
+      "Tylko aktywa wyceniane w wartości godziwej przez wynik finansowy"
+    ],
+    "correct_answer": "Aktywa pieniężne, instrumenty kapitałowe wyemitowane przez inne jednostki, a także wynikające z kontraktu prawo do otrzymania aktywów pieniężnych lub prawa do wymiany instrumentów finansowych",
+    "explanation": "Art. 3 ust. 1 pkt 24 UoR wymienia: aktywa pieniężne + instrumenty kapitałowe wyemitowane przez inne jednostki + kontraktowe prawo do otrzymania aktywów pieniężnych lub wymiany instrumentów finansowych na korzystnych warunkach. To szersze pojęcie niż środki pieniężne. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 24).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 22,
+    "question": "Jak UoR definiuje „przychody i zyski“ (Art. 3 ust. 1 pkt 30)?",
+    "options": [
+      "Faktycznie otrzymane środki pieniężne w danym roku obrotowym",
+      "Uprawdopodobnione powstanie w okresie sprawozdawczym korzyści ekonomicznych, o wiarygodnie określonej wartości, w formie zwiększenia wartości aktywów albo zmniejszenia wartości zobowiązań",
+      "Wyłącznie przychody ze sprzedaży produktów, towarów i materiałów",
+      "Zyski nadzwyczajne i wynik działalności operacyjnej łącznie"
+    ],
+    "correct_answer": "Uprawdopodobnione powstanie w okresie sprawozdawczym korzyści ekonomicznych, o wiarygodnie określonej wartości, w formie zwiększenia wartości aktywów albo zmniejszenia wartości zobowiązań",
+    "explanation": "Art. 3 ust. 1 pkt 30 UoR: „przychodach i zyskach – rozumie się przez to uprawdopodobnione powstanie w okresie sprawozdawczym korzyści ekonomicznych, o wiarygodnie określonej wartości, w formie zwiększenia wartości aktywów, albo zmniejszenia wartości zobowiązań“. Zasada memoriału – nie jest wymagana faktyczna zapłata. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 30).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 23,
+    "question": "Jak UoR definiuje „koszty i straty“ (Art. 3 ust. 1 pkt 31)?",
+    "options": [
+      "Faktycznie zapłacone wydatki jednostki w danym roku",
+      "Uprawdopodobnione zmniejszenia w okresie sprawozdawczym korzyści ekonomicznych, w formie zmniejszenia wartości aktywów albo zwiększenia wartości zobowiązań",
+      "Wyłącznie koszty bezpośrednio związane z działalnością operacyjną",
+      "Amortyzacja i odpisy aktualizujące wartość aktywów"
+    ],
+    "correct_answer": "Uprawdopodobnione zmniejszenia w okresie sprawozdawczym korzyści ekonomicznych, w formie zmniejszenia wartości aktywów albo zwiększenia wartości zobowiązań",
+    "explanation": "Art. 3 ust. 1 pkt 31 UoR: „kosztach i stratach – rozumie się przez to uprawdopodobnione zmniejszenia w okresie sprawozdawczym korzyści ekonomicznych, o wiarygodnie określonej wartości, w formie zmniejszenia wartości aktywów, albo zwiększenia wartości zobowiązań i rezerw“. Lustrzane odbicie definicji przychodów. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 31).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 24,
+    "question": "Co obejmuje „Europejski Obszar Gospodarczy“ w rozumieniu Art. 3 ust. 1 pkt 48 UoR?",
+    "options": [
+      "Wyłącznie kraje Unii Europejskiej",
+      "Kraje Unii Europejskiej oraz Islandię, Liechtenstein i Norwegię",
+      "Wszystkie kraje europejskie należące do NATO",
+      "Kraje UE i państwa Europy Środkowej i Wschodniej"
+    ],
+    "correct_answer": "Kraje Unii Europejskiej oraz Islandię, Liechtenstein i Norwegię",
+    "explanation": "Art. 3 ust. 1 pkt 48 UoR: „Europejskim Obszarze Gospodarczym – rozumie się przez to kraje Unii Europejskiej oraz Islandię, Liechtenstein i Norwegię“. Trzy dodatkowe kraje poza UE – stałe pojęcie w prawie bilansowym i rynku kapitałowym. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 48).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 25,
+    "question": "Czym charakteryzuje się „jednostka dominująca niższego szczebla“ wg Art. 3 ust. 1 pkt 37a UoR?",
+    "options": [
+      "Jednostka będąca wyłącznie jednostką zależną w strukturze grupy",
+      "Spółka handlowa, która jest jednocześnie jednostką zależną od innej spółki handlowej i jednostką dominującą w stosunku do co najmniej jednej spółki handlowej",
+      "Jednostka posiadająca udziały mniejszościowe w kilku spółkach",
+      "Jednostka stowarzyszona zarządzana przez jednostkę dominującą wyższego szczebla"
+    ],
+    "correct_answer": "Spółka handlowa, która jest jednocześnie jednostką zależną od innej spółki handlowej i jednostką dominującą w stosunku do co najmniej jednej spółki handlowej",
+    "explanation": "Art. 3 ust. 1 pkt 37a UoR: „jednostce dominującej niższego szczebla – rozumie się przez to spółkę handlową, która jest jednocześnie jednostką zależną od innej spółki handlowej lub przedsiębiorstwa państwowego i jednostką dominującą w stosunku do co najmniej jednej spółki handlowej“. Pełni dwojaką rolę: zależna od góry i dominująca od dołu. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 37a).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 26,
+    "question": "Jak UoR definiuje „konsolidację“ (Art. 3 ust. 1 pkt 45)?",
+    "options": [
+      "Połączenie dwóch lub więcej spółek w jedną jednostkę prawną",
+      "Łączenie sprawozdań finansowych jednostek tworzących grupę kapitałową przez sumowanie odpowiednich pozycji sprawozdań i dokonanie wyłączeń",
+      "Sporządzanie zbiorczego sprawozdania finansowego przez Ministerstwo Finansów",
+      "Przekształcenie sprawozdania finansowego jednostek zagranicznych na walutę polską"
+    ],
+    "correct_answer": "Łączenie sprawozdań finansowych jednostek tworzących grupę kapitałową przez sumowanie odpowiednich pozycji sprawozdań i dokonanie wyłączeń",
+    "explanation": "Art. 3 ust. 1 pkt 45 UoR: „konsolidacji – rozumie się przez to łączenie sprawozdań finansowych jednostek tworzących grupę kapitałową przez sumowanie odpowiednich pozycji sprawozdań finansowych jednostki dominującej i jednostek zależnych, po dokonaniu wyłączeń“. Konsolidacja to technika łączenia SF, nie fuzja prawna. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 45).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 27,
+    "question": "Czym są „zobowiązania warunkowe“ w rozumieniu Art. 3 ust. 1 pkt 28 UoR?",
+    "options": [
+      "Zobowiązania podlegające warunkowemu umorzeniu przez wierzyciela",
+      "Obowiązek wykonania świadczeń, których powstanie jest uzależnione od zaistnienia określonych zdarzeń",
+      "Zobowiązania z tytułu gwarancji i poręczeń wykazywane w bilansie",
+      "Zobowiązania krótkoterminowe z niepewną datą wymagalności"
+    ],
+    "correct_answer": "Obowiązek wykonania świadczeń, których powstanie jest uzależnione od zaistnienia określonych zdarzeń",
+    "explanation": "Art. 3 ust. 1 pkt 28 UoR: „zobowiązaniach warunkowych – rozumie się przez to obowiązek wykonania świadczeń, których powstanie jest uzależnione od zaistnienia określonych zdarzeń“. Zobowiązania warunkowe nie są wykazywane w bilansie, mogą być ujawniane w informacji dodatkowej. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 28).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 28,
+    "question": "Co oznacza pojęcie „zaangażowanie w kapitale“ według Art. 3 ust. 1 pkt 37d UoR?",
+    "options": [
+      "Każdy pakiet akcji niezależnie od intencji inwestora",
+      "Jakikolwiek udział w kapitale innej jednostki mający charakter trwałego powiązania",
+      "Udziały przekraczające 50% kapitału zakładowego",
+      "Wyłącznie udziały nabyte w drodze aportu"
+    ],
+    "correct_answer": "Jakikolwiek udział w kapitale innej jednostki mający charakter trwałego powiązania",
+    "explanation": "Art. 3 ust. 1 pkt 37d UoR: „zaangażowaniu w kapitale – rozumie się przez to jakikolwiek udział w kapitale innej jednostki, mający charakter trwałego powiązania; trwałe powiązanie występuje zawsze w przypadku nabycia (...) udziałów (...), jeżeli jednostka posiada taki udział przez okres dłuższy niż rok“. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 37d).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 29,
+    "question": "Jak UoR definiuje „kapitały mniejszości“ (Art. 3 ust. 1 pkt 46)?",
+    "options": [
+      "Kapitały własne jednostki dominującej",
+      "Część aktywów netto jednostki zależnej, objętej skonsolidowanym SF, która należy do udziałowców innych niż jednostki grupy kapitałowej",
+      "Rezerwy tworzone przez jednostki mniejsze w grupie",
+      "Kapitały jednostek stowarzyszonych objętych metodą praw własności"
+    ],
+    "correct_answer": "Część aktywów netto jednostki zależnej, objętej skonsolidowanym SF, która należy do udziałowców innych niż jednostki grupy kapitałowej",
+    "explanation": "Art. 3 ust. 1 pkt 46 UoR: „kapitałach mniejszości – rozumie się przez to część aktywów netto jednostki zależnej, objętej skonsolidowanym sprawozdaniem finansowym, która należy do udziałowców innych niż jednostki grupy kapitałowej“. Udziały niekontrolujące to oddzielna pozycja w skonsolidowanym bilansie. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 46).",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 30,
+    "question": "Jeżeli jednostka w II połowie roku obrotowego rozpoczyna działalność i chce połączyć ten okres z rokiem następnym, to według Art. 3 ust. 1 pkt 9 UoR:",
+    "options": [
+      "Jest to niedopuszczalne – rok obrotowy musi zawsze obejmować dokładnie 12 miesięcy",
+      "Jest to dopuszczalne – taki połączony rok obrotowy będzie trwał więcej niż 12 miesięcy",
+      "Jest to dopuszczalne, ale wymaga zgody Ministra Finansów",
+      "Jest to możliwe tylko dla spółek akcyjnych"
+    ],
+    "correct_answer": "Jest to dopuszczalne – taki połączony rok obrotowy będzie trwał więcej niż 12 miesięcy",
+    "explanation": "Art. 3 ust. 1 pkt 9 UoR: „Jeżeli jednostka rozpoczęła działalność w drugiej połowie przyjętego roku obrotowego, można księgi rachunkowe i sprawozdanie finansowe za ten okres połączyć z księgami rachunkowymi i sprawozdaniem finansowym za rok następny“. W takim przypadku rok obrotowy może wyjątkowo trwać dłużej niż 12 miesięcy. (Streszczenie UoR, Rozdz. 1, Art. 3 pkt 9).",
+    "topic": "Art. 3 — Definicje"
+  }
+]

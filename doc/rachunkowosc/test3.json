@@ -1,0 +1,392 @@
+[
+  {
+    "id": 61,
+    "question": "W jakiej wysokości wykazuje się kapitał zakładowy spółek kapitałowych w bilansie (Art. 36 ust. 2 UoR)?",
+    "options": [
+      "W wartości rynkowej spółki na dzień bilansowy",
+      "W wysokości określonej w umowie lub statucie i wpisanej w rejestrze sądowym",
+      "W wysokości faktycznie wpłaconych wkładów przez wspólników",
+      "W wartości aktywów netto na dzień bilansowy"
+    ],
+    "correct_answer": "W wysokości określonej w umowie lub statucie i wpisanej w rejestrze sądowym",
+    "explanation": "Art. 36 ust. 2 UoR: „Kapitał zakładowy spółek kapitałowych (...) wykazuje się w wysokości określonej w umowie lub statucie i wpisanej w rejestrze sądowym“. Kapital zakładowy to kwota zarejestrowana, a nie faktycznie wniesiona. Różnica to „należne wpłaty na kapitał podstawowy“ (ujemna pozycja). (Streszczenie UoR, Rozdz. 4, Art. 36 ust. 2).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 62,
+    "question": "Jak prezentuje się „należne wpłaty na kapitał podstawowy“ w bilansie sporządzanym zgodnie z UoR?",
+    "options": [
+      "Jako aktywo – należność od wspólników",
+      "Jako odrębna pozycja pasywów ze znakiem ujemnym, zmniejszająca kapitały własne",
+      "Nie wykazuje się ich w bilansie – tylko w informacji dodatkowej",
+      "Jako zmniejszenie kapitału zapasowego"
+    ],
+    "correct_answer": "Jako odrębna pozycja pasywów ze znakiem ujemnym, zmniejszająca kapitały własne",
+    "explanation": "Art. 36 ust. 2 UoR oraz Załącznik nr 1 do UoR: należne wpłaty na kapitał (fundusz) podstawowy wykazuje się jako pozycję C pasywów ze znakiem ujemnym. Jest to zadeklarowany, ale jeszcze niewniesiony wkład kapitałowy, który pomniejsza sumę kapitałów własnych. (Streszczenie UoR, Rozdz. 4, Art. 36 ust. 2).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 63,
+    "question": "Gdzie są ujmowane koszty emisji akcji poniesione przy podwyższeniu kapitału zakładowego (Art. 36 ust. 2b UoR)?",
+    "options": [
+      "Jako koszty bieżącego roku obrotowego (koszty finansowe)",
+      "Zmniejszają kapitał zapasowy do wysokości nadwyżki wartości emisji nad wartością nominalną akcji, a pozostała część to koszty finansowe",
+      "Jako wartości niematerialne i prawne podlegające amortyzacji",
+      "Zmniejszają bezpośrednio kapitał zakładowy"
+    ],
+    "correct_answer": "Zmniejszają kapitał zapasowy do wysokości nadwyżki wartości emisji nad wartością nominalną akcji, a pozostała część to koszty finansowe",
+    "explanation": "Art. 36 ust. 2b UoR: „Koszty emisji akcji poniesione przy powstaniu spółki akcyjnej lub podwyższeniu kapitału zakładowego zmniejszają kapitał zapasowy spółki do wysokości nadwyżki wartości emisji nad wartością nominalną akcji, a pozostałe koszty emisji zalicza się do kosztów finansowych“. Pierwszeństwo ma pomniejszenie agio. (Streszczenie UoR, Rozdz. 4, Art. 36 ust. 2b).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 64,
+    "question": "Na jakie konto odnosi się ZYSK uzyskany ze zbycia akcji własnych (Art. 36a ust. 1 UoR)?",
+    "options": [
+      "Przychody finansowe bieżącego roku",
+      "Kapitał zapasowy",
+      "Pozostałe przychody operacyjne",
+      "Kapitał rezerwowy na akcje własne"
+    ],
+    "correct_answer": "Kapitał zapasowy",
+    "explanation": "Art. 36a ust. 1 UoR: „W razie zbycia akcji własnych, dodatnią różnicę między ceną sprzedaży, pomniejszoną o koszty sprzedaży, a ich ceną nabycia, należy odnieść na kapitał zapasowy“. Zysk ze zbycia akcji własnych nie jest traktowany jako przychód finansowy – trafia bezpośrednio na kapitał zapasowy. (Streszczenie UoR, Rozdz. 4, Art. 36a ust. 1).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 65,
+    "question": "Co się dzieje z ujemną różnicą (stratą) przy zbyciu akcji własnych (Art. 36a ust. 1 UoR)?",
+    "options": [
+      "Zalicza się ją do kosztów finansowych",
+      "Ujemną różnicę ujmuje się jako zmniejszenie kapitału zapasowego, a jeżeli jest niewystarczający – zmniejszenie kapitału rezerwowego lub obciążenie wyniku finansowego bieżącego roku",
+      "Zwiększa ona deficyt kapitału zakładowego",
+      "Zawsze obciąża wynik finansowy bieżącego roku"
+    ],
+    "correct_answer": "Ujemną różnicę ujmuje się jako zmniejszenie kapitału zapasowego, a jeżeli jest niewystarczający – zmniejszenie kapitału rezerwowego lub obciążenie wyniku finansowego bieżącego roku",
+    "explanation": "Art. 36a ust. 1 UoR: „Ujemną różnicę należy ująć jako zmniejszenie kapitału zapasowego, a jeżeli kapitał zapasowy nie jest wystarczający – jako zmniejszenie pozostałych kapitałów (funduszy) rezerwowych, a w przypadku ich braku – jako stratę z lat ubiegłych lub obciążenie wyniku finansowego bieżącego roku“. Hierarchia: kap. zapasowy → kap. rezerwowy → wynik. (Streszczenie UoR, Rozdz. 4, Art. 36a ust. 1).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 66,
+    "question": "Jak rozlicza się przy umorzeniu akcji własnych nadwyżkę ich wartości nominalnej nad ceną nabycia (Art. 36a ust. 2 UoR)?",
+    "options": [
+      "Jako przychód finansowy",
+      "Na kapitał zapasowy",
+      "Na pozostałe przychody operacyjne",
+      "Na kapitał rezerwowy na akcje własne"
+    ],
+    "correct_answer": "Na kapitał zapasowy",
+    "explanation": "Art. 36a ust. 2 UoR: „W przypadku umorzenia akcji własnych, dodatnią różnicę między ich wartością nominalną a ceną nabycia należy odnieść na kapitał zapasowy“. Symetria ze zbyciem: zysk zawsze idzie na kapitał zapasowy. (Streszczenie UoR, Rozdz. 4, Art. 36a ust. 2).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 67,
+    "question": "Co dzieje się z udziałami własnymi spółki z o.o. umorzonymi BEZ obniżenia kapitału zakładowego (Art. 36a ust. 3 UoR)?",
+    "options": [
+      "Wartość umorzonych udziałów trafia na wynik finansowy",
+      "Wartość udziałów własnych przeksięgowuje się na kapitał rezerwowy",
+      "Wartość trafia na kapitał zapasowy",
+      "Wartość obciąża pozostałe koszty operacyjne"
+    ],
+    "correct_answer": "Wartość udziałów własnych przeksięgowuje się na kapitał rezerwowy",
+    "explanation": "Art. 36a ust. 3 UoR: „W przypadku umorzenia udziałów własnych bez obniżenia kapitału zakładowego, wartość udziałów własnych przeksięgowuje się na kapitał rezerwowy“. Wyjątek od zasad z ust. 1 i 2 (które stosuje się do umorzenia z obniżeniem kapitału). (Streszczenie UoR, Rozdz. 4, Art. 36a ust. 3).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 68,
+    "question": "Jak wykazuje się udziały (akcje) własne w bilansie jednostki?",
+    "options": [
+      "Po stronie aktywów jako inwestycje długoterminowe",
+      "Jako odrębna pozycja D pasywów ze znakiem ujemnym",
+      "W informacji dodatkowej – nie wykazuje się w bilansie",
+      "Po stronie aktywów jako należności od wspólników"
+    ],
+    "correct_answer": "Jako odrębna pozycja D pasywów ze znakiem ujemnym",
+    "explanation": "Załącznik nr 1 do UoR (po zmianach od 2016 r.): udziały (akcje) własne wykazuje się jako pozycję D pasywów ze znakiem ujemnym, zmniejszając sumę kapitałów własnych. Wycena: wg cen nabycia (Art. 28 ust. 1 pkt 9a). (Streszczenie UoR, Rozdz. 4, Art. 36 i Załącznik nr 1).",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 69,
+    "question": "Jaka jest definicja „ujemnej wartości firmy“ według Art. 44b ust. 11 UoR?",
+    "options": [
+      "Ujemna wartość aktywów netto spółki przejmowanej",
+      "Nadwyżka wartości godziwej aktywów netto spółki przejętej nad ceną przejęcia",
+      "Różnica między ceną nabycia a wartością bilansową spółki przejętej",
+      "Strata poniesiona w wyniku przejęcia innej spółki"
+    ],
+    "correct_answer": "Nadwyżka wartości godziwej aktywów netto spółki przejętej nad ceną przejęcia",
+    "explanation": "Art. 44b ust. 11 UoR: „nadwyżkę wartości godziwej aktywów netto spółki przejętej nad ceną przejęcia, czyli ujemną wartość firmy…“. Ujemna WF = wartość godziwa AN > cena przejęcia (odwrotność goodwill). Pojawia się gdy przejmujemy jednostkę „po okazyjnej cenie“. (Streszczenie UoR, Rozdz. 4a, Art. 44b ust. 11).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 70,
+    "question": "W jaki sposób rozlicza się ujemną wartość firmy do wysokości nieprzekraczającej wartości godziwej nabytych aktywów niepieniężnych (Art. 44b ust. 11 UoR)?",
+    "options": [
+      "Zalicza się ją do kapitału zapasowego",
+      "Odpisuje się przez okres będący średnią ważoną okresu ekonomicznej użyteczności nabytych aktywów podlegających amortyzacji jako pozostałe przychody operacyjne",
+      "Odpisuje się jednorazowo na dzień połączenia jako przychód finansowy",
+      "Wykazuje się jako zobowiązanie długoterminowe"
+    ],
+    "correct_answer": "Odpisuje się przez okres będący średnią ważoną okresu ekonomicznej użyteczności nabytych aktywów podlegających amortyzacji jako pozostałe przychody operacyjne",
+    "explanation": "Art. 44b ust. 11 UoR: ujemna WF do wysokości wartości godziwej aktywów niepieniężnych odpisuje się „przez okres będący średnią ważoną okresu ekonomicznej użyteczności nabytych aktywów podlegających amortyzacji“ i zalicza do pozostałych przychodów operacyjnych. (Streszczenie UoR, Rozdz. 4a, Art. 44b ust. 11).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 71,
+    "question": "Jak rozlicza się nadwyżkę ujemnej wartości firmy ponad wartość godziwą aktywów niepieniężnych (Art. 44b ust. 11 UoR)?",
+    "options": [
+      "Odnosi się na kapitał zapasowy",
+      "Zalicza się jednorazowo do pozostałych przychodów operacyjnych na dzień połączenia",
+      "Zalicza się do przychodów finansowych",
+      "Rozkłada się na 5 lat równomiernie jako przychody przyszłych okresów"
+    ],
+    "correct_answer": "Zalicza się jednorazowo do pozostałych przychodów operacyjnych na dzień połączenia",
+    "explanation": "Art. 44b ust. 11 UoR: „Nadwyżkę ujemnej wartości firmy nad wartością godziwą nabytych aktywów niepieniężnych zalicza się do pozostałych przychodów operacyjnych na dzień połączenia“. Ta część ujemnej WF jest rozliczana natychmiastowo, bez rozłożenia w czasie. (Streszczenie UoR, Rozdz. 4a, Art. 44b ust. 11).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 72,
+    "question": "Jak rozlicza się część ujemnej wartości firmy dotyczącą oszacowanych przyszłych strat i kosztów (Art. 44b ust. 12 UoR)?",
+    "options": [
+      "Jednorazowo na dzień połączenia jako przychody finansowe",
+      "W momencie gdy przewidywane straty i koszty wpływają na wynik finansowy – jako pozostałe przychody operacyjne",
+      "Przez 5 lat równomiernie jako przychody operacyjne",
+      "Na kapitał zapasowy spółki przejmującej"
+    ],
+    "correct_answer": "W momencie gdy przewidywane straty i koszty wpływają na wynik finansowy – jako pozostałe przychody operacyjne",
+    "explanation": "Art. 44b ust. 12 UoR: „Ujemną wartość firmy odpisuje się w pozostałe przychody operacyjne do wysokości, w jakiej dotyczy oszacowanych w sposób wiarygodny przyszłych strat i kosztów (...). Odpis następuje w tym momencie, gdy przewidywane straty i koszty wpływają na wynik finansowy“. (Streszczenie UoR, Rozdz. 4a, Art. 44b ust. 12).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 73,
+    "question": "Co stanowi podstawę wyceny aktywów spółki przejmowanej przy metodzie nabycia (Art. 44b ust. 1 UoR)?",
+    "options": [
+      "Wartości księgowe z ksiąg rachunkowych spółki przejmowanej",
+      "Wartości godziwe na dzień połączenia",
+      "Ceny nabycia historyczne pomniejszone o amortyzację",
+      "Wartości podatkowe aktywów spółki przejmowanej"
+    ],
+    "correct_answer": "Wartości godziwe na dzień połączenia",
+    "explanation": "Art. 44b ust. 1 UoR: metoda nabycia polega na sumowaniu pozycji spółki przejmującej wg wartości KSIĘGOWEJ z odpowiednimi pozycjami spółki przejętej, przy czym te ostatnie ujmuje się wg ich WARTOŚCI GODZIWYCH na dzień połączenia. To fundamentalna różnica wobec metody łączenia udziałów. (Streszczenie UoR, Rozdz. 4a, Art. 44b ust. 1).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 74,
+    "question": "Za dzień połączenia spółek przyjmuje się (Art. 44a ust. 3 UoR):",
+    "options": [
+      "Dzień podpisania umowy połączenia przez zarządy obu spółek",
+      "Dzień wpisania połączenia do rejestru właściwego dla siedziby spółki przejmującej albo nowo zawiązanej",
+      "Dzień zatwierdzenia połączenia przez walne zgromadzenie",
+      "Dzień, na który sporządza się plan połączenia"
+    ],
+    "correct_answer": "Dzień wpisania połączenia do rejestru właściwego dla siedziby spółki przejmującej albo nowo zawiązanej",
+    "explanation": "Art. 44a ust. 3 UoR: „Za dzień połączenia spółek przyjmuje się dzień wpisania połączenia do rejestru właściwego dla siedziby odpowiednio spółki przejmującej albo spółki nowo zawiązanej“. Jest to dzień prawnego skutku połączenia, nie data umowy. (Streszczenie UoR, Rozdz. 4a, Art. 44a ust. 3).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 75,
+    "question": "Gdzie ujmuje się koszty przeprowadzenia połączenia spółek metodą nabycia?",
+    "options": [
+      "Jako wartości niematerialne i prawne",
+      "Jako koszty finansowe bieżącego roku",
+      "Zmniejszają kapitał zapasowy spółki przejmującej",
+      "Zwiększają wartość firmy"
+    ],
+    "correct_answer": "Jako koszty finansowe bieżącego roku",
+    "explanation": "Art. 44b ust. 6 UoR: koszty przeprowadzenia połączenia, w tym koszty rejestracji, doradztwa, wycen – obciążają koszty finansowe spółki przejmującej. Nie są kapitalizowane jako wartość firmy ani jako WNiP. (Streszczenie UoR, Rozdz. 4a, Art. 44b ust. 6).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 76,
+    "question": "Kiedy można zastosować metodę łączenia udziałów przy połączeniu spółek (Art. 44a ust. 2 UoR)?",
+    "options": [
+      "Zawsze, gdy obie spółki wyrażą zgodę",
+      "Gdy na skutek połączenia nie następuje utrata kontroli nad spółkami przez ich dotychczasowych udziałowców",
+      "Wyłącznie przy połączeniu spółek z ograniczoną odpowiedzialnością",
+      "Gdy wartość przejętych aktywów jest wyższa niż cena nabycia"
+    ],
+    "correct_answer": "Gdy na skutek połączenia nie następuje utrata kontroli nad spółkami przez ich dotychczasowych udziałowców",
+    "explanation": "Art. 44a ust. 2 UoR: „W razie łączenia się spółek, na skutek którego nie następuje utrata kontroli nad nimi przez ich dotychczasowych udziałowców, można zastosować metodę łączenia udziałów“. Metoda łączenia udziałów to wyjątek – zasadą jest metoda nabycia. (Streszczenie UoR, Rozdz. 4a, Art. 44a ust. 2).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 77,
+    "question": "Na czym polega metoda łączenia udziałów (Art. 44c ust. 1 UoR) w zakresie wyceny aktywów?",
+    "options": [
+      "Aktywa przejmowaej wycenia się do wartości godziwych na dzień połączenia",
+      "Sumuje się pozycje aktywów i pasywów łączących się spółek wg stanu na dzień połączenia, po doprowadzeniu do jednolitych metod wyceny (historycznych)",
+      "Zawsze stosuje się wartości podatkowe aktywów",
+      "Stosuje się MSR jako podstawę wyceny aktywów"
+    ],
+    "correct_answer": "Sumuje się pozycje aktywów i pasywów łączących się spółek wg stanu na dzień połączenia, po doprowadzeniu do jednolitych metod wyceny (historycznych)",
+    "explanation": "Art. 44c ust. 1 UoR: „Łączenie metodą łączenia udziałów polega na sumowaniu poszczególnych pozycji odpowiednich aktywów i pasywów oraz przychodów i kosztów połączonych spółek, według stanu na dzień połączenia, po uprzednim doprowadzeniu ich wartości do jednolitych metod wyceny“. Nie stosuje się wartości godziwych. (Streszczenie UoR, Rozdz. 4a, Art. 44c ust. 1).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 78,
+    "question": "Jaka jest różnica w zakresie danych porównawczych przy metodzie łączenia udziałów vs. metodzie nabycia?",
+    "options": [
+      "Obie metody stosują identyczne dane porównawcze",
+      "Metoda łączenia: SF zawiera dane za cały rok obrotowy (w tym przed połączeniem); metoda nabycia: bez przekształcenia danych porównawczych",
+      "Metoda nabycia wymaga przekształcenia danych za 5 lat wstecz",
+      "Metoda łączenia: dane tylko od dnia połączenia; metoda nabycia: dane za cały rok"
+    ],
+    "correct_answer": "Metoda łączenia: SF zawiera dane za cały rok obrotowy (w tym przed połączeniem); metoda nabycia: bez przekształcenia danych porównawczych",
+    "explanation": "Art. 44c ust. 6 (metoda łączenia): „SF (...) zawiera dane za cały rok obrotowy, w ciągu którego nastąpiło połączenie“. Art. 44b ust. 16 (metoda nabycia): dane porównawcze bez przekształcenia. Metoda łączenia traktuje połączenie jakby nastąpiło na początku roku. (Streszczenie UoR, Rozdz. 4a, Art. 44b ust. 16 i Art. 44c ust. 6).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 79,
+    "question": "Jak traktuje się koszty poniesione w związku z połączeniem przy metodzie łączenia udziałów (Art. 44c ust. 5 UoR)?",
+    "options": [
+      "Zwiększają wartość aktywów spółki nowo zawiązanej",
+      "Zalicza się je do kosztów okresu sprawozdawczego, w którym zostały poniesione",
+      "Zmniejszają kapitał zapasowy spółki przejmującej",
+      "Zwiększają koszty założenia spółki jako wartości niematerialne"
+    ],
+    "correct_answer": "Zalicza się je do kosztów okresu sprawozdawczego, w którym zostały poniesione",
+    "explanation": "Art. 44c ust. 5 UoR: „Koszty poniesione w związku z połączeniem (...) zalicza się do kosztów okresu sprawozdawczego, w którym zostały poniesione“. (Streszczenie UoR, Rozdz. 4a, Art. 44c ust. 5).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 80,
+    "question": "Co dzieje się z wartością kapitału zakładowego spółki przejmowaej przy zastosowaniu metody łączenia udziałów?",
+    "options": [
+      "Pozostaje niezmieniona w skonsolidowanym bilansie",
+      "Wartość kapitału zakładowego spółki, której majątek jest przenoszony, podlega wyłączeniu przy sumowaniu",
+      "Zwiększa kapitał zapasowy spółki przejmującej w całości",
+      "Jest eliminowana wyłącznie gdy przekracza wartość kapitału zakładowego spółki przejmującej"
+    ],
+    "correct_answer": "Wartość kapitału zakładowego spółki, której majątek jest przenoszony, podlega wyłączeniu przy sumowaniu",
+    "explanation": "Art. 44c ust. 2 UoR: „Wyłączeniu podlega wartość kapitału zakładowego spółki, której majątek został przeniesiony na inną spółkę“. Różnica między wyłączonym kapitałem a wartością innych składników własnych może trafić na kapitał zapasowy lub wynik z lat ubiegłych. (Streszczenie UoR, Rozdz. 4a, Art. 44c ust. 2).",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 81,
+    "question": "Co obejmuje sprawozdanie finansowe PODSTAWOWE (bez obowiązku badania) według Art. 45 ust. 2 UoR?",
+    "options": [
+      "Bilans, rachunek zysków i strat, rachunek przepływów pieniężnych",
+      "Bilans, rachunek zysków i strat, informację dodatkową",
+      "Bilans, rachunek zysków i strat, zestawienie zmian w kapitale własnym, informację dodatkową",
+      "Bilans, informację dodatkową i sprawozdanie z działalności"
+    ],
+    "correct_answer": "Bilans, rachunek zysków i strat, informację dodatkową",
+    "explanation": "Art. 45 ust. 2 UoR: „Sprawozdanie finansowe składa się z: 1) bilansu; 2) rachunku zysków i strat; 3) informacji dodatkowej, obejmującej wprowadzenie do sprawozdania finansowego oraz dodatkowe informacje i objaśnienia“. Rachunek przepływów i zestawienie zmian w kapitale to elementy tylko dla jednostek badanych. (Streszczenie UoR, Rozdz. 5, Art. 45 ust. 2).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 82,
+    "question": "Które elementy NIE wchodzą w skład sprawozdania finansowego otwartego funduszu inwestycyjnego (FIO) – Art. 45 ust. 3a UoR?",
+    "options": [
+      "Bilans i rachunek zysków i strat",
+      "Rachunek przepływów pieniężnych",
+      "Informacja dodatkowa",
+      "Zestawienie zmian w aktywach netto funduszu"
+    ],
+    "correct_answer": "Rachunek przepływów pieniężnych",
+    "explanation": "Art. 45 ust. 3a UoR: „Sprawozdanie finansowe funduszu inwestycyjnego otwartego oraz sprawozdanie finansowe specjalistycznego funduszu inwestycyjnego otwartego nie obejmuje rachunku przepływów pieniężnych“. FIO sporządza bilans, rachunek wyniku z operacji, zestawienie zmian w aktywach netto – ale NIE rachunek przepływów. (Streszczenie UoR, Rozdz. 5, Art. 45 ust. 3a).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 83,
+    "question": "Kto podejmuje decyzję o stosowaniu MSR (IFRS) przy sporządzaniu sprawozdań finansowych jednostek z grupy kapitałowej (Art. 45 ust. 1c UoR)?",
+    "options": [
+      "Kierownik jednostki",
+      "Organ zatwierdzający sprawozdanie finansowe",
+      "Zarząd jednostki dominującej",
+      "Komisja Nadzoru Finansowego"
+    ],
+    "correct_answer": "Organ zatwierdzający sprawozdanie finansowe",
+    "explanation": "Art. 45 ust. 1c UoR: „Decyzję w sprawie sporządzania sprawozdań finansowych zgodnie z MSR, przez jednostki, o których mowa w ust. 1a oraz 1b, podejmuje organ zatwierdzający“. Organ zatwierdzający (np. walne zgromadzenie) decyduje o stosowaniu MSR, nie kierownik ani zarząd. (Streszczenie UoR, Rozdz. 5, Art. 45 ust. 1c).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 84,
+    "question": "Zgodnie z Art. 45 ust. 1b UoR, jednostki wchodzące w skład grupy kapitałowej sporządzającej skonsolidowane SF wg MSR:",
+    "options": [
+      "Mają obowiązek sporządzać jednostkowe SF zgodnie z MSR",
+      "Mogą sporządzać jednostkowe SF zgodnie z MSR, jeśli zdecyduje o tym organ zatwierdzający",
+      "Nie mogą stosować MSR do jednostkowych SF",
+      "Muszą uzyskać zgodę KNF na stosowanie MSR"
+    ],
+    "correct_answer": "Mogą sporządzać jednostkowe SF zgodnie z MSR, jeśli zdecyduje o tym organ zatwierdzający",
+    "explanation": "Art. 45 ust. 1b UoR: „Sprawozdania finansowe jednostek wchodzących w skład grupy kapitałowej, w której jednostka dominująca sporządza skonsolidowane sprawozdanie finansowe zgodnie z MSR, mogą być sporządzane zgodnie z MSR“. To uprawnienie (MOGĄ), nie obowiązek. Decyduje organ zatwierdzający. (Streszczenie UoR, Rozdz. 5, Art. 45 ust. 1b).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 85,
+    "question": "Czy organ zatwierdzający może podjąć decyzję o zaprzestaniu stosowania MSR przy sporządzaniu jednostkowego SF (Art. 45 ust. 1d UoR)?",
+    "options": [
+      "Nie – raz podjęta decyzja o MSR jest nieodwołalna",
+      "Tak – organ zatwierdzający może podjąć decyzję o zaprzestaniu stosowania MSR w przypadku ustania okoliczności uzasadniających ich stosowanie",
+      "Tylko za zgodą Ministra Finansów",
+      "Wyłącznie KNF może nakazać zaprzestanie stosowania MSR"
+    ],
+    "correct_answer": "Tak – organ zatwierdzający może podjąć decyzję o zaprzestaniu stosowania MSR w przypadku ustania okoliczności uzasadniających ich stosowanie",
+    "explanation": "Art. 45 ust. 1d UoR: „Organ zatwierdzający może podjąć decyzję w sprawie zaprzestania stosowania MSR przy sporządzaniu sprawozdań finansowych przez jednostki w przypadku ustania okoliczności, o których mowa w ust. 1a i 1b“. Symetrycznie – ten sam organ, który zdecydował o MSR, może cofnąć tę decyzję. (Streszczenie UoR, Rozdz. 5, Art. 45 ust. 1d).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 86,
+    "question": "Co definiuje UoR jako „działalność operacyjną“ w rachunku przepływów pieniężnych (Art. 48b ust. 3 pkt 1)?",
+    "options": [
+      "Nabywanie i zbywanie składników aktywów trwałych",
+      "Podstawowy rodzaj działalności jednostki oraz inne rodzaje działalności niezaliczone do inwestycyjnej lub finansowej",
+      "Pozyskiwanie i spłata źródeł finansowania",
+      "Wyłącznie przychody i koszty ze sprzedaży produktów i usług"
+    ],
+    "correct_answer": "Podstawowy rodzaj działalności jednostki oraz inne rodzaje działalności niezaliczone do inwestycyjnej lub finansowej",
+    "explanation": "Art. 48b ust. 3 pkt 1 UoR: „przez działalność operacyjną rozumie się podstawowy rodzaj działalności jednostki oraz inne rodzaje działalności, niezaliczone do działalności inwestycyjnej (lokacyjnej) lub finansowej“. Działalność operacyjna to „kosz rezydualny“. (Streszczenie UoR, Rozdz. 5, Art. 48b ust. 3 pkt 1).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 87,
+    "question": "Czym jest „działalność inwestycyjna (lokacyjna)“ w RPP według Art. 48b ust. 3 pkt 2 UoR?",
+    "options": [
+      "Lokowanie środków pieniężnych w banku na lokatach",
+      "Nabywanie lub zbywanie składników aktywów trwałych i krótkoterminowych aktywów finansowych oraz wszelkie pieniężne koszty i korzyści z nimi związane",
+      "Wyłącznie zakup i sprzedaż środków trwałych",
+      "Wszelkie płatności z tytułu pochodnych instrumentów finansowych"
+    ],
+    "correct_answer": "Nabywanie lub zbywanie składników aktywów trwałych i krótkoterminowych aktywów finansowych oraz wszelkie pieniężne koszty i korzyści z nimi związane",
+    "explanation": "Art. 48b ust. 3 pkt 2 UoR: „przez działalność inwestycyjną (lokacyjną) rozumie się nabywanie lub zbywanie składników aktywów trwałych i krótkoterminowych aktywów finansowych oraz wszystkie z nimi związane pieniężne koszty i korzyści“. Obejmuje ŚT, WNiP, akcje i obligacje innych spółek. (Streszczenie UoR, Rozdz. 5, Art. 48b ust. 3 pkt 2).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 88,
+    "question": "Co obejmuje „działalność finansowa“ w rachunku przepływów pieniężnych (Art. 48b ust. 3 pkt 3 UoR)?",
+    "options": [
+      "Wyłącznie płatności odsetek i dywidend",
+      "Pozyskiwanie lub utratę źródeł finansowania oraz wszystkie związane z nimi przepływy pieniężne",
+      "Zaciąganie wyłącznie kredytów i pożyczek",
+      "Przychody z tytułu odsetek od lokat bankowych"
+    ],
+    "correct_answer": "Pozyskiwanie lub utratę źródeł finansowania oraz wszystkie związane z nimi przepływy pieniężne",
+    "explanation": "Art. 48b ust. 3 pkt 3 UoR: „przez działalność finansową rozumie się pozyskiwanie lub utratę źródeł finansowania [zmiany w rozmiarach i relacjach kapitału (funduszu) własnego i obcego w jednostce] oraz wszystkie z nimi związane pieniężne koszty i korzyści“. Emisja akcji, zaciąganie kredytów, spłata, wypłata dywidend – to działalność finansowa. (Streszczenie UoR, Rozdz. 5, Art. 48b ust. 3 pkt 3).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 89,
+    "question": "Jakie są wymagania dotyczące języka i waluty sprawozdania finansowego (Art. 45 ust. 5 UoR)?",
+    "options": [
+      "Sprawozdanie może być sporządzone w dowolnym języku, ale musi być w PLN",
+      "Sprawozdanie sporządza się w języku polskim i w walucie polskiej",
+      "Sprawozdania spółek zagranicznych mogą być w walucie EUR",
+      "Zarząd może wybrać walutę funkcjonalną inną niż PLN"
+    ],
+    "correct_answer": "Sprawozdanie sporządza się w języku polskim i w walucie polskiej",
+    "explanation": "Art. 45 ust. 5 UoR: „Sprawozdanie finansowe oraz sprawozdanie z działalności jednostki sporządza się w języku polskim i w walucie polskiej“. Wymóg bezwzględny. Dane liczbowe można wykazywać w zaokrągleniu do tysięcy złotych. (Streszczenie UoR, Rozdz. 5, Art. 45 ust. 5).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  },
+  {
+    "id": 90,
+    "question": "W jakim terminie należy zatwierdzić roczne sprawozdanie finansowe (Art. 53 ust. 1 UoR)?",
+    "options": [
+      "W ciągu 3 miesięcy od dnia bilansowego",
+      "W ciągu 6 miesięcy od dnia bilansowego",
+      "W ciągu 9 miesięcy od dnia bilansowego",
+      "Do końca roku następnego po roku bilansowym"
+    ],
+    "correct_answer": "W ciągu 6 miesięcy od dnia bilansowego",
+    "explanation": "Art. 53 ust. 1 UoR: „Roczne sprawozdanie finansowe jednostki (...) podlega zatwierdzeniu przez organ zatwierdzający, nie później niż 6 miesięcy od dnia bilansowego“. Sporządzenie SF następuje wcześniej – w ciągu 3 miesięcy (Art. 52 ust. 1). (Streszczenie UoR, Rozdz. 5, Art. 53 ust. 1).",
+    "topic": "Art. 45 — Sprawozdania finansowe"
+  }
+]

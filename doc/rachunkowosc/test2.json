@@ -1,0 +1,392 @@
+[
+  {
+    "id": 31,
+    "question": "Według Art. 4 ust. 1 UoR jednostka musi stosować przyjęte zasady rachunkowości:",
+    "options": [
+      "Dowolnie, zmieniając je co roku według potrzeb sprawozdawczych",
+      "Rzetelnie i jasno, przedstawiając sytuację majątkową, finansową i wynik finansowy",
+      "Wyłącznie zgodnie z Międzynarodowymi Standardami Rachunkowości",
+      "Według wzorów ustalonych przez Ministra Finansów"
+    ],
+    "correct_answer": "Rzetelnie i jasno, przedstawiając sytuację majątkową, finansową i wynik finansowy",
+    "explanation": "Art. 4 ust. 1 UoR: „Jednostki obowiązane są stosować przyjęte zasady (politykę) rachunkowości, rzetelnie i jasno przedstawiając sytuację majątkową i finansową oraz wynik finansowy“. Dwa filary: rzetelność + jasność (true and fair view). (Streszczenie UoR, Rozdz. 1, Art. 4).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 32,
+    "question": "Zgodnie z Art. 4 ust. 2 UoR zasada wyższości treści nad formą oznacza, że:",
+    "options": [
+      "Przepisy podatkowe mają pierwszeństwo przed przepisami rachunkowości",
+      "Zdarzenia ujmuje się w księgach rachunkowych i wykazuje w SF zgodnie z ich treścią ekonomiczną",
+      "Forma prezentacji SF jest ważniejsza niż rzetelność informacji",
+      "Jednostka może stosować uproszczenia, jeżeli nie zmienia to wyniku finansowego"
+    ],
+    "correct_answer": "Zdarzenia ujmuje się w księgach rachunkowych i wykazuje w SF zgodnie z ich treścią ekonomiczną",
+    "explanation": "Art. 4 ust. 2 UoR: „Zdarzenia, w tym operacje gospodarcze, ujmuje się w księgach rachunkowych i wykazuje w sprawozdaniu finansowym zgodnie z ich treścią ekonomiczną“. Zasada substancji nad formą – decyduje gospodarcze znaczenie transakcji, nie jej forma prawna. (Streszczenie UoR, Rozdz. 1, Art. 4 ust. 2).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 33,
+    "question": "Kto ponosi odpowiedzialność za wykonywanie obowiązków w zakresie rachunkowości według Art. 4 ust. 5 UoR?",
+    "options": [
+      "Główny księgowy jednostki",
+      "Kierownik jednostki, nawet jeśli powierzył obowiązki innej osobie",
+      "Biegły rewident badający sprawozdanie finansowe",
+      "Organ nadzorczy (rada nadzorcza lub komisja rewizyjna)"
+    ],
+    "correct_answer": "Kierownik jednostki, nawet jeśli powierzył obowiązki innej osobie",
+    "explanation": "Art. 4 ust. 5 UoR: „Kierownik jednostki ponosi odpowiedzialność za wykonywanie obowiązków w zakresie rachunkowości (...), również w przypadku gdy określone obowiązki w zakresie rachunkowości zostaną powierzone innej osobie za jej zgodą“. Odpowiedzialność kierownika jest niezbywalna. (Streszczenie UoR, Rozdz. 1, Art. 4 ust. 5).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 34,
+    "question": "Na czym polega zasada kontynuacji działalności z Art. 5 ust. 2 UoR?",
+    "options": [
+      "Jednostka musi przez co najmniej 3 lata stosować te same metody wyceny",
+      "Przy stosowaniu zasad rachunkowości przyjmuje się, że jednostka będzie kontynuowała działalność w niezmniejszonym istotnie zakresie, bez postawienia jej w stan likwidacji lub upadłości",
+      "Jednostka nie może zmieniać formy prawnej ani zasad rachunkowości",
+      "Rok obrotowy musi być taki sam jak w poprzednich latach"
+    ],
+    "correct_answer": "Przy stosowaniu zasad rachunkowości przyjmuje się, że jednostka będzie kontynuowała działalność w niezmniejszonym istotnie zakresie, bez postawienia jej w stan likwidacji lub upadłości",
+    "explanation": "Art. 5 ust. 2 UoR: „Przy stosowaniu przyjętych zasad (polityki) rachunkowości przyjmuje się założenie, że jednostka będzie kontynuowała w dającej się przewidzieć przyszłości działalność w niezmniejszonym istotnie zakresie, bez postawienia jej w stan likwidacji lub upadłości, chyba że jest to niezgodne ze stanem faktycznym lub prawnym“. (Streszczenie UoR, Rozdz. 1, Art. 5 ust. 2).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 35,
+    "question": "Na jaki minimalny okres kierownik jednostki ocenia zdolność do kontynuacji działalności przy sporządzaniu SF?",
+    "options": [
+      "Co najmniej 6 miesięcy od dnia bilansowego",
+      "Co najmniej 1 rok od dnia bilansowego",
+      "Co najmniej 2 lata od dnia bilansowego",
+      "Do końca bieżącego roku obrotowego"
+    ],
+    "correct_answer": "Co najmniej 1 rok od dnia bilansowego",
+    "explanation": "Art. 5 ust. 2 UoR (zdanie drugie): „Ustalając zdolność jednostki do kontynuowania działalności, kierownik jednostki uwzględnia wszystkie informacje dostępne na dzień sporządzenia sprawozdania finansowego, dotyczące dającej się przewidzieć przyszłości, obejmującej okres nie krótszy niż jeden rok od dnia bilansowego“. (Streszczenie UoR, Rozdz. 1, Art. 5 ust. 2).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 36,
+    "question": "Co nakazuje zasada ciągłości z Art. 5 ust. 1 UoR?",
+    "options": [
+      "Zasady rachunkowości muszą być identyczne we wszystkich spółkach grupy kapitałowej",
+      "Przyjęte zasady (politykę) rachunkowości należy stosować w sposób ciągły, dokonując w kolejnych latach jednakowego grupowania operacji, wyceny aktywów i pasywów",
+      "Raz przyjęte zasady nie mogą być nigdy zmieniane",
+      "Jednostka musi co roku weryfikować i aktualizować zasady rachunkowości"
+    ],
+    "correct_answer": "Przyjęte zasady (politykę) rachunkowości należy stosować w sposób ciągły, dokonując w kolejnych latach jednakowego grupowania operacji, wyceny aktywów i pasywów",
+    "explanation": "Art. 5 ust. 1 UoR: „Przyjęte zasady (politykę) rachunkowości należy stosować w sposób ciągły, dokonując w kolejnych latach obrotowych jednakowego grupowania operacji gospodarczych, wyceny aktywów i pasywów, w tym także dokonywania odpisów amortyzacyjnych lub umorzeniowych“. Zasada ciągłości (porównywalności). (Streszczenie UoR, Rozdz. 1, Art. 5 ust. 1).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 37,
+    "question": "Czym jest zasada memoriału wyrażona w Art. 6 ust. 1 UoR?",
+    "options": [
+      "Przychody i koszty ujmuje się tylko w momencie zapłaty",
+      "W księgach rachunkowych ujmuje się wszystkie przychody i koszty dotyczące danego roku, niezależnie od terminu ich zapłaty",
+      "Jednostka ujmuje tylko faktycznie otrzymane środki i poniesione wydatki",
+      "Przychody ujmuje się w dacie wystawienia faktury, koszty w dacie ich poniesienia"
+    ],
+    "correct_answer": "W księgach rachunkowych ujmuje się wszystkie przychody i koszty dotyczące danego roku, niezależnie od terminu ich zapłaty",
+    "explanation": "Art. 6 ust. 1 UoR: „W księgach rachunkowych jednostki należy ująć wszystkie osiągnięte, przypadające na jej rzecz przychody i obciążające ją koszty związane z tymi przychodami dotyczące danego roku obrotowego, niezależnie od terminu ich zapłaty“. Fundamentalna zasada memoriałowa. (Streszczenie UoR, Rozdz. 1, Art. 6 ust. 1).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 38,
+    "question": "Co nakazuje zasada ostrożności z Art. 7 ust. 1 UoR w zakresie przychodów?",
+    "options": [
+      "Ujmować wszystkie spodziewane przychody, nawet niepewne",
+      "Ujmować wyłącznie niewątpliwe pozostałe przychody operacyjne i zyski nadzwyczajne",
+      "Szacować przychody na podstawie danych historycznych",
+      "Ujmować przychody wyłącznie w kwocie netto po odliczeniu podatków"
+    ],
+    "correct_answer": "Ujmować wyłącznie niewątpliwe pozostałe przychody operacyjne i zyski nadzwyczajne",
+    "explanation": "Art. 7 ust. 1 pkt 3 UoR nakazuje uwzględniać „wyłącznie niewątpliwe pozostałe przychody operacyjne i zyski nadzwyczajne“. Asymetria: przychody – tylko pewne; koszty i straty – WSZYSTKIE. To istota zasady ostrożności (konserwatyzmu). (Streszczenie UoR, Rozdz. 1, Art. 7 ust. 1).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 39,
+    "question": "Czy jednostka mikro może zrezygnować z zasady ostrożności przy wycenie aktywów i pasywów?",
+    "options": [
+      "Nie – zasada ostrożności jest obowiązkowa dla wszystkich jednostek",
+      "Tak – zgodnie z Art. 7 ust. 2a UoR jednostka mikro może zrezygnować z zachowania zasady ostrożności",
+      "Tak, ale tylko za zgodą biegłego rewidenta",
+      "Tak, wyłącznie w zakresie wyceny inwestycji krótkoterminowych"
+    ],
+    "correct_answer": "Tak – zgodnie z Art. 7 ust. 2a UoR jednostka mikro może zrezygnować z zachowania zasady ostrożności",
+    "explanation": "Art. 7 ust. 2a UoR: „Jednostka mikro może zrezygnować z zachowania zasady ostrożności przy wycenie poszczególnych składników aktywów i pasywów“. Wyjątek dostępny wyłącznie dla jednostek mikro. (Streszczenie UoR, Rozdz. 1, Art. 7 ust. 2a).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 40,
+    "question": "Od kiedy obowiązują skutki zmiany zasad rachunkowości zgodnie z Art. 8 ust. 2 UoR?",
+    "options": [
+      "Od dnia podjęcia decyzji o zmianie",
+      "Od pierwszego dnia roku obrotowego, bez względu na datę podjęcia decyzji",
+      "Od początku następnego roku obrotowego",
+      "Od dnia zatwierdzenia sprawozdania finansowego przez organ zatwierdzający"
+    ],
+    "correct_answer": "Od pierwszego dnia roku obrotowego, bez względu na datę podjęcia decyzji",
+    "explanation": "Art. 8 ust. 2 UoR: „W celu rzetelnego i jasnego przedstawienia sytuacji jednostka może, ze skutkiem od pierwszego dnia roku obrotowego, bez względu na datę podjęcia decyzji, zmienić dotychczas stosowane rozwiązania na inne, przewidziane ustawą“. Zmiana ma zawsze skutek retrospektywny od początku roku. (Streszczenie UoR, Rozdz. 1, Art. 8 ust. 2).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 41,
+    "question": "Jak wycenia się należności na dzień bilansowy zgodnie z Art. 28 ust. 1 pkt 7 UoR?",
+    "options": [
+      "W wartości godziwej",
+      "W kwocie wymaganej zapłaty, z zachowaniem zasady ostrożności",
+      "W kwocie nominalnej bez żadnych korekt",
+      "W cenie nabycia pomniejszonej o odpisy umorzeniowe"
+    ],
+    "correct_answer": "W kwocie wymaganej zapłaty, z zachowaniem zasady ostrożności",
+    "explanation": "Art. 28 ust. 1 pkt 7 UoR: „należności i udzielone pożyczki – w kwocie wymaganej zapłaty, z zachowaniem zasady ostrożności“. Musi być korygowana odpisami aktualizującymi zgodnie z zasadą ostrożności. (Streszczenie UoR, Rozdz. 4, Art. 28 ust. 1 pkt 7).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 42,
+    "question": "Jak wycenia się udziały (akcje) własne na dzień bilansowy według Art. 28 ust. 1 pkt 9a UoR?",
+    "options": [
+      "Według wartości nominalnej",
+      "Według wartości rynkowej na dzień bilansowy",
+      "Według cen nabycia",
+      "Według wartości godziwej ustalonej przez zarząd"
+    ],
+    "correct_answer": "Według cen nabycia",
+    "explanation": "Art. 28 ust. 1 pkt 9a UoR: „udziały (akcje) własne – według cen nabycia“. Szczególna zasada wyceny – własne akcje/udziały nie podlegają aktualizacji wyceny do wartości rynkowej. Wykazuje się je jako wartość ujemną w pasywach bilansu. (Streszczenie UoR, Rozdz. 4, Art. 28 ust. 1 pkt 9a).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 43,
+    "question": "Jak wycenia się zobowiązania na dzień bilansowy (Art. 28 ust. 1 pkt 8 UoR)?",
+    "options": [
+      "W wartości godziwej",
+      "W kwocie wymagającej zapłaty",
+      "W wartości nominalnej",
+      "W wartości zdyskontowanej przy użyciu efektywnej stopy procentowej"
+    ],
+    "correct_answer": "W kwocie wymagającej zapłaty",
+    "explanation": "Art. 28 ust. 1 pkt 8 UoR: „zobowiązania – w kwocie wymagającej zapłaty“. Analogicznie do należności, ale bez zastrzeżenia o zasadzie ostrożności – zobowiązania wykazuje się w pełnej kwocie do zapłaty. (Streszczenie UoR, Rozdz. 4, Art. 28 ust. 1 pkt 8).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 44,
+    "question": "Jak wycenia się kapitały (fundusze) własne (z wyjątkiem akcji własnych) na dzień bilansowy?",
+    "options": [
+      "W wartości godziwej",
+      "W wartości rynkowej kapitału własnego spółki",
+      "W wartości nominalnej (Art. 28 ust. 1 pkt 10 UoR)",
+      "W wartości aktywów netto spółki"
+    ],
+    "correct_answer": "W wartości nominalnej (Art. 28 ust. 1 pkt 10 UoR)",
+    "explanation": "Art. 28 ust. 1 pkt 10 UoR: „kapitały (fundusze) własne, z wyjątkiem udziałów (akcji) własnych, oraz pozostałe aktywa i pasywa – w wartości nominalnej“. Kapitał zakładowy jest wykazywany w kwocie określonej w statucie/umowie – nie aktualizuje się go do wartości rynkowej. (Streszczenie UoR, Rozdz. 4, Art. 28 ust. 1 pkt 10).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 45,
+    "question": "Co oznacza „trwała utrata wartości“ składnika aktywów (Art. 28 ust. 7 UoR)?",
+    "options": [
+      "Każde obniżenie wartości bilansowej składnika aktywów poniżej ceny rynkowej",
+      "Sytuacja, gdy istnieje duże prawdopodobieństwo, że składnik aktywów nie przyniesie w przyszłości w znaczącej części lub w całości przewidywanych korzyści ekonomicznych",
+      "Utrata wartości składnika aktywów z powodu zużycia fizycznego",
+      "Odpis amortyzacyjny dokonany na koniec roku obrotowego"
+    ],
+    "correct_answer": "Sytuacja, gdy istnieje duże prawdopodobieństwo, że składnik aktywów nie przyniesie w przyszłości w znaczącej części lub w całości przewidywanych korzyści ekonomicznych",
+    "explanation": "Art. 28 ust. 7 UoR: „Trwała utrata wartości zachodzi wtedy, gdy istnieje duże prawdopodobieństwo, że kontrolowany przez jednostkę składnik aktywów nie przyniesie w przyszłości w znaczącej części lub w całości przewidywanych korzyści ekonomicznych“. (Streszczenie UoR, Rozdz. 4, Art. 28 ust. 7).",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 46,
+    "question": "Czy wszczęcie postępowania naprawczego albo upadłościowego z możliwością zawarcia układu stanowi przeszkodę dla uznania kontynuacji działalności?",
+    "options": [
+      "Tak – zawsze oznacza brak kontynuacji",
+      "Nie – wszczęcie takiego postępowania NIE stanowi przeszkody do uznania, że działalność będzie kontynuowana (Art. 29 ust. 3 UoR)",
+      "Tak, ale tylko gdy postępowanie trwa dłużej niż 6 miesięcy",
+      "Zależy od decyzji biegłego rewidenta"
+    ],
+    "correct_answer": "Nie – wszczęcie takiego postępowania NIE stanowi przeszkody do uznania, że działalność będzie kontynuowana (Art. 29 ust. 3 UoR)",
+    "explanation": "Art. 29 ust. 3 UoR: „Wszczęcie postępowania naprawczego albo upadłościowego z możliwością zawarcia układu lub zmiana formy prawnej jednostki nie stanowią przeszkody do uznania, że działalność będzie kontynuowana“. Dopiero faktyczna likwidacja lub upadłość bez układu wykluczają kontynuację. (Streszczenie UoR, Rozdz. 1, Art. 29 ust. 3).",
+    "topic": "Art. 29 — Brak kontynuacji"
+  },
+  {
+    "id": 47,
+    "question": "Jaką metodą wycenia się aktywa jednostki, gdy założenie kontynuacji działalności nie jest zasadne (Art. 29 ust. 1 UoR)?",
+    "options": [
+      "W wartości godziwej ustalonej przez rzeczoznawcę",
+      "Po cenach sprzedaży netto możliwych do uzyskania, nie wyższych od cen nabycia lub kosztów wytworzenia pomniejszonych o odpisy",
+      "W cenie nabycia bez żadnych korekt",
+      "W wartości likwidacyjnej ustalonej przez sąd"
+    ],
+    "correct_answer": "Po cenach sprzedaży netto możliwych do uzyskania, nie wyższych od cen nabycia lub kosztów wytworzenia pomniejszonych o odpisy",
+    "explanation": "Art. 29 ust. 1 UoR: „Jeżeli założenie kontynuacji działalności (...) nie jest zasadne, to wycena aktywów jednostki następuje po cenach sprzedaży netto możliwych do uzyskania, nie wyższych od cen ich nabycia albo kosztów wytworzenia, pomniejszonych o dotychczasowe odpisy amortyzacyjne lub umorzeniowe“. (Streszczenie UoR, Rozdz. 1, Art. 29 ust. 1).",
+    "topic": "Art. 29 — Brak kontynuacji"
+  },
+  {
+    "id": 48,
+    "question": "Na konto jakiego kapitału trafia różnica powstała w wyniku wyceny przy braku kontynuacji i utworzenia rezerwy (Art. 29 ust. 2a UoR)?",
+    "options": [
+      "Kapitał zapasowy",
+      "Wynik finansowy bieżącego roku obrotowego",
+      "Kapitał (fundusz) z aktualizacji wyceny",
+      "Pozostałe kapitały rezerwowe"
+    ],
+    "correct_answer": "Kapitał (fundusz) z aktualizacji wyceny",
+    "explanation": "Art. 29 ust. 2a UoR: „Różnica powstała w wyniku wyceny oraz utworzenia rezerwy, o których mowa w ust. 1, wpływa na kapitał (fundusz) z aktualizacji wyceny“. Nie wpływa bezpośrednio na wynik finansowy. (Streszczenie UoR, Rozdz. 1, Art. 29 ust. 2a).",
+    "topic": "Art. 29 — Brak kontynuacji"
+  },
+  {
+    "id": 49,
+    "question": "Kiedy następuje wycena po cenach sprzedaży netto przy braku kontynuacji działalności (Art. 29 ust. 2 UoR)?",
+    "options": [
+      "Wyłącznie w dniu ogłoszenia upadłości",
+      "W przeddzień postawienia w stan likwidacji lub ogłoszenia upadłości ORAZ na koniec roku, gdy kontynuacja jest niezasadna",
+      "Wyłącznie na żądanie wierzyciela lub sądu",
+      "Na dzień otwarcia likwidacji, po co najmniej 6 miesiącach od decyzji"
+    ],
+    "correct_answer": "W przeddzień postawienia w stan likwidacji lub ogłoszenia upadłości ORAZ na koniec roku, gdy kontynuacja jest niezasadna",
+    "explanation": "Art. 29 ust. 2 UoR: „Wycena po cenach sprzedaży netto i utworzenie rezerwy następują w szczególności w przeddzień postawienia jednostki w stan likwidacji lub ogłoszenia upadłości, na koniec roku obrotowego, jeżeli na dzień jego zakończenia nie jest zasadne założenie kontynuowania przez nią działalności“. (Streszczenie UoR, Rozdz. 1, Art. 29 ust. 2).",
+    "topic": "Art. 29 — Brak kontynuacji"
+  },
+  {
+    "id": 50,
+    "question": "Jaka dodatkowa czynność jest wymagana przy wycenie aktywów w przypadku braku kontynuacji działalności (Art. 29 ust. 1 UoR)?",
+    "options": [
+      "Sporządzenie sprawozdania likwidacyjnego",
+      "Utworzenie rezerwy na przewidywane dodatkowe koszty i straty spowodowane zaniechaniem lub utratą zdolności do kontynuowania działalności",
+      "Natychmiastowe zamknięcie ksiąg rachunkowych",
+      "Powołanie biegłego rewidenta do wyceny aktywów"
+    ],
+    "correct_answer": "Utworzenie rezerwy na przewidywane dodatkowe koszty i straty spowodowane zaniechaniem lub utratą zdolności do kontynuowania działalności",
+    "explanation": "Art. 29 ust. 1 UoR: obok wyceny po cenach sprzedaży netto, jednostka „tworzy rezerwę na przewidywane dodatkowe koszty i straty spowodowane zaniechaniem lub utratą zdolności do kontynuowania działalności“. Oba elementy – wycena i rezerwa – są obligatoryjne. (Streszczenie UoR, Rozdz. 1, Art. 29 ust. 1).",
+    "topic": "Art. 29 — Brak kontynuacji"
+  },
+  {
+    "id": 51,
+    "question": "Jaki jest maksymalny okres odpisywania kosztów zakończonych prac rozwojowych, gdy nie można wiarygodnie oszacować okresu ekonomicznej użyteczności (Art. 33 ust. 3 UoR)?",
+    "options": [
+      "3 lata",
+      "5 lat",
+      "10 lat",
+      "20 lat"
+    ],
+    "correct_answer": "5 lat",
+    "explanation": "Art. 33 ust. 3 UoR: „Jeżeli w wyjątkowych przypadkach nie można wiarygodnie oszacować okresu ekonomicznej użyteczności, to dokonuje się odpisów przez okres nie dłuższy niż 5 lat“. Standardem jest odpisywanie przez okres ekonomicznej użyteczności; 5 lat to maksimum dla wyjątków. (Streszczenie UoR, Rozdz. 4, Art. 33 ust. 3).",
+    "topic": "Art. 33 — Prace rozwojowe / WNiP"
+  },
+  {
+    "id": 52,
+    "question": "Ile warunków i w jaki sposób musi być spełnionych, aby koszty prac rozwojowych zaliczyć do WNiP (Art. 33 ust. 2 UoR)?",
+    "options": [
+      "Dwa z trzech warunków jednocześnie",
+      "Wszystkie trzy warunki ŁĄCZNIE",
+      "Wystarczy spełnienie jednego podstawowego warunku technicznego",
+      "Warunki muszą być potwierdzone przez niezależnego biegłego rzeczoznawcę"
+    ],
+    "correct_answer": "Wszystkie trzy warunki ŁĄCZNIE",
+    "explanation": "Art. 33 ust. 2 UoR wymaga spełnienia ŁĄCZNIE wszystkich trzech warunków: (1) produkt/technologia ściśle ustalona, koszty wiarygodnie określone, (2) techniczna przydatność stwierdzona i udokumentowana, (3) koszty zostaną pokryte przychodami ze sprzedaży. Niespełnienie choćby jednego wyklucza zaliczenie do WNiP. (Streszczenie UoR, Rozdz. 4, Art. 33 ust. 2).",
+    "topic": "Art. 33 — Prace rozwojowe / WNiP"
+  },
+  {
+    "id": 53,
+    "question": "Który z poniższych warunków NIE jest wymagany do zaliczenia kosztów prac rozwojowych do WNiP (Art. 33 ust. 2 UoR)?",
+    "options": [
+      "Produkt lub technologia są ściśle ustalone, a koszty wiarygodnie określone",
+      "Techniczna przydatność produktu została stwierdzona i udokumentowana",
+      "Koszty zostaną pokryte spodziewanymi przychodami ze sprzedaży",
+      "Prace zostały wykonane przez zewnętrzny podmiot badawczy, nie przez jednostkę"
+    ],
+    "correct_answer": "Prace zostały wykonane przez zewnętrzny podmiot badawczy, nie przez jednostkę",
+    "explanation": "Art. 33 ust. 2 UoR dotyczy wyłącznie prac prowadzonych przez jednostkę NA WŁASNE POTRZEBY, ale nie wymaga, żeby prace były wykonywane we własnym zakresie (może je zlecić). Nie ma warunku co do podmiotu wykonującego; liczy się spełnienie trzech warunków merytorycznych ŁĄCZNIE. (Streszczenie UoR, Rozdz. 4, Art. 33 ust. 2).",
+    "topic": "Art. 33 — Prace rozwojowe / WNiP"
+  },
+  {
+    "id": 54,
+    "question": "Co stanowi wartość firmy (goodwill) według Art. 33 ust. 4 UoR?",
+    "options": [
+      "Reputacja i marka firmy wyceniona przez rzeczoznawcę",
+      "Różnica między ceną nabycia określonej jednostki a niższą od niej wartością godziwą przejętych aktywów netto",
+      "Nadwyżka wartości godziwej aktywów netto nad ceną nabycia",
+      "Suma niematerialnych aktywów wykazanych w bilansie jednostki"
+    ],
+    "correct_answer": "Różnica między ceną nabycia określonej jednostki a niższą od niej wartością godziwą przejętych aktywów netto",
+    "explanation": "Art. 33 ust. 4 UoR: „Wartość firmy stanowi różnicę między ceną nabycia określonej jednostki lub zorganizowanej jej części a niższą od niej wartością godziwą przejętych aktywów netto“. WF > 0 gdy cena nabycia > wartość godziwa aktywów netto. Odwrotność to ujemna wartość firmy. (Streszczenie UoR, Rozdz. 4, Art. 33 ust. 4).",
+    "topic": "Art. 33 — Prace rozwojowe / WNiP"
+  },
+  {
+    "id": 55,
+    "question": "Ile wynosi standardowy okres odpisywania wartości firmy (goodwill) według UoR, a ile maksymalny?",
+    "options": [
+      "Standardowo 5 lat, maksymalnie 10 lat",
+      "Standardowo 5 lat, maksymalnie 20 lat",
+      "Standardowo 10 lat, maksymalnie 40 lat",
+      "Dowolny okres ustalony przez kierownika jednostki, bez ograniczeń"
+    ],
+    "correct_answer": "Standardowo 5 lat, maksymalnie 20 lat",
+    "explanation": "Art. 33 ust. 4 UoR: wartość firmy podlega odpisowi przez 5 lat, a w uzasadnionych przypadkach kierownik jednostki może wydłużyć ten okres do 20 lat. Zasadą jest 5 lat; 20 lat to wyjątek wymagający uzasadnienia i ujawnienia w informacji dodatkowej. (Streszczenie UoR, Rozdz. 4, Art. 33 ust. 4).",
+    "topic": "Art. 33 — Prace rozwojowe / WNiP"
+  },
+  {
+    "id": 56,
+    "question": "Jak wycenia się inwestycje krótkoterminowe na dzień bilansowy (Art. 28 ust. 1 pkt 5 UoR)?",
+    "options": [
+      "Wyłącznie według ceny nabycia",
+      "Według ceny (wartości) rynkowej albo ceny nabycia lub ceny rynkowej – niższej z dwóch, albo według skorygowanej ceny nabycia",
+      "Według wartości godziwej ustalonej przez biegłego rzeczoznawcę",
+      "Według wartości nominalnej lub wartości godziwej – niższej z dwóch"
+    ],
+    "correct_answer": "Według ceny (wartości) rynkowej albo ceny nabycia lub ceny rynkowej – niższej z dwóch, albo według skorygowanej ceny nabycia",
+    "explanation": "Art. 28 ust. 1 pkt 5 UoR: „inwestycje krótkoterminowe – według ceny (wartości) rynkowej albo według ceny nabycia lub ceny (wartości) rynkowej, zależnie od tego, która z nich jest niższa albo według skorygowanej ceny nabycia“. Trzy alternatywne metody. (Streszczenie UoR, Rozdz. 4, Art. 28 ust. 1 pkt 5).",
+    "topic": "Art. 35 — Inwestycje krótkoterminowe"
+  },
+  {
+    "id": 57,
+    "question": "Jakie są skutki rachunkowe wzrostu wartości inwestycji krótkoterminowych do poziomu cen rynkowych (Art. 35 ust. 4 UoR)?",
+    "options": [
+      "Zwiększenie kapitału z aktualizacji wyceny",
+      "Zaliczenie do przychodów finansowych",
+      "Zaliczenie do pozostałych przychodów operacyjnych",
+      "Zmniejszenie odpisów amortyzacyjnych"
+    ],
+    "correct_answer": "Zaliczenie do przychodów finansowych",
+    "explanation": "Art. 35 ust. 4 UoR: „Skutki przeszacowania inwestycji zaliczonych do aktywów obrotowych, powodujące wzrost ich wartości do poziomu cen rynkowych – zalicza się do przychodów finansowych“. Wzrost wartości inwestycji krótkoterminowych = przychody finansowe (nie kapitał z aktualizacji, który dotyczy środków trwałych). (Streszczenie UoR, Rozdz. 4, Art. 35 ust. 4).",
+    "topic": "Art. 35 — Inwestycje krótkoterminowe"
+  },
+  {
+    "id": 58,
+    "question": "Gdzie trafiają skutki przeszacowania powodujące obniżenie wartości inwestycji krótkoterminowych (Art. 35 ust. 4 UoR)?",
+    "options": [
+      "Zmniejszenie kapitału zapasowego",
+      "Koszty finansowe",
+      "Pozostałe koszty operacyjne",
+      "Straty nadzwyczajne"
+    ],
+    "correct_answer": "Koszty finansowe",
+    "explanation": "Art. 35 ust. 4 UoR: skutki przeszacowania inwestycji krótkoterminowych powodujące obniżenie ich wartości do poziomu cen rynkowych zalicza się do kosztów finansowych. Asymetria wobec środków trwałych: przy inwestycjach krótkoterminowych i wzrost i spadek wpływają na wynik (nie na kapitał). (Streszczenie UoR, Rozdz. 4, Art. 35 ust. 4).",
+    "topic": "Art. 35 — Inwestycje krótkoterminowe"
+  },
+  {
+    "id": 59,
+    "question": "Gdzie wykazuje się skutki przeszacowania inwestycji DŁUGOTERMINOWYCH powodujące wzrost ich wartości (Art. 35 ust. 3 UoR)?",
+    "options": [
+      "Przychody finansowe",
+      "Kapitał (fundusz) z aktualizacji wyceny",
+      "Pozostałe przychody operacyjne",
+      "Kapitał zapasowy"
+    ],
+    "correct_answer": "Kapitał (fundusz) z aktualizacji wyceny",
+    "explanation": "Art. 35 ust. 3 UoR: wzrost wartości inwestycji zaliczonych do aktywów TRWAŁYCH do poziomu cen rynkowych zalicza się na kapitał (fundusz) z aktualizacji wyceny. To odwrotność zasady dla inwestycji krótkoterminowych (gdzie wzrost = przychody finansowe). (Streszczenie UoR, Rozdz. 4, Art. 35 ust. 3).",
+    "topic": "Art. 35 — Inwestycje krótkoterminowe"
+  },
+  {
+    "id": 60,
+    "question": "Jaka jest jodatkowa zasada przy wycenie inwestycji krótkoterminowych po cenie nabycia lub cenie rynkowej (niższej z dwóch)?",
+    "options": [
+      "Zawsze stosuje się cenę nabycia bez porównania z rynkową",
+      "Porównuje się cenę nabycia z ceną rynkową i wykazuje niższą – realizacja zasady ostrożności",
+      "Stosuje się tylko cenę rynkową, bez względu na cenę nabycia",
+      "Decyduje kierownik jednostki bez żadnych reguł"
+    ],
+    "correct_answer": "Porównuje się cenę nabycia z ceną rynkową i wykazuje niższą – realizacja zasady ostrożności",
+    "explanation": "Metoda „niższa z dwóch“ (lower of cost or market) stosowana do inwestycji krótkoterminowych jest bezpośrednim wyrazem zasady ostrożności z Art. 7 UoR. Art. 28 ust. 1 pkt 5: cena nabycia lub cena rynkowa – zależnie od tego, która jest niższa. Gwarantuje to, że nie zawyżamy wartości aktywów. (Streszczenie UoR, Rozdz. 4, Art. 28 ust. 1 pkt 5).",
+    "topic": "Art. 35 — Inwestycje krótkoterminowe"
+  }
+]

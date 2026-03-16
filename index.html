@@ -3,86 +3,34 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Quiz KNF – Egzamin</title>
+  <title>Quiz KNF – Wybierz kategorię</title>
   <link rel="stylesheet" href="style.css" />
 </head>
-<body>
+<body class="page-hub">
 
-  <!-- ===== START SCREEN ===== -->
-  <div id="screen-start" class="screen active">
-    <div class="card start-card">
-      <div class="logo">📋</div>
+  <div class="hub-wrapper">
+    <header class="hub-header">
+      <div class="hub-logo">📋</div>
       <h1>Quiz KNF</h1>
-      <p class="subtitle">Przygotowanie do egzaminu z nadzoru nad rynkiem finansowym</p>
-      <ul class="rules">
-        <li>✅ <strong>30 pytań</strong> losowanych z puli</li>
-        <li>✅ Poprawna odpowiedź: <strong>+2 pkt</strong></li>
-        <li>✅ Błędna odpowiedź: <strong>−1 pkt</strong></li>
-        <li>✅ Maksymalny wynik: <strong>60 pkt</strong></li>
-      </ul>
-      <button id="btn-start" class="btn btn-primary">Rozpocznij Quiz</button>
+      <p class="hub-subtitle">Wybierz temat, który chcesz powtórzyć</p>
+    </header>
+
+    <div class="categories-grid">
+
+      <!-- KATEGORIA: Ustawa o rachunkowości -->
+      <a href="rachunkowosc.html" class="category-card">
+        <div class="category-icon">📒</div>
+        <div class="category-body">
+          <h2 class="category-title">Ustawa o rachunkowości</h2>
+          <p class="category-desc">4 testy · 120 pytań · art. 3–82 ustawy</p>
+        </div>
+        <div class="category-arrow">→</div>
+      </a>
+
+      <!-- Tu będą kolejne kategorie -->
+
     </div>
   </div>
 
-  <!-- ===== QUIZ SCREEN ===== -->
-  <div id="screen-quiz" class="screen">
-    <div class="quiz-header">
-      <div class="progress-info">
-        <span id="question-counter">Pytanie 1 z 30</span>
-      </div>
-      <div class="score-info">
-        Wynik: <span id="current-score">0</span> pkt
-      </div>
-    </div>
-
-    <div class="progress-bar-wrapper">
-      <div id="progress-bar" class="progress-bar"></div>
-    </div>
-
-    <div class="card quiz-card">
-      <p id="question-text" class="question-text"></p>
-
-      <div id="options-container" class="options-container"></div>
-
-      <div id="explanation-box" class="explanation-box hidden">
-        <span class="explanation-icon">💡</span>
-        <p id="explanation-text"></p>
-      </div>
-
-      <button id="btn-next" class="btn btn-primary btn-next hidden">
-        Następne pytanie →
-      </button>
-    </div>
-  </div>
-
-  <!-- ===== RESULTS SCREEN ===== -->
-  <div id="screen-results" class="screen">
-    <div class="card results-card">
-      <div id="result-emoji" class="result-emoji"></div>
-      <h2>Wynik końcowy</h2>
-      <div class="score-display">
-        <span id="final-score">0</span>
-        <span class="score-max"> / 60 pkt</span>
-      </div>
-      <div id="result-verdict" class="result-verdict"></div>
-      <div class="stats">
-        <div class="stat-item">
-          <span class="stat-value" id="stat-correct">0</span>
-          <span class="stat-label">Poprawnych</span>
-        </div>
-        <div class="stat-item">
-          <span class="stat-value" id="stat-wrong">0</span>
-          <span class="stat-label">Błędnych</span>
-        </div>
-        <div class="stat-item">
-          <span class="stat-value" id="stat-percent">0%</span>
-          <span class="stat-label">Skuteczność</span>
-        </div>
-      </div>
-      <button id="btn-restart" class="btn btn-primary">Zacznij od nowa</button>
-    </div>
-  </div>
-
-  <script src="app.js"></script>
 </body>
 </html>

@@ -1,19 +1,16 @@
 'use strict';
 
 // ===== CONFIG =====
-const QUESTIONS_URL = './doc/questions.json';
-const QUIZ_LENGTH   = 30;
-const POINTS_CORRECT = 2;
-const POINTS_WRONG   = -1;
-const PASS_THRESHOLD = 0.6; // 60% of max score to "pass"
+const POINTS_CORRECT  = 2;
+const POINTS_WRONG    = -1;
+const PASS_THRESHOLD  = 0.6; // 60% of max score
 
 // ===== STATE =====
-let allQuestions    = [];
-let quizQuestions   = [];
-let currentIndex    = 0;
-let score           = 0;
-let correctCount    = 0;
-let wrongCount      = 0;
+let quizQuestions  = [];
+let currentIndex   = 0;
+let score          = 0;
+let correctCount   = 0;
+let wrongCount     = 0;
 
 // ===== DOM REFS =====
 const screenStart    = document.getElementById('screen-start');
@@ -24,6 +21,7 @@ const btnStart       = document.getElementById('btn-start');
 const btnNext        = document.getElementById('btn-next');
 const btnRestart     = document.getElementById('btn-restart');
 
+const quizTitleEl      = document.getElementById('quiz-title');
 const questionCounter  = document.getElementById('question-counter');
 const currentScoreEl   = document.getElementById('current-score');
 const progressBar      = document.getElementById('progress-bar');
@@ -41,9 +39,6 @@ const statPercent     = document.getElementById('stat-percent');
 
 // ===== HELPERS =====
 
-/**
- * Fisher-Yates shuffle – mutates and returns the array.
- */
 function shuffle(arr) {
   for (let i = arr.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -58,7 +53,7 @@ function showScreen(screen) {
 }
 
 function updateProgress() {
-  const pct = ((currentIndex) / quizQuestions.length) * 100;
+  const pct = (currentIndex / quizQuestions.length) * 100;
   progressBar.style.width = `${pct}%`;
   questionCounter.textContent = `Pytanie ${currentIndex + 1} z ${quizQuestions.length}`;
   currentScoreEl.textContent  = score;
@@ -67,13 +62,14 @@ function updateProgress() {
 // ===== QUIZ LOGIC =====
 
 function initQuiz() {
-  quizQuestions = shuffle([...allQuestions]).slice(0, QUIZ_LENGTH);
-  currentIndex  = 0;
-  score         = 0;
-  correctCount  = 0;
-  wrongCount    = 0;
+  currentIndex = 0;
+  score        = 0;
+  correctCount = 0;
+  wrongCount   = 0;
   currentScoreEl.textContent = 0;
   progressBar.style.width    = '0%';
+  // Shuffle order of questions each run
+  shuffle(quizQuestions);
   showScreen(screenQuiz);
   renderQuestion();
 }
@@ -81,25 +77,20 @@ function initQuiz() {
 function renderQuestion() {
   const q = quizQuestions[currentIndex];
 
-  // Reset UI
   explanationBox.classList.add('hidden');
   btnNext.classList.add('hidden');
   optionsContainer.innerHTML = '';
 
-  // Progress
   updateProgress();
-
-  // Question text
   questionText.textContent = q.question;
 
-  // Options – shuffle display order each time
   const letters = ['A', 'B', 'C', 'D'];
   const shuffledOptions = shuffle([...q.options]);
 
   shuffledOptions.forEach((option, idx) => {
     const btn = document.createElement('button');
-    btn.className  = 'option-btn';
-    btn.dataset.value = option;
+    btn.className       = 'option-btn';
+    btn.dataset.value   = option;
 
     const letterSpan = document.createElement('span');
     letterSpan.className   = 'option-letter';
@@ -116,7 +107,6 @@ function renderQuestion() {
 }
 
 function handleAnswer(clickedBtn, question) {
-  // Lock all options
   const allBtns = optionsContainer.querySelectorAll('.option-btn');
   allBtns.forEach(b => { b.disabled = true; });
 
@@ -133,27 +123,19 @@ function handleAnswer(clickedBtn, question) {
     wrongCount++;
     clickedBtn.classList.add('wrong');
 
-    // Highlight the correct answer
     allBtns.forEach(b => {
-      if (b.dataset.value === correct) {
-        b.classList.add('correct');
-      }
+      if (b.dataset.value === correct) b.classList.add('correct');
     });
 
-    // Show explanation
     explanationText.textContent = question.explanation;
     explanationBox.classList.remove('hidden');
   }
 
   currentScoreEl.textContent = score;
+  btnNext.textContent = (currentIndex === quizQuestions.length - 1)
+    ? 'Zobacz wyniki'
+    : 'Następne pytanie →';
   btnNext.classList.remove('hidden');
-
-  // If last question, change button label
-  if (currentIndex === quizQuestions.length - 1) {
-    btnNext.textContent = 'Zobacz wyniki';
-  } else {
-    btnNext.textContent = 'Następne pytanie →';
-  }
 }
 
 function nextQuestion() {
@@ -170,54 +152,61 @@ function showResults() {
   const pct      = Math.round((correctCount / quizQuestions.length) * 100);
   const passed   = score >= Math.floor(maxScore * PASS_THRESHOLD);
 
-  finalScore.textContent     = score;
-  statCorrect.textContent    = correctCount;
-  statWrong.textContent      = wrongCount;
-  statPercent.textContent    = `${pct}%`;
+  finalScore.textContent   = score;
+  statCorrect.textContent  = correctCount;
+  statWrong.textContent    = wrongCount;
+  statPercent.textContent  = `${pct}%`;
 
   if (passed) {
-    resultEmoji.textContent  = '🏆';
+    resultEmoji.textContent   = '🏆';
     resultVerdict.textContent = 'Zaliczone! Dobry wynik!';
-    resultVerdict.className  = 'result-verdict verdict-pass';
+    resultVerdict.className   = 'result-verdict verdict-pass';
   } else {
-    resultEmoji.textContent  = '📚';
+    resultEmoji.textContent   = '📚';
     resultVerdict.textContent = 'Niezaliczone – warto powtórzyć materiał.';
-    resultVerdict.className  = 'result-verdict verdict-fail';
+    resultVerdict.className   = 'result-verdict verdict-fail';
   }
 
-  // Animate progress bar to 100%
   progressBar.style.width = '100%';
-
   showScreen(screenResults);
 }
 
 // ===== FETCH QUESTIONS =====
 
 async function loadQuestions() {
+  const params  = new URLSearchParams(window.location.search);
+  const src     = params.get('src');
+  const title   = params.get('title') || 'Quiz';
+
+  if (quizTitleEl) quizTitleEl.textContent = decodeURIComponent(title);
+  document.title = decodeURIComponent(title) + ' – Quiz KNF';
+
+  if (!src) {
+    btnStart.textContent = 'Brak źródła pytań (parametr ?src=)';
+    return;
+  }
+
   try {
-    const response = await fetch(QUESTIONS_URL);
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-    }
+    const response = await fetch(src);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
-    if (!Array.isArray(data) || data.length === 0) {
-      throw new Error('Plik questions.json jest pusty lub ma nieprawidłowy format.');
-    }
-    allQuestions = data;
-    btnStart.disabled      = false;
-    btnStart.textContent   = 'Rozpocznij Quiz';
+    if (!Array.isArray(data) || data.length === 0) throw new Error('Pusty plik JSON.');
+
+    quizQuestions        = data;
+    btnStart.disabled    = false;
+    btnStart.textContent = 'Rozpocznij Quiz';
   } catch (err) {
     btnStart.textContent = 'Błąd ładowania pytań';
     btnStart.disabled    = true;
-    console.error('[Quiz] Nie udało się załadować pytań:', err);
-    alert(`Nie udało się załadować pytań.\n\n${err.message}\n\nUpewnij się, że plik doc/questions.json istnieje i jest dostępny.`);
+    console.error('[Quiz]', err);
+    alert(`Nie udało się załadować pytań.\n${err.message}`);
   }
 }
 
 // ===== EVENT LISTENERS =====
 
 btnStart.addEventListener('click', () => {
-  if (allQuestions.length > 0) initQuiz();
+  if (quizQuestions.length > 0) initQuiz();
 });
 
 btnNext.addEventListener('click', nextQuestion);
@@ -225,7 +214,4 @@ btnNext.addEventListener('click', nextQuestion);
 btnRestart.addEventListener('click', initQuiz);
 
 // ===== INIT =====
-
-btnStart.disabled    = true;
-btnStart.textContent = 'Ładowanie pytań…';
 loadQuestions();
