@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "question": "Zgodnie z ustawą o rachunkowości, prawdą jest, że:",
+    "options": [
+      "jeżeli założenie kontynuacji działalności nie jest zasadne, to wycena aktywów jednostki następuje, w każdym przypadku, po cenach ich nabycia albo kosztach wytworzenia",
+      "jeżeli założenie kontynuacji działalności nie jest zasadne, to wycena aktywów jednostki następuje, w każdym przypadku, po cenach sprzedaży netto możliwych do uzyskania",
+      "otwarcie postępowania restrukturyzacyjnego nie stanowi przeszkody do uznania, że działalność jednostki będzie kontynuowana",
+      "zmiana formy prawnej jednostki, w każdym przypadku oznacza, że założenie kontynuacji działalności nie jest zasadne"
+    ],
+    "correct_answer": "otwarcie postępowania restrukturyzacyjnego nie stanowi przeszkody do uznania, że działalność jednostki będzie kontynuowana",
+    "explanation": "Zgodnie z Art. 29 ust. 3 ustawy o rachunkowości, wszczęcie postępowania naprawczego albo upadłościowego z możliwością zawarcia układu lub zmiana formy prawnej jednostki nie stanowią przeszkody do uznania, że działalność będzie kontynuowana. Otwarcie postępowania restrukturyzacyjnego jest traktowane tak samo. Opcja A błędna - przy braku kontynuacji wycena po cenach sprzedaży netto, nie nabycia. Opcja B niepełna - cena sprzedaży netto nie wyższa niż cena nabycia/koszt wytworzenia minus odpisy. Opcja D błędna - zmiana formy prawnej NIE oznacza automatycznie braku kontynuacji. (Egzamin KNF I etap, Marzec 2025, pyt. 7 | Art. 29 ust. 3 UoR)",
+    "topic": "Art. 29 — Brak kontynuacji działalności"
+  },
+  {
+    "id": 2,
+    "question": "W przypadku rozliczania łączenia się spółek handlowych metodą łączenia udziałów, zgodnie z ustawą o rachunkowości, koszty poniesione w związku z połączeniem, w tym również koszty organizacji poniesione przy założeniu nowej spółki lub koszty podwyższenia kapitału spółki, na którą przechodzi majątek łączących się spółek, zalicza się do:",
+    "options": [
+      "strat nadzwyczajnych",
+      "kosztów finansowych",
+      "pozostałych kosztów operacyjnych",
+      "kosztów ogólnego zarządu"
+    ],
+    "correct_answer": "kosztów finansowych",
+    "explanation": "Art. 44c ust. 5 UoR: przy metodzie łączenia udziałów koszty poniesione w związku z połączeniem zalicza się do kosztów finansowych okresu sprawozdawczego, w którym zostały poniesione. Nie zalicza się ich do pozostałych kosztów operacyjnych ani strat nadzwyczajnych. (Egzamin KNF I etap, Marzec 2025, pyt. 22 | Art. 44c ust. 5 UoR)",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 3,
+    "question": "Wskaż, na podstawie ustawy o rachunkowości, na którą z poniżej wymienionych pozycji ogólnego rachunku zysków i strat zakładu ubezpieczeń mają wpływ straty nadzwyczajne poniesione przez tę jednostkę:",
+    "options": [
+      "wynik techniczny ubezpieczeń",
+      "koszty działalności lokacyjnej",
+      "pozostałe koszty operacyjne",
+      "zysk (strata) brutto"
+    ],
+    "correct_answer": "zysk (strata) brutto",
+    "explanation": "Zgodnie z Art. 44 UoR, straty nadzwyczajne zakładu ubezpieczeń wpływają na pozycję zysk (strata) brutto. Zakłady ubezpieczeń wykazują straty i zyski nadzwyczajne jako odrębną pozycję rachunku zysków i strat, nie w pozostałych kosztach operacyjnych. (Egzamin KNF I etap, Marzec 2025, pyt. 45 | Art. 44 UoR)",
+    "topic": "Art. 4–8 — Zasady nadrzędne"
+  },
+  {
+    "id": 4,
+    "question": "Zgodnie z ustawą o rachunkowości, przez \"aktywa netto\" rozumie się:",
+    "options": [
+      "aktywa jednostki pomniejszone o aktywa obrotowe",
+      "aktywa obrotowe jednostki pomniejszone o zapasy",
+      "aktywa obrotowe jednostki pomniejszone o zobowiązania krótkoterminowe",
+      "aktywa jednostki pomniejszone o zobowiązania, odpowiadające wartościowo kapitałowi (funduszowi) własnemu"
+    ],
+    "correct_answer": "aktywa jednostki pomniejszone o zobowiązania, odpowiadające wartościowo kapitałowi (funduszowi) własnemu",
+    "explanation": "Art. 3 ust. 1 pkt 29 UoR: aktywa netto = aktywa jednostki pomniejszone o zobowiązania, odpowiadające wartościowo kapitałowi własnemu. Wzór: Aktywa netto = Aktywa ogółem - Zobowiązania ogółem = Kapitał własny. Opcja A to definicja aktywów trwałych. Opcje B i C dotyczą wskaźników płynności. (Egzamin KNF I etap, Marzec 2025, pyt. 53 | Art. 3 ust. 1 pkt 29 UoR)",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 5,
+    "question": "Zgodnie z ustawą o rachunkowości, udziały (akcje) własne:",
+    "options": [
+      "wykazuje się w bilansie, w aktywach",
+      "wykazuje się w bilansie, jako składnik kapitału (funduszu) własnego",
+      "wycenia się nie rzadziej niż na dzień bilansowy według wartości nominalnej",
+      "wycenia się nie rzadziej niż na dzień bilansowy według wartości godziwej"
+    ],
+    "correct_answer": "wykazuje się w bilansie, w aktywach",
+    "explanation": "Udziały (akcje) własne wykazuje się w bilansie w aktywach jako odrębna pozycja D. Wyceniane są według cen nabycia (Art. 28 ust. 1 pkt 9a UoR), nie wg wartości nominalnej ani godziwej. Nie są składnikiem kapitału własnego. (Egzamin KNF I etap, Marzec 2025, pyt. 63 | Art. 28 ust. 1 pkt 9a UoR, Załącznik nr 1)",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 6,
+    "question": "Zgodnie z ustawą o rachunkowości, skonsolidowane sprawozdania finansowe banków:",
+    "options": [
+      "sporządza się zgodnie z MSR",
+      "mogą być sporządzane zgodnie z MSR, jeżeli organ zatwierdzający banku tak postanowi",
+      "mogą być sporządzane zgodnie z MSR, jeżeli organ nadzorujący banku tak postanowi",
+      "mogą być sporządzane zgodnie z MSR, jeżeli organ zarządzający banku tak postanowi"
+    ],
+    "correct_answer": "sporządza się zgodnie z MSR",
+    "explanation": "Art. 55 ust. 6 UoR: skonsolidowane sprawozdania emitentów papierów wartościowych na rynkach regulowanych EOG sporządza się OBOWIĄZKOWO zgodnie z MSR. Banki-emitenci mają obowiązek stosowania MSR - nie jest to opcja zależna od decyzji organu. (Egzamin KNF I etap, Marzec 2025, pyt. 106 | Art. 55 ust. 6 UoR)",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 7,
+    "question": "Zgodnie z ustawą o rachunkowości, w przypadku umorzenia akcji własnych, w spółce akcyjnej, dodatnią różnicę między ich wartością nominalną a ceną nabycia należy odnieść na:",
+    "options": [
+      "kapitał zakładowy",
+      "kapitał zapasowy",
+      "zobowiązania długoterminowe",
+      "rezerwy na zobowiązania"
+    ],
+    "correct_answer": "kapitał zapasowy",
+    "explanation": "Art. 36a ust. 2 UoR: przy umorzeniu akcji własnych, dodatnią różnicę między wartością nominalną a ceną nabycia odnosi się na kapitał zapasowy. Kapitał zakładowy zmniejsza się o wartość nominalną umorzonych akcji, ale różnica nie trafia na ten kapitał. Opcje C i D nie mają podstawy w przepisach o umorzeniu akcji własnych. (Egzamin KNF I etap, Marzec 2024, pyt. 36 | Art. 36a ust. 2 UoR)",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  },
+  {
+    "id": 8,
+    "question": "Zgodnie z ustawą o rachunkowości, jeżeli założenie kontynuacji działalności, o którym mowa w ustawie o rachunkowości, nie jest zasadne, to wycena aktywów jednostki następuje:",
+    "options": [
+      "po cenach sprzedaży netto możliwych do uzyskania, nie wyższych od cen ich nabycia albo kosztów wytworzenia, pomniejszonych o dotychczasowe odpisy amortyzacyjne lub umorzeniowe, a także odpisy z tytułu trwałej utraty wartości. Jeżeli nie jest możliwe ustalenie ceny sprzedaży netto danego składnika aktywów, należy w inny sposób określić jego wartość godziwą na dzień bilansowy",
+      "zawsze według cen ich nabycia albo kosztów wytworzenia",
+      "metodą praw własności",
+      "w wartości nominalnej"
+    ],
+    "correct_answer": "po cenach sprzedaży netto możliwych do uzyskania, nie wyższych od cen ich nabycia albo kosztów wytworzenia, pomniejszonych o dotychczasowe odpisy amortyzacyjne lub umorzeniowe, a także odpisy z tytułu trwałej utraty wartości. Jeżeli nie jest możliwe ustalenie ceny sprzedaży netto danego składnika aktywów, należy w inny sposób określić jego wartość godziwą na dzień bilansowy",
+    "explanation": "Art. 29 ust. 1 UoR: przy braku kontynuacji wycena aktywów po cenach sprzedaży netto, nie wyższych od cen nabycia/kosztów wytworzenia minus odpisy amortyzacyjne i odpisy z tytułu utraty wartości. Jeśli ustalenie ceny sprzedaży netto niemożliwe - stosuje się wartość godziwą. Opcja B (ceny nabycia) dotyczy kontynuacji. Opcja C (metoda praw własności) dotyczy wyceny udziałów w jednostkach zależnych. (Egzamin KNF I etap, Marzec 2024, pyt. 56 | Art. 29 ust. 1 UoR)",
+    "topic": "Art. 29 — Brak kontynuacji działalności"
+  },
+  {
+    "id": 9,
+    "question": "Na podstawie ustawy o rachunkowości, wskaż stwierdzenie prawdziwe:",
+    "options": [
+      "przez \"rezerwy\" rozumie się zobowiązania, których termin wymagalności lub kwota nie są pewne",
+      "przez \"znaczącego inwestora\" rozumie się jednostkę, która sprawuje kontrolę nad jednostką zależną",
+      "przez \"jednostkę stowarzyszoną\" rozumie się jednostkę, która jest współkontrolowana przez wspólników na podstawie zawartej pomiędzy nimi umowy, umowy spółki lub statutu",
+      "do instrumentów finansowych zalicza się rezerwy i aktywa z tytułu odroczonego podatku dochodowego"
+    ],
+    "correct_answer": "przez \"rezerwy\" rozumie się zobowiązania, których termin wymagalności lub kwota nie są pewne",
+    "explanation": "Art. 3 ust. 1 pkt 21 UoR: rezerwy to zobowiązania, których termin wymagalności lub kwota nie są pewne. Opcja B błędna - znaczący inwestor to jednostka posiadająca znaczący wpływ (nie kontrolę). Opcja C opisuje wspólne przedsięwzięcie, nie jednostkę stowarzyszoną. Opcja D błędna - Art. 3 ust. 1 pkt 23 wyłącza rezerwy i aktywa z odroczonego podatku z instrumentów finansowych. (Egzamin KNF I etap, Marzec 2024, pyt. 59 | Art. 3 ust. 1 pkt 21 UoR)",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 10,
+    "question": "Zgodnie z ustawą o rachunkowości, skonsolidowane sprawozdania finansowe banków:",
+    "options": [
+      "mogą być sporządzane zgodnie z MSR, pod warunkiem podjęcia odpowiedniej decyzji przez organ zatwierdzający jednostki dominującej",
+      "mogą być sporządzane zgodnie z MSR, pod warunkiem podjęcia odpowiedniej decyzji przez kierownika jednostki dominującej",
+      "mogą być sporządzane zgodnie z MSR, pod warunkiem uzyskania zgody Komisji Nadzoru Finansowego",
+      "sporządza się zgodnie z MSR"
+    ],
+    "correct_answer": "sporządza się zgodnie z MSR",
+    "explanation": "Pytanie analogiczne do pyt. 6 (Marzec 2025), z innymi dystryktorami. Art. 55 ust. 6 UoR wymaga obowiązkowego stosowania MSR dla skonsolidowanych sprawozdań banków-emitentów na rynkach regulowanych EOG. To obowiązek z mocy prawa, nie opcja. Opcje A, B, C sugerują fakultatywność. Pytanie pojawiało się dwukrotnie (2024 i 2025). (Egzamin KNF I etap, Marzec 2024, pyt. 95 | Art. 55 ust. 6 UoR)",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 11,
+    "question": "Zgodnie z ustawą o rachunkowości, w przypadku rozliczenia połączenia spółek handlowych metodą nabycia:",
+    "options": [
+      "kapitał (fundusz) własny spółki przejętej ustalony na dzień połączenia jako aktywa netto według wartości godziwej podlega wyłączeniu",
+      "w bilansie połączonych spółek wyłączeniu nie podlegają wzajemne należności i zobowiązania",
+      "nadwyżka ceny przejęcia nad wartością godziwą aktywów netto spółki przejętej wykazywana jest w pasywach spółki, na którą przeszedł majątek połączonych spółek, jako ujemna wartość firmy",
+      "odpisów amortyzacyjnych od wartości firmy dokonuje się metodą liniową i zalicza się je do pozostałych przychodów operacyjnych"
+    ],
+    "correct_answer": "kapitał (fundusz) własny spółki przejętej ustalony na dzień połączenia jako aktywa netto według wartości godziwej podlega wyłączeniu",
+    "explanation": "Art. 44b ust. 1 UoR: przy metodzie nabycia kapitał własny spółki przejętej (jako aktywa netto wg wartości godziwej) podlega wyłączeniu. Opcja B błędna - Art. 44b ust. 6 wymaga wyłączenia wzajemnych należności i zobowiązań. Opcja C błędna - nadwyżka ceny nad wartością godziwą to DODATNIA wartość firmy (w aktywach), nie ujemna. Opcja D błędna - odpisy od wartości firmy to pozostałe koszty operacyjne, nie przychody. (Egzamin KNF I etap, Kwiecień 2023, pyt. 33 | Art. 44b ust. 1 UoR)",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 12,
+    "question": "Na podstawie ustawy o rachunkowości, wskaż stwierdzenie fałszywe:",
+    "options": [
+      "dzień bilansowy to dzień, na który jednostka sporządza sprawozdanie finansowe",
+      "aktywa netto to aktywa jednostki pomniejszone o zobowiązania, odpowiadające wartościowo kapitałowi (funduszowi) własnemu",
+      "kapitały mniejszości to część aktywów jednostki zależnej, objętej skonsolidowanym sprawozdaniem finansowym, która należy do udziałowców innych niż jednostki grupy kapitałowej",
+      "grupa kapitałowa to jednostka dominująca wraz z jednostkami zależnymi i jednostkami stowarzyszonymi"
+    ],
+    "correct_answer": "grupa kapitałowa to jednostka dominująca wraz z jednostkami zależnymi i jednostkami stowarzyszonymi",
+    "explanation": "Art. 3 ust. 1 pkt 44 UoR: grupa kapitałowa to jednostka dominująca wraz z jednostkami ZALEŻNYMI (bez stowarzyszonych). Opcja D błędnie dodaje jednostki stowarzyszone. Pozostałe opcje prawdziwe: A - Art. 3 ust. 1 pkt 10 (dzień bilansowy), B - Art. 3 ust. 1 pkt 29 (aktywa netto), C - Art. 3 ust. 1 pkt 46 (kapitały mniejszości). (Egzamin KNF I etap, Kwiecień 2023, pyt. 74 | Art. 3 ust. 1 pkt 44 UoR)",
+    "topic": "Art. 3 — Definicje"
+  }
+]

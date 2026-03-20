@@ -139,6 +139,22 @@ body.page-hub {
   font-size: 2rem;
 }
 
+/* ===== EXAM SECTION LABEL ===== */
+.hub-section-label {
+  margin: 2rem 0 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  border-bottom: 1px solid #e2e8f0;
+  padding-bottom: 0.4rem;
+}
+
+.test-card--exam {
+  border-left: 3px solid var(--color-primary);
+}
+
 /* ===== QUIZ SCREENS ===== */
 .screen {
   display: none;

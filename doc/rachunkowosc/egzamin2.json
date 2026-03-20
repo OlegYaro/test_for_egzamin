@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "question": "Zgodnie z ustawą o rachunkowości, odnośnie kosztów zakończonych prac rozwojowych prowadzonych przez jednostkę na własne potrzeby, poniesionych przed podjęciem produkcji lub zastosowaniem technologii, prawdą jest, że:",
+    "options": [
+      "zawsze obciążają koszty okresu z chwilą ich poniesienia",
+      "zawsze ujmowane są jako zapasy",
+      "zalicza się je do wartości niematerialnych i prawnych, jeżeli spełnione są warunki określone w ustawie o rachunkowości",
+      "w każdym przypadku dokonuje się od nich odpisów amortyzacyjnych przez okres nie dłuższy niż 10 lat"
+    ],
+    "correct_answer": "zalicza się je do wartości niematerialnych i prawnych, jeżeli spełnione są warunki określone w ustawie o rachunkowości",
+    "explanation": "Art. 33 ust. 2 UoR: koszty zakończonych prac rozwojowych zalicza się do WNiP, jeżeli spełnione są warunki: (1) produkt/technologia ściśle ustalone, koszty wiarygodnie określone, (2) techniczna przydatność stwierdzona, (3) koszty pokryte z przychodów, (4) podjęto decyzję o wytwarzaniu. Opcja A błędna - mogą być aktywowane. Opcja B błędna - nie zapasy. Opcja D błędna - amortyzacja nie dłużej niż 5 lat (Art. 33 ust. 3), nie 10 lat. (Egzamin KNF I etap, Kwiecień 2023, pyt. 94 | Art. 33 ust. 2 i 3 UoR)",
+    "topic": "Art. 33 — Wartości niematerialne i prawne / Prace rozwojowe"
+  },
+  {
+    "id": 2,
+    "question": "Zgodnie z Rozporządzeniem Ministra Finansów w sprawie informacji bieżących i okresowych przekazywanych przez emitentów papierów wartościowych, emitent z siedzibą na terytorium RP, którego papiery wartościowe nie zostały dopuszczone do obrotu na rynku regulowanym na dzień bilansowy kończący dany rok i który przekazuje skonsolidowany raport roczny za ten rok, sporządza skonsolidowane sprawozdanie finansowe za ten rok obrotowy:",
+    "options": [
+      "zgodnie z polskimi zasadami rachunkowości albo, po podjęciu decyzji przez kierownika jednostki - zgodnie z MSR",
+      "zgodnie z polskimi zasadami rachunkowości albo, po podjęciu przez organ zatwierdzający decyzji, o której mowa w ustawie o rachunkowości - zgodnie z MSR",
+      "wyłącznie zgodnie z polskimi zasadami rachunkowości",
+      "zawsze zgodnie z MSR"
+    ],
+    "correct_answer": "zgodnie z polskimi zasadami rachunkowości albo, po podjęciu przez organ zatwierdzający decyzji, o której mowa w ustawie o rachunkowości - zgodnie z MSR",
+    "explanation": "Emitent niedopuszczony do obrotu na rynku regulowanym ma wybór: polskie zasady rachunkowości ALBO MSR po decyzji organu zatwierdzającego (Art. 45 ust. 1c-1e UoR). Opcja A błędna - decyzję podejmuje organ zatwierdzający, nie kierownik. Opcja C błędna - MSR dopuszczalne. Opcja D błędna - MSR obowiązkowe tylko dla emitentów na rynku regulowanym. (Egzamin KNF I etap, Kwiecień 2023, pyt. 25 | Art. 45 ust. 1c-1e UoR)",
+    "topic": "Art. 45 / 55 — Sprawozdawczość finansowa / MSR"
+  },
+  {
+    "id": 3,
+    "question": "Wskaż, na podstawie ustawy o rachunkowości, które z poniższych stwierdzeń jest prawdziwe:",
+    "options": [
+      "wyboru firmy audytorskiej do przeprowadzenia badania sprawozdania finansowego dokonuje kierownik jednostki",
+      "wyboru firmy audytorskiej do przeprowadzenia badania sprawozdania finansowego dokonuje kierownik jednostki, jeżeli statut lub umowa jednostki tak stanowi",
+      "wyboru firmy audytorskiej do przeprowadzenia badania sprawozdania finansowego dokonuje zawsze organ zatwierdzający sprawozdanie finansowe jednostki",
+      "wyboru firmy audytorskiej do przeprowadzenia badania sprawozdania finansowego dokonuje organ zatwierdzający sprawozdanie finansowe jednostki, chyba że statut, umowa lub inne wiążące jednostkę przepisy prawa stanowią inaczej. Kierownik jednostki nie może dokonać takiego wyboru"
+    ],
+    "correct_answer": "wyboru firmy audytorskiej do przeprowadzenia badania sprawozdania finansowego dokonuje organ zatwierdzający sprawozdanie finansowe jednostki, chyba że statut, umowa lub inne wiążące jednostkę przepisy prawa stanowią inaczej. Kierownik jednostki nie może dokonać takiego wyboru",
+    "explanation": "Art. 66 ust. 4 UoR: wyboru firmy audytorskiej dokonuje organ zatwierdzający sprawozdanie finansowe jednostki, chyba że statut, umowa lub inne wiążące jednostkę przepisy prawa stanowią inaczej. Kierownik jednostki NIE może dokonać takiego wyboru. Opcja A błędna - kierownik nie ma tej kompetencji. Opcja B błędna - to nie statut daje kierownikowi takie prawo. Opcja C błędna - nie zawsze organ zatwierdzający, bo statut/umowa może stanowić inaczej. (Egzamin KNF I etap, Wrzesień 2020, pyt. 30 | Art. 66 ust. 4 UoR)",
+    "topic": "Art. 66 — Badanie sprawozdania finansowego"
+  },
+  {
+    "id": 4,
+    "question": "Zgodnie z ustawą o rachunkowości, odnośnie skonsolidowanego sprawozdania finansowego prawdą jest, że:",
+    "options": [
+      "podlegające konsolidacji dane jednostki zależnej konsoliduje się metodą konsolidacji pełnej, o której mowa w tej ustawie",
+      "dane jednostek stowarzyszonych wykazuje się w skonsolidowanym sprawozdaniu finansowym przy zastosowaniu metody proporcjonalnej, o której mowa w tej ustawie",
+      "skonsolidowane sprawozdania finansowe banków mogą być sporządzane zgodnie z MSR, pod warunkiem, że kierownik jednostki tak postanowi",
+      "skonsolidowane sprawozdanie finansowe podpisuje organ zatwierdzający jednostki dominującej"
+    ],
+    "correct_answer": "podlegające konsolidacji dane jednostki zależnej konsoliduje się metodą konsolidacji pełnej, o której mowa w tej ustawie",
+    "explanation": "Art. 55 ust. 1 i Art. 60 UoR: dane jednostki zależnej konsoliduje się metodą konsolidacji pełnej. Opcja B błędna - jednostki stowarzyszone wykazuje się metodą praw własności (Art. 63), nie proporcjonalną (proporcjonalna to dla wspólnych przedsięwzięć). Opcja C błędna - skonsolidowane sprawozdania banków sporządza się obowiązkowo zgodnie z MSR, a decyzję podejmuje organ zatwierdzający, nie kierownik. Opcja D błędna - sprawozdanie podpisuje kierownik jednostki dominującej, nie organ zatwierdzający. (Egzamin KNF I etap, Wrzesień 2020, pyt. 63 | Art. 55-60 UoR)",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 5,
+    "question": "Zgodnie z ustawą o rachunkowości, przez \"jednostkę współzależną\" rozumie się:",
+    "options": [
+      "jednostkę kontrolowaną przez jednostkę dominującą",
+      "jednostkę, w której znaczący inwestor posiada zaangażowanie w kapitale, oraz na którą wywiera znaczący wpływ",
+      "jednostkę, która jest współkontrolowana przez wspólników na podstawie zawartej pomiędzy nimi umowy, umowy spółki lub statutu",
+      "jednostkę wchodzącą w skład grupy kapitałowej"
+    ],
+    "correct_answer": "jednostkę, która jest współkontrolowana przez wspólników na podstawie zawartej pomiędzy nimi umowy, umowy spółki lub statutu",
+    "explanation": "Art. 3 ust. 1 pkt 40 UoR: jednostka współzależna to jednostka współkontrolowana przez wspólników na podstawie zawartej umowy, umowy spółki lub statutu. Opcja A opisuje jednostkę zależną (Art. 3 ust. 1 pkt 39). Opcja B opisuje jednostkę stowarzyszoną (Art. 3 ust. 1 pkt 41). Opcja D jest zbyt ogólna - nie każda jednostka w grupie kapitałowej jest współzależna. (Egzamin KNF I etap, Wrzesień 2020, pyt. 65 | Art. 3 ust. 1 pkt 40 UoR)",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 6,
+    "question": "Zgodnie z ustawą o rachunkowości, o rozwiązaniu umowy o badanie sprawozdania finansowego kierownik jednostki oraz firma audytorska informują niezwłocznie, wraz z podaniem stosownego wyjaśnienia przyczyn rozwiązania umowy:",
+    "options": [
+      "Komisję Nadzoru Audytowego, a w przypadku jednostki zainteresowania publicznego w rozumieniu art. 2 pkt 9 ustawy o biegłych rewidentach - także Komisję Nadzoru Finansowego",
+      "Krajową Radę Biegłych Rewidentów, a w przypadku jednostki zainteresowania publicznego w rozumieniu art. 2 pkt 9 ustawy o biegłych rewidentach - także Komisję Nadzoru Audytowego",
+      "Polską Agencję Nadzoru Audytowego, a w przypadku jednostki zainteresowania publicznego w rozumieniu art. 2 pkt 9 ustawy o biegłych rewidentach - także Komisję Nadzoru Finansowego",
+      "Polską Agencję Nadzoru Audytowego, a w przypadku jednostki zainteresowania publicznego w rozumieniu art. 2 pkt 9 ustawy o biegłych rewidentach - także Krajową Radę Biegłych Rewidentów"
+    ],
+    "correct_answer": "Polską Agencję Nadzoru Audytowego, a w przypadku jednostki zainteresowania publicznego w rozumieniu art. 2 pkt 9 ustawy o biegłych rewidentach - także Komisję Nadzoru Finansowego",
+    "explanation": "Art. 66 ust. 7 UoR: o rozwiązaniu umowy o badanie kierownik jednostki i firma audytorska informują niezwłocznie Polską Agencję Nadzoru Audytowego (PANA), a w przypadku JZP - także KNF. Opcja A błędna - Komisja Nadzoru Audytowego została zastąpiona przez PANA. Opcja B błędna - ani Krajowa Rada Biegłych Rewidentów, ani Komisja Nadzoru Audytowego. Opcja D błędna - w przypadku JZP informuje się KNF, nie KRBR. (Egzamin KNF I etap, Wrzesień 2020, pyt. 102 | Art. 66 ust. 7 UoR)",
+    "topic": "Art. 66 — Badanie sprawozdania finansowego"
+  },
+  {
+    "id": 7,
+    "question": "Zgodnie z ustawą o rachunkowości, wspólnik jednostki współzależnej to jednostka sprawująca wraz z innymi udziałowcami współkontrolę nad jednostką współzależną, będąca:",
+    "options": [
+      "spółką handlową lub spółką cywilną",
+      "spółką handlową lub przedsiębiorstwem państwowym",
+      "wyłącznie spółką handlową",
+      "wyłącznie spółką akcyjną"
+    ],
+    "correct_answer": "spółką handlową lub przedsiębiorstwem państwowym",
+    "explanation": "Art. 3 ust. 1 pkt 40a UoR: wspólnik jednostki współzależnej to jednostka będąca spółką handlową lub przedsiębiorstwem państwowym, sprawująca wraz z innymi udziałowcami współkontrolę nad jednostką współzależną. Opcja A błędna - spółka cywilna nie jest wymieniona. Opcja C błędna - nie wyłącznie spółka handlowa, również przedsiębiorstwo państwowe. Opcja D błędna - nie wyłącznie spółka akcyjna. (Egzamin KNF I etap, Marzec 2022, pyt. 19 | Art. 3 ust. 1 pkt 40a UoR)",
+    "topic": "Art. 3 — Definicje"
+  },
+  {
+    "id": 8,
+    "question": "Zgodnie z ustawą o rachunkowości, za dzień połączenia spółek przyjmuje się:",
+    "options": [
+      "dzień, w którym spółka przejmująca rozpoczyna wywieranie znaczącego wpływu na spółkę przejmowaną",
+      "dzień, w którym spółka przejmująca obejmuje kontrolę nad spółką przejmowaną",
+      "dzień wpisania połączenia spółek do rejestru właściwego dla siedziby odpowiednio spółki przejmującej albo spółki nowo zawiązanej",
+      "dzień wpisania połączenia spółek do rejestru właściwego dla siedziby spółki przejmowanej"
+    ],
+    "correct_answer": "dzień wpisania połączenia spółek do rejestru właściwego dla siedziby odpowiednio spółki przejmującej albo spółki nowo zawiązanej",
+    "explanation": "Art. 44a ust. 2 UoR: za dzień połączenia spółek przyjmuje się dzień wpisania połączenia do rejestru właściwego dla siedziby odpowiednio spółki przejmującej albo spółki nowo zawiązanej. Opcja A błędna - dotyczy jednostek stowarzyszonych, nie połączenia spółek. Opcja B błędna - dzień objęcia kontroli to koncepcja z MSSF 3, nie z UoR. Opcja D błędna - rejestr siedziby spółki przejmującej (nie przejmowanej). (Egzamin KNF I etap, Marzec 2022, pyt. 80 | Art. 44a ust. 2 UoR)",
+    "topic": "Art. 44a/44b/44c — Łączenie spółek"
+  },
+  {
+    "id": 9,
+    "question": "Zgodnie z ustawą o rachunkowości, sprawozdania finansowe emitentów papierów wartościowych dopuszczonych do obrotu na jednym z rynków regulowanych krajów Europejskiego Obszaru Gospodarczego:",
+    "options": [
+      "obowiązkowo sporządzane są zgodnie z MSR",
+      "obowiązkowo sporządzane są zgodnie z MSR, jeżeli emitent sporządza również skonsolidowane sprawozdania finansowe zgodnie z MSR",
+      "mogą być sporządzane zgodnie z MSR. Decyzję w sprawie sporządzania przez jednostkę sprawozdań finansowych zgodnie z MSR podejmuje kierownik jednostki",
+      "mogą być sporządzane zgodnie z MSR. Decyzję w sprawie sporządzania przez jednostkę sprawozdań finansowych zgodnie z MSR podejmuje organ zatwierdzający jednostki"
+    ],
+    "correct_answer": "mogą być sporządzane zgodnie z MSR. Decyzję w sprawie sporządzania przez jednostkę sprawozdań finansowych zgodnie z MSR podejmuje organ zatwierdzający jednostki",
+    "explanation": "Art. 45 ust. 1a i 1c UoR: sprawozdania finansowe emitentów dopuszczonych do obrotu na rynkach regulowanych EOG MOGĄ być sporządzane zgodnie z MSR (nie muszą). Decyzję podejmuje organ zatwierdzający (Art. 45 ust. 1c). UWAGA: skonsolidowane sprawozdania emitentów sporządza się OBOWIĄZKOWO zgodnie z MSR (Art. 55 ust. 5), ale jednostkowe - fakultatywnie. Opcja A błędna - nie obowiązkowo (dotyczy tylko skonsolidowanych). Opcja C błędna - decyzję podejmuje organ zatwierdzający, nie kierownik. (Egzamin KNF I etap, Marzec 2022, pyt. 106 | Art. 45 ust. 1a i 1c UoR)",
+    "topic": "Art. 45 / 55 — Sprawozdawczość finansowa / MSR"
+  },
+  {
+    "id": 10,
+    "question": "Na podstawie ustawy o rachunkowości, wskaż stwierdzenie fałszywe:",
+    "options": [
+      "rezerwa i aktywa z tytułu odroczonego podatku dochodowego wykazywane są w bilansie, zawsze po dokonaniu ich kompensaty",
+      "wysokość rezerwy i aktywów z tytułu odroczonego podatku dochodowego ustala się przy uwzględnieniu stawek podatku dochodowego obowiązujących w roku powstania obowiązku podatkowego",
+      "rezerwy i aktywa z tytułu odroczonego podatku dochodowego, dotyczące operacji rozliczanych z kapitałem (funduszem) własnym, odnosi się również na kapitał (fundusz) własny",
+      "wartością podatkową pasywów jest ich wartość księgowa pomniejszona o kwoty, które w przyszłości pomniejszą podstawę podatku dochodowego"
+    ],
+    "correct_answer": "rezerwa i aktywa z tytułu odroczonego podatku dochodowego wykazywane są w bilansie, zawsze po dokonaniu ich kompensaty",
+    "explanation": "Rezerwa i aktywa z tytułu odroczonego podatku dochodowego NIE są zawsze kompensowane w bilansie – kompensata jest dozwolona tylko gdy jednostka ma tytuł uprawniający do ich jednoczesnego uwzględnienia. Pozostałe stwierdzenia są zgodne z ustawą o rachunkowości. (Egzamin KNF I etap, Listopad 2019, pyt. 34 | Art. 37 UoR)",
+    "topic": "Art. 37 — Odroczony podatek dochodowy"
+  },
+  {
+    "id": 11,
+    "question": "Zgodnie z ustawą o rachunkowości, sprawozdania finansowe jednostek wchodzących w skład grupy kapitałowej, w której jednostka dominująca sporządza skonsolidowane sprawozdanie finansowe zgodnie z MSR:",
+    "options": [
+      "obowiązkowo sporządzane są zgodnie z MSR",
+      "mogą być sporządzane zgodnie z MSR, jeżeli kierownik jednostki tak postanowi",
+      "mogą być sporządzane zgodnie z MSR, po podjęciu odpowiedniej uchwały przez organ nadzorujący jednostki",
+      "mogą być sporządzane zgodnie z MSR, po podjęciu odpowiedniej decyzji przez organ zatwierdzający"
+    ],
+    "correct_answer": "mogą być sporządzane zgodnie z MSR, po podjęciu odpowiedniej decyzji przez organ zatwierdzający",
+    "explanation": "Zgodnie z Art. 45 ust. 1e UoR, jednostki wchodzące w skład grupy kapitałowej, w której jednostka dominująca sporządza skonsolidowane sprawozdanie finansowe zgodnie z MSR, mogą sporządzać sprawozdania finansowe zgodnie z MSR, po podjęciu decyzji przez organ zatwierdzający. Nie jest to obowiązkowe, a decyzję podejmuje organ zatwierdzający, nie kierownik ani organ nadzorujący. (Egzamin KNF I etap, Listopad 2019, pyt. 67 | Art. 45 ust. 1e UoR)",
+    "topic": "Art. 55 — Konsolidacja / MSR"
+  },
+  {
+    "id": 12,
+    "question": "Zgodnie z ustawą o rachunkowości, w razie zbycia akcji własnych, dodatnią różnicę między ceną sprzedaży, pomniejszoną o koszty sprzedaży, a ich ceną nabycia, należy odnieść na:",
+    "options": [
+      "kapitał akcyjny",
+      "kapitał zapasowy",
+      "pozostałe przychody operacyjne",
+      "zyski nadzwyczajne"
+    ],
+    "correct_answer": "kapitał zapasowy",
+    "explanation": "Zgodnie z Art. 36a ust. 1 UoR, w razie zbycia akcji (udziałów) własnych, dodatnią różnicę między ceną sprzedaży (pomniejszoną o koszty sprzedaży) a ceną nabycia odnosi się na kapitał zapasowy. Ujemną różnicę ujmuje się jako zmniejszenie kapitału zapasowego, a pozostałą część ujemnej różnicy – na stratę z lat ubiegłych. Nie odnosi się tego na pozostałe przychody operacyjne ani zyski nadzwyczajne. (Egzamin KNF I etap, Listopad 2019, pyt. 68 | Art. 36a ust. 1 UoR)",
+    "topic": "Art. 36 / 36a — Kapitały własne"
+  }
+]
