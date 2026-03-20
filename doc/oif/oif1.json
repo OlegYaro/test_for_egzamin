@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "question": "Wskaż, na czyje żądanie posiadacz rachunku zbiorczego przekazuje dane identyfikujące osoby uprawnionej z papierów wartościowych zapisanych na rachunku zbiorczym oraz dane o liczbie i rodzaju papierów wartościowych posiadanych przez te osoby:",
+    "options": [
+      "na żądanie Komisji Nadzoru Finansowego albo Generalnego Inspektora Informacji Finansowej",
+      "na żądanie Przewodniczącego Komisji Nadzoru Finansowego",
+      "na żądanie wyłącznie Komisji Nadzoru Finansowego",
+      "na żądanie wyłącznie Generalnego Inspektora Informacji Finansowej"
+    ],
+    "correct_answer": "na żądanie Komisji Nadzoru Finansowego albo Generalnego Inspektora Informacji Finansowej",
+    "explanation": "Zgodnie z ustawą o obrocie instrumentami finansowymi, posiadacz rachunku zbiorczego przekazuje dane identyfikujące osoby uprawnione z papierów wartościowych zapisanych na rachunku zbiorczym na żądanie Komisji Nadzoru Finansowego albo Generalnego Inspektora Informacji Finansowej. Wskazówka egzaminacyjna: jeśli w odpowiedzi pojawia się słowo 'wyłącznie', to na 95% jest to błędna odpowiedź. (Egzamin KNF I etap, 2024, pyt. 21)",
+    "topic": "Rachunek zbiorczy — dane identyfikacyjne"
+  },
+  {
+    "id": 2,
+    "question": "Wskaż, czy podmiot prowadzący zagraniczny rynek regulowany działający na terytorium innego państwa członkowskiego Unii Europejskiej może bez zezwolenia Komisji Nadzoru Finansowego instalować na terytorium Rzeczypospolitej Polskiej systemy informatyczne i urządzenia techniczne umożliwiające dostęp do tego rynku podmiotom prowadzącym działalność na terytorium Rzeczypospolitej Polskiej:",
+    "options": [
+      "tak, przy czym warunkiem podjęcia takich czynności jest poinformowanie Komisji Nadzoru Finansowego przez właściwy organ nadzoru, który udzielił temu podmiotowi zezwolenia na prowadzenie rynku regulowanego, o zamiarze podjęcia takich czynności",
+      "tak, ale wyłącznie jeżeli taki podmiot uzyska zezwolenie Komisji Nadzoru Finansowego",
+      "tak, przy czym warunkiem podjęcia takich czynności jest poinformowanie Komisji Nadzoru Finansowego przez ten podmiot o zamiarze podjęcia takich czynności",
+      "tak, ale wyłącznie jeżeli taki podmiot uzyska wpis do właściwego rejestru organu nadzoru, który udzielił temu podmiotowi zezwolenia na prowadzenie rynku regulowanego w innym państwie członkowskim Unii Europejskiej"
+    ],
+    "correct_answer": "tak, przy czym warunkiem podjęcia takich czynności jest poinformowanie Komisji Nadzoru Finansowego przez właściwy organ nadzoru, który udzielił temu podmiotowi zezwolenia na prowadzenie rynku regulowanego, o zamiarze podjęcia takich czynności",
+    "explanation": "Podmiot prowadzący zagraniczny rynek regulowany z innego państwa UE może instalować systemy informatyczne na terytorium RP bez zezwolenia KNF, pod warunkiem że właściwy organ nadzoru (który udzielił zezwolenia na prowadzenie rynku regulowanego) poinformuje KNF o zamiarze podjęcia takich czynności. Nie wymaga się zezwolenia KNF ani wpisu do rejestru – wystarczy notyfikacja przez organ macierzysty. (Egzamin KNF I etap, 2024, pyt. 47)",
+    "topic": "Zagraniczny rynek regulowany — systemy informatyczne na terytorium RP"
+  },
+  {
+    "id": 3,
+    "question": "Komisja Nadzoru Finansowego przyjmuje zgłoszenia naruszeń lub potencjalnych naruszeń przepisów ustawy o obrocie instrumentami finansowymi. Czy przekazanie Komisji Nadzoru Finansowego takiego zgłoszenia może stanowić przyczynę rozwiązania z osobą zgłaszającą umowy o pracę?",
+    "options": [
+      "Tak",
+      "Nie",
+      "Tak, o ile zgłoszenie dotyczy tylko faktycznych naruszeń",
+      "Tak, jeżeli zostanie wykazane, że dotyczy to jedynie potencjalnych naruszeń"
+    ],
+    "correct_answer": "Nie",
+    "explanation": "Zgodnie z ustawą o obrocie instrumentami finansowymi, przekazanie KNF zgłoszenia naruszeń lub potencjalnych naruszeń przepisów tej ustawy nie może stanowić przyczyny rozwiązania z osobą zgłaszającą umowy o pracę. Jest to mechanizm ochrony sygnalistów (whistleblower protection) – zarówno w przypadku zgłoszeń dotyczących faktycznych, jak i potencjalnych naruszeń. (Egzamin KNF I etap, 2024, pyt. 61)",
+    "topic": "Ochrona sygnalistów (whistleblower)"
+  },
+  {
+    "id": 4,
+    "question": "Jakie działania powinna podjąć firma inwestycyjna świadcząca usługi wykonywania zleceń nabycia lub zbycia instrumentów finansowych w związku z wykonaniem zlecenia klienta?",
+    "options": [
+      "Firma inwestycyjna powinna podjąć wszelkie uzasadnione działania w celu uzyskania możliwie najlepszych wyników dla klienta, uwzględniając w szczególności cenę instrumentu finansowego, koszty związane z wykonaniem zlecenia, czas zawarcia transakcji, prawdopodobieństwo zawarcia transakcji oraz jej rozliczenia, wielkość zlecenia i jego charakter",
+      "Firma inwestycyjna powinna podjąć wszelkie uzasadnione działania w celu uzyskania możliwie najlepszych wyników dla klienta, uwzględniając jednakże wyłącznie cenę instrumentu finansowego i koszty związane z wykonaniem zlecenia",
+      "Firma inwestycyjna powinna podjąć wszelkie uzasadnione działania w celu uzyskania możliwie najlepszych wyników dla klienta, uwzględniając jednakże wielkość i charakter zleceń złożonych przez pozostałych klientów firmy inwestycyjnej",
+      "Z obowiązujących przepisów prawa nie wynika obowiązek, aby firma inwestycyjna, świadcząc takie czynności, miała kierować się wymogami takimi jak cena instrumentu finansowego, koszty związane z wykonaniem zlecenia, czas zawarcia transakcji"
+    ],
+    "correct_answer": "Firma inwestycyjna powinna podjąć wszelkie uzasadnione działania w celu uzyskania możliwie najlepszych wyników dla klienta, uwzględniając w szczególności cenę instrumentu finansowego, koszty związane z wykonaniem zlecenia, czas zawarcia transakcji, prawdopodobieństwo zawarcia transakcji oraz jej rozliczenia, wielkość zlecenia i jego charakter",
+    "explanation": "Zgodnie z ustawą o obrocie instrumentami finansowymi, firma inwestycyjna jest zobowiązana do tzw. best execution – podejmowania wszelkich uzasadnionych działań w celu uzyskania możliwie najlepszych wyników dla klienta. Uwzględnia się szeroki katalog czynników: cenę instrumentu, koszty wykonania, czas zawarcia transakcji, prawdopodobieństwo zawarcia i rozliczenia, wielkość zlecenia i jego charakter. Nie ogranicza się wyłącznie do ceny i kosztów. (Egzamin KNF I etap, 2024, pyt. 77)",
+    "topic": "Best execution — obowiązek najlepszego wykonania zlecenia"
+  },
+  {
+    "id": 5,
+    "question": "Wskaż, czy oświadczenia woli w związku z dokonywaniem czynności dotyczących obrotu papierami wartościowymi lub innymi instrumentami finansowymi kierowane do firm inwestycyjnych mogą być składane w postaci elektronicznej:",
+    "options": [
+      "tak, za wyjątkiem składania zleceń nabycia certyfikatów inwestycyjnych funduszy inwestycyjnych",
+      "tak, za wyjątkiem składania zleceń nabycia instrumentów pochodnych",
+      "tak",
+      "mogą być składane wyłącznie w tradycyjnej formie papierowej oraz drogą telefonicznego kontaktu"
+    ],
+    "correct_answer": "tak",
+    "explanation": "Zgodnie z ustawą o obrocie instrumentami finansowymi, oświadczenia woli w związku z dokonywaniem czynności dotyczących obrotu papierami wartościowymi lub innymi instrumentami finansowymi kierowane do firm inwestycyjnych mogą być składane w postaci elektronicznej – bez żadnych wyjątków dotyczących rodzaju instrumentów finansowych. Ustawa nie przewiduje ograniczeń w zakresie formy elektronicznej dla konkretnych typów instrumentów. (Egzamin KNF I etap, 2024, pyt. 86)",
+    "topic": "Forma elektroniczna oświadczeń woli"
+  },
+  {
+    "id": 6,
+    "question": "Wskaż, co potwierdza imienne świadectwo depozytowe:",
+    "options": [
+      "potwierdza posiadanie rachunku instrumentów finansowych",
+      "potwierdza prawo uczestnictwa w walnym zgromadzeniu",
+      "potwierdza legitymację do realizacji uprawnień wynikających z zapisów na rachunku papierów wartościowych, z wyłączeniem prawa uczestnictwa w walnym zgromadzeniu",
+      "potwierdza legitymację do realizacji uprawnień wynikających z papierów wartościowych wskazanych w jego treści, które nie są lub nie mogą być realizowane wyłącznie na podstawie zapisów na rachunku papierów wartościowych, z wyłączeniem prawa uczestnictwa w walnym zgromadzeniu"
+    ],
+    "correct_answer": "potwierdza legitymację do realizacji uprawnień wynikających z papierów wartościowych wskazanych w jego treści, które nie są lub nie mogą być realizowane wyłącznie na podstawie zapisów na rachunku papierów wartościowych, z wyłączeniem prawa uczestnictwa w walnym zgromadzeniu",
+    "explanation": "Zgodnie z art. 9 ust. 2 ustawy o obrocie instrumentami finansowymi, świadectwo depozytowe potwierdza legitymację do realizacji uprawnień wynikających z papierów wartościowych wskazanych w jego treści, które nie są lub nie mogą być realizowane wyłącznie na podstawie zapisów na rachunku papierów wartościowych, z wyłączeniem prawa uczestnictwa w walnym zgromadzeniu. (Egzamin KNF I etap, 2024, pyt. 98 | Art. 9 ust. 2)",
+    "topic": "Świadectwo depozytowe — definicja i zakres"
+  },
+  {
+    "id": 7,
+    "question": "Wskaż, do którego momentu papiery wartościowe w liczbie wskazanej w treści imiennego świadectwa depozytowego nie mogą być przedmiotem obrotu:",
+    "options": [
+      "do chwili utraty ważności przez to świadectwo depozytowe albo zwrotu tego świadectwa wystawiającemu przed upływem terminu jego ważności",
+      "papiery wartościowe wskazane w tym świadectwie są zawsze przedmiotem obrotu",
+      "w terminie do końca dnia, w którym nastąpił zwrot świadectwa wystawiającemu, nawet jeżeli nie upłynął termin ważności świadectwa",
+      "w terminie do końca dnia, w którym nastąpił zwrot świadectwa wystawiającemu, nawet jeżeli upłynął już termin ważności świadectwa"
+    ],
+    "correct_answer": "do chwili utraty ważności przez to świadectwo depozytowe albo zwrotu tego świadectwa wystawiającemu przed upływem terminu jego ważności",
+    "explanation": "Zgodnie z ustawą o obrocie instrumentami finansowymi, papiery wartościowe w liczbie wskazanej w treści imiennego świadectwa depozytowego nie mogą być przedmiotem obrotu do chwili utraty ważności przez to świadectwo albo zwrotu tego świadectwa wystawiającemu przed upływem terminu jego ważności. Blokada trwa od wystawienia świadectwa do upływu jego ważności lub wcześniejszego zwrotu. (Egzamin KNF I etap, 2024, pyt. 106)",
+    "topic": "Świadectwo depozytowe — blokada obrotu"
+  },
+  {
+    "id": 8,
+    "question": "Czy zgodnie z przepisami ustawy o obrocie instrumentami finansowymi, posiadanie akcji spółki akcyjnej prowadzącej rynek regulowany przez podmioty pozostające w tej samej grupie kapitałowej uważa się za ich posiadanie przez jeden podmiot?",
+    "options": [
+      "tak",
+      "nie",
+      "nie, chyba że podmioty pozostające w tej samej grupie kapitałowej przekazały odpowiednie zawiadomienie Przewodniczącemu Komisji Nadzoru Finansowego",
+      "nie, chyba że podmioty pozostające w tej samej grupie kapitałowej przekazały odpowiednie zawiadomienie Komisji Nadzoru Finansowego"
+    ],
+    "correct_answer": "tak",
+    "explanation": "Zgodnie z przepisami ustawy o obrocie instrumentami finansowymi, posiadanie akcji spółki akcyjnej prowadzącej rynek regulowany przez podmioty pozostające w tej samej grupie kapitałowej uważa się za ich posiadanie przez jeden podmiot. Nie jest wymagane żadne dodatkowe zawiadomienie – jest to domniemanie ustawowe stosowane automatycznie. (Egzamin KNF I etap, 2025, pyt. 21)",
+    "topic": "Spółka prowadząca rynek regulowany — akcje w grupie kapitałowej"
+  }
+]

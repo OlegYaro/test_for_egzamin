@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "question": "Wskaż zdanie prawdziwe:",
+    "options": [
+      "upoważnieni pracownicy Urzędu Komisji Nadzoru Finansowego mogą przeprowadzić w domu maklerskim wizytę nadzorczą w zakresie niezbędnym do nadzoru ostrożnościowego nad domami maklerskimi",
+      "upoważnieni pracownicy Urzędu Komisji Nadzoru Finansowego nie mogą przeprowadzić w domu maklerskim wizyty nadzorczej",
+      "upoważnieni pracownicy Urzędu Komisji Nadzoru Finansowego mogą przeprowadzić w domu maklerskim wizytę nadzorczą wyłącznie w zakresie ustalenia, jakimi regulaminami obsługi klienta dysponuje dom maklerski",
+      "upoważnieni pracownicy Urzędu Komisji Nadzoru Finansowego mogą przeprowadzić w domu maklerskim wizytę nadzorczą, która może trwać nie dłużej niż 30 dni"
+    ],
+    "correct_answer": "upoważnieni pracownicy Urzędu Komisji Nadzoru Finansowego mogą przeprowadzić w domu maklerskim wizytę nadzorczą w zakresie niezbędnym do nadzoru ostrożnościowego nad domami maklerskimi",
+    "explanation": "Zgodnie z ustawą o obrocie instrumentami finansowymi, upoważnieni pracownicy UKNF mogą przeprowadzić w domu maklerskim wizytę nadzorczą w zakresie niezbędnym do nadzoru ostrożnościowego. Zakres wizyty nie jest ograniczony wyłącznie do regulaminów obsługi klienta (C błędna), nie ma ustawowego ograniczenia do 30 dni (D błędna), a pracownicy UKNF mają takie uprawnienie (B błędna). (Egzamin KNF I etap, 2025, pyt. 37)",
+    "topic": "Nadzór KNF — wizyta nadzorcza w domu maklerskim"
+  },
+  {
+    "id": 2,
+    "question": "Obrót zorganizowany, w rozumieniu ustawy o obrocie instrumentami finansowymi, to:",
+    "options": [
+      "obrót wyłącznie papierami wartościowymi dokonywany na terytorium Rzeczypospolitej Polskiej na rynku regulowanym albo w ASO",
+      "obrót instrumentami finansowymi innymi niż papiery wartościowe dokonywany na terytorium Rzeczypospolitej Polskiej wyłącznie na rynku regulowanym",
+      "obrót wyłącznie papierami wartościowymi dokonywany na terytorium Unii Europejskiej na rynku regulowanym",
+      "obrót papierami wartościowymi lub innymi instrumentami finansowymi dokonywany na terytorium Rzeczypospolitej Polskiej na rynku regulowanym albo w ASO"
+    ],
+    "correct_answer": "obrót papierami wartościowymi lub innymi instrumentami finansowymi dokonywany na terytorium Rzeczypospolitej Polskiej na rynku regulowanym albo w ASO",
+    "explanation": "Obrót zorganizowany obejmuje obrót papierami wartościowymi LUB innymi instrumentami finansowymi (nie wyłącznie papierami wartościowymi – A i C błędne), dokonywany na terytorium RP (nie UE – C błędna), na rynku regulowanym ALBO w alternatywnym systemie obrotu (ASO). Kluczowe: szeroki zakres podmiotowy (papiery wartościowe + inne IF) i dwa miejsca obrotu (rynek regulowany lub ASO). (Egzamin KNF I etap, 2025, pyt. 62)",
+    "topic": "Definicje — obrót zorganizowany"
+  },
+  {
+    "id": 3,
+    "question": "Wskaż zdanie prawdziwe. Obrotem wtórnym, w rozumieniu ustawy o obrocie instrumentami finansowymi, jest m.in. proponowanie:",
+    "options": [
+      "w dowolny sposób, przez podmiot inny niż wystawca, nabycia każdego rodzaju instrumentów finansowych lub nabywanie ich od tego innego podmiotu, jeżeli propozycja skierowana jest do co najmniej 200 osób, a przepis nie odnosi się w żaden sposób do formy proponowania",
+      "w dowolnej formie i w dowolny sposób, przez podmiot inny niż wystawca, nabycia instrumentów finansowych będących papierami wartościowymi lub nabywanie ich od tego innego podmiotu, jeżeli propozycja skierowana jest do co najmniej 200 osób lub do nieoznaczonego adresata",
+      "w dowolnej formie i w dowolny sposób, przez podmiot inny niż wystawca, nabycia instrumentów finansowych niebędących papierami wartościowymi lub nabywanie ich od tego innego podmiotu, jeżeli propozycja skierowana jest do co najmniej 150 osób lub do nieoznaczonego adresata",
+      "w formie elektronicznej, przez podmiot inny niż wystawca, nabycia instrumentów finansowych będących papierami wartościowymi lub nabywanie ich od tego innego podmiotu, jeżeli propozycja skierowana jest do co najmniej 150 osób lub do nieoznaczonego adresata"
+    ],
+    "correct_answer": "w dowolnej formie i w dowolny sposób, przez podmiot inny niż wystawca, nabycia instrumentów finansowych niebędących papierami wartościowymi lub nabywanie ich od tego innego podmiotu, jeżeli propozycja skierowana jest do co najmniej 150 osób lub do nieoznaczonego adresata",
+    "explanation": "Zgodnie z art. 3 pkt 7 ustawy o obrocie instrumentami finansowymi, definicja obrotu wtórnego w tym kontekście dotyczy instrumentów finansowych niebędących papierami wartościowymi (papiery wartościowe podlegają innym regulacjom). Kluczowe elementy: (1) 'w dowolnej formie i w dowolny sposób' (nie tylko elektronicznie – D błędna), (2) 'przez podmiot inny niż wystawca', (3) 'niebędących papierami wartościowymi' (B błędna – dotyczy PW), (4) próg 150 osób lub nieoznaczony adresat (A błędna – próg 200 osób jest nieprawidłowy). (Egzamin KNF I etap, 2025, pyt. 71 | Art. 3 pkt 7)",
+    "topic": "Definicje — obrót wtórny"
+  },
+  {
+    "id": 4,
+    "question": "Zgodnie z ustawą o obrocie instrumentami finansowymi, spółka prowadząca rynek regulowany może organizować rynki wyodrębnione?",
+    "options": [
+      "tak, przy czym wyodrębniony rynek powinien odnosić się jedynie do rodzaju papierów wartościowych",
+      "tak, przy czym wyodrębniony rynek powinien odnosić się do rodzaju papierów wartościowych lub innych instrumentów finansowych, jak również rodzaju ich emitentów",
+      "tak, przy czym wyodrębniony rynek powinien odnosić się jedynie do rodzaju emitentów papierów wartościowych",
+      "tak, przy czym wyodrębniony rynek powinien odnosić się jedynie do rodzaju papierów wartościowych oraz rodzaju ich emitentów"
+    ],
+    "correct_answer": "tak, przy czym wyodrębniony rynek powinien odnosić się do rodzaju papierów wartościowych lub innych instrumentów finansowych, jak również rodzaju ich emitentów",
+    "explanation": "Zgodnie z art. 16 ustawy o obrocie instrumentami finansowymi, spółka prowadząca rynek regulowany może organizować rynki wyodrębnione pod względem: (1) rodzaju papierów wartościowych LUB innych instrumentów finansowych, (2) jak również rodzaju ich emitentów. Odpowiedzi A, C i D są niepełne – ograniczają kryteria wyodrębnienia. (Egzamin KNF I etap, 2025, pyt. 103 | Art. 16)",
+    "topic": "Rynek regulowany — rynki wyodrębnione"
+  },
+  {
+    "id": 5,
+    "question": "W jednym klubie inwestora może być zrzeszonych:",
+    "options": [
+      "nie mniej niż 2 i nie więcej niż 15 inwestorów",
+      "nie mniej niż 3 i nie więcej niż 20 inwestorów",
+      "nie mniej niż 5 i nie więcej niż 30 inwestorów",
+      "nie mniej niż 7 i nie więcej niż 50 inwestorów"
+    ],
+    "correct_answer": "nie mniej niż 3 i nie więcej niż 20 inwestorów",
+    "explanation": "Zgodnie z art. 124 ust. 1 ustawy o obrocie instrumentami finansowymi, osoby fizyczne posiadające pełną zdolność do czynności prawnych mogą zrzeszać się w klubach inwestora. W jednym klubie inwestora może być zrzeszonych nie mniej niż 3 i nie więcej niż 20 osób. (Egzamin KNF I etap, marzec 2022, pyt. 87 | Art. 124 ust. 1)",
+    "topic": "Klub inwestora — liczebność"
+  },
+  {
+    "id": 6,
+    "question": "Kto, zgodnie z przepisami ustawy o obrocie instrumentami finansowymi, może organizować rynek obrotu skarbowymi papierami wartościowymi w rozumieniu ustawy o finansach publicznych oraz instrumentami finansowymi, których instrumentem bazowym jest skarbowy papier wartościowy:",
+    "options": [
+      "minister właściwy do spraw budżetu",
+      "Giełda Papierów Wartościowych w Warszawie S.A.",
+      "Komisja Nadzoru Finansowego",
+      "Krajowy Depozyt Papierów Wartościowych Spółka Akcyjna"
+    ],
+    "correct_answer": "minister właściwy do spraw budżetu",
+    "explanation": "Zgodnie z ustawą o obrocie instrumentami finansowymi, minister właściwy do spraw budżetu może organizować rynek obrotu skarbowymi papierami wartościowymi oraz instrumentami finansowymi, których instrumentem bazowym jest skarbowy papier wartościowy. Nie jest to kompetencja GPW (B), KNF (C) ani KDPW (D). (Egzamin KNF I etap, kwiecień 2023, pyt. 90)",
+    "topic": "Rynek skarbowych papierów wartościowych"
+  },
+  {
+    "id": 7,
+    "question": "Zgodnie z rozporządzeniem Ministra Finansów w sprawie szczegółowych warunków technicznych i organizacyjnych dla firm inwestycyjnych, obowiązek opracowania i wdrożenia procedury anonimowego zgłaszania przez pracowników naruszeń prawa oraz obowiązujących w firmie inwestycyjnej procedur i standardów etycznych obejmuje:",
+    "options": [
+      "wyłącznie firmy inwestycyjne świadczące usługi przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych lub wykonywania takich zleceń na rachunek dającego zlecenie",
+      "wyłącznie te firmy inwestycyjne, które posiadają co najmniej 5 punktów obsługi klienta",
+      "wyłącznie te firmy inwestycyjne, które posiadają ponad 100 klientów",
+      "każdą firmę inwestycyjną"
+    ],
+    "correct_answer": "każdą firmę inwestycyjną",
+    "explanation": "Obowiązek opracowania i wdrożenia procedury anonimowego zgłaszania (whistleblowing) obejmuje każdą firmę inwestycyjną – bez względu na rodzaj świadczonych usług, liczbę punktów obsługi klienta czy liczbę klientów. Wskazówka egzaminacyjna: odpowiedzi zawierające słowo 'wyłącznie' zazwyczaj są błędne. (Egzamin KNF I etap, listopad 2019, pyt. 22)",
+    "topic": "Procedura anonimowego zgłaszania naruszeń — firma inwestycyjna"
+  },
+  {
+    "id": 8,
+    "question": "Który ze wskazanych poniżej podmiotów nie został w ustawie o obrocie instrumentami finansowymi zaliczony do grupy inwestorów, którym nie przysługuje świadczenie wypłacane z systemu rekompensat w przypadku ogłoszenia upadłości domu maklerskiego:",
+    "options": [
+      "gmina",
+      "otwarty fundusz emerytalny",
+      "spółka prawa handlowego prowadząca działalność kantorową",
+      "osoba fizyczna, która posiadany pakiet akcji uprawniający do wykonywania 9,99% ogólnej liczby głosów ww. domu maklerskiego zbyła 4 miesiące przed ogłoszeniem wskazanej upadłości"
+    ],
+    "correct_answer": "gmina",
+    "explanation": "Gmina nie została wymieniona w ustawie o obrocie instrumentami finansowymi jako podmiot, któremu nie przysługuje świadczenie z systemu rekompensat – a więc gminie takie świadczenie przysługuje. Natomiast OFE, spółki prowadzące działalność kantorową oraz osoby fizyczne posiadające znaczne pakiety akcji domu maklerskiego są wyłączone z systemu rekompensat. Uwaga: pytanie ma podwójną negację – szukamy podmiotu, któremu świadczenie PRZYSŁUGUJE. (Egzamin KNF I etap, listopad 2019, pyt. 45)",
+    "topic": "System rekompensat — wyłączenia podmiotowe"
+  },
+  {
+    "id": 9,
+    "question": "Zgodnie z ustawą o obrocie instrumentami finansowymi, członek klubu inwestora może:",
+    "options": [
+      "posiadać ograniczoną zdolność do czynności prawnych",
+      "uczestniczyć w nie więcej niż trzech takich klubach",
+      "być przedsiębiorcą",
+      "w ciągu roku kalendarzowego wnieść na rachunki pieniężne służące do obsługi prowadzonych dla tego klubu rachunków papierów wartościowych środków pieniężnych w łącznej wysokości nie wyższej niż 20 000 zł"
+    ],
+    "correct_answer": "w ciągu roku kalendarzowego wnieść na rachunki pieniężne służące do obsługi prowadzonych dla tego klubu rachunków papierów wartościowych środków pieniężnych w łącznej wysokości nie wyższej niż 20 000 zł",
+    "explanation": "Zgodnie z ustawą o obrocie instrumentami finansowymi, członek klubu inwestora może w ciągu roku kalendarzowego wnieść środki pieniężne na rachunki pieniężne tego klubu w łącznej wysokości nie wyższej niż 20 000 zł. Członek klubu musi posiadać pełną zdolność do czynności prawnych (nie ograniczoną – A błędna), nie może być przedsiębiorcą (C błędna), i może uczestniczyć tylko w jednym klubie (B błędna – nie trzech). (Egzamin KNF I etap, wrzesień 2020, pyt. 93)",
+    "topic": "Klub inwestora — prawa i ograniczenia członka"
+  }
+]
