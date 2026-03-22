@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "question": "Zgodnie z przepisami ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, wskaż, co nie należy do celów inwestycyjnych funduszu inwestycyjnego otwartego:",
+    "options": [
+      "ochrona realnej wartości aktywów funduszu inwestycyjnego",
+      "osiąganie przychodów z lokat netto funduszu inwestycyjnego",
+      "wzrost wartości aktywów funduszu inwestycyjnego w wyniku wzrostu wartości lokat",
+      "systematyczne zwiększanie liczby uczestników"
+    ],
+    "correct_answer": "systematyczne zwiększanie liczby uczestników",
+    "explanation": "Celem inwestycyjnym FIO może być: ochrona realnej wartości aktywów, osiąganie przychodów z lokat netto lub wzrost wartości aktywów w wyniku wzrostu wartości lokat. Systematyczne zwiększanie liczby uczestników NIE jest celem inwestycyjnym funduszu – jest to cel biznesowy/marketingowy TFI, a nie cel inwestycyjny samego funduszu określony w ustawie. (Egzamin KNF I etap, kwiecień 2023, pyt. 73)",
+    "topic": "FIO — cele inwestycyjne"
+  },
+  {
+    "id": 2,
+    "question": "Jednostka uczestnictwa w otwartym funduszu inwestycyjnym:",
+    "options": [
+      "może być zbyta przez uczestnika na rzecz osób trzecich i podlega dziedziczeniu",
+      "nie może być zbyta przez uczestnika na rzecz osób trzecich i nie podlega dziedziczeniu",
+      "nie może być zbyta przez uczestnika na rzecz osób trzecich i podlega dziedziczeniu",
+      "może być zbyta przez uczestnika na rzecz osób trzecich i nie podlega dziedziczeniu"
+    ],
+    "correct_answer": "nie może być zbyta przez uczestnika na rzecz osób trzecich i podlega dziedziczeniu",
+    "explanation": "Zgodnie z art. 83 ustawy o funduszach inwestycyjnych: jednostka uczestnictwa NIE może być zbyta przez uczestnika na rzecz osób trzecich (ust. 2), ale podlega dziedziczeniu (ust. 3). Jest to istotna cecha odróżniająca jednostki uczestnictwa od certyfikatów inwestycyjnych – certyfikaty mogą być przedmiotem obrotu na rynku wtórnym. (Egzamin KNF I etap, marzec 2022, pyt. 46 | Art. 83 ust. 2-3)",
+    "topic": "Jednostka uczestnictwa FIO — obrót i dziedziczenie"
+  },
+  {
+    "id": 3,
+    "question": "Alternatywna spółka inwestycyjna (ASI) może prowadzić działalność w formie:",
+    "options": [
+      "spółki partnerskiej, o ile wszyscy partnerzy tej spółki są maklerami lub doradcami inwestycyjnymi",
+      "spółki komandytowej albo spółki komandytowo-akcyjnej, w których jedynym komplementariuszem jest spółka z ograniczoną odpowiedzialnością, spółka akcyjna albo spółka europejska",
+      "prostej spółki akcyjnej",
+      "spółki jawnej, o ile firma spółki jawnej zawiera oznaczenie alternatywna spółka inwestycyjna (ASI)"
+    ],
+    "correct_answer": "spółki komandytowej albo spółki komandytowo-akcyjnej, w których jedynym komplementariuszem jest spółka z ograniczoną odpowiedzialnością, spółka akcyjna albo spółka europejska",
+    "explanation": "Zgodnie z ustawą o funduszach inwestycyjnych, ASI może prowadzić działalność w formie: spółki kapitałowej (sp. z o.o., spółka akcyjna, spółka europejska) lub spółki komandytowej albo komandytowo-akcyjnej, w których jedynym komplementariuszem jest spółka kapitałowa (sp. z o.o., spółka akcyjna, spółka europejska). ASI nie może działać jako spółka partnerska, prosta spółka akcyjna ani spółka jawna. (Egzamin KNF I etap, marzec 2022, pyt. 73)",
+    "topic": "Alternatywna spółka inwestycyjna (ASI) — dozwolone formy prawne"
+  },
+  {
+    "id": 4,
+    "question": "Zgodnie z ustawą o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, alternatywnym funduszem inwestycyjnym w rozumieniu ustawy nie jest:",
+    "options": [
+      "fundusz zagraniczny",
+      "alternatywna spółka inwestycyjna",
+      "fundusz portfelowy",
+      "specjalistyczny fundusz inwestycyjny otwarty"
+    ],
+    "correct_answer": "fundusz zagraniczny",
+    "explanation": "Zgodnie z ustawą o funduszach inwestycyjnych, alternatywnym funduszem inwestycyjnym (AFI) są: specjalistyczny fundusz inwestycyjny otwarty, fundusz inwestycyjny zamknięty oraz alternatywna spółka inwestycyjna. Fundusz zagraniczny NIE jest alternatywnym funduszem inwestycyjnym w rozumieniu ustawy – jest to fundusz działający zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe (UCITS). (Egzamin KNF I etap, wrzesień 2020, pyt. 60)",
+    "topic": "Definicje — co NIE jest AFI"
+  },
+  {
+    "id": 5,
+    "question": "Analityk z zespołu zarządzającego funduszem emerytalnym przygotowuje wycenę spółki posiadającej pozycję lidera na lokalnym rynku e-commerce. Z opublikowanych historycznych sprawozdań spółki wynika, że przez ponad 5 ostatnich lat spółka wypłacała dywidendę stanowiącą niewielki procent generowanych przepływów pieniężnych FCFE. Z analizy wynika, że spółka ma stabilną strukturę kapitału i jest kontrolowana przez akcjonariusza, który posiada pakiet 80% akcji. Wskaż, która z poniższych metod wyceny zdyskontowanych przepływów pieniężnych będzie najwłaściwsza dla wyceny Spółki:",
+    "options": [
+      "DDM (Discounted Dividend Model)",
+      "FCFE (Discounted Free Cash Flow To Equity Model)",
+      "FCFF (Discounted Free Cash Flow To Firm Model)",
+      "żadna z powyższych"
+    ],
+    "correct_answer": "FCFE (Discounted Free Cash Flow To Equity Model)",
+    "explanation": "FCFE jest optymalnym wyborem z uwagi na stabilną strukturę kapitału (stały poziom zadłużenia), co umożliwia wiarygodne szacowanie przepływów do akcjonariuszy. FCFE odzwierciedla pełną pulę środków dostępnych dla właścicieli (dywidendy + reinwestycje + wykup akcji), niezależnie od decyzji o wypłatach. DDM jest niewskazany, ponieważ spółka wypłaca dywidendy stanowiące niewielki procent FCFE. FCFF jest mniej odpowiedni, bo koncentruje się na wartości całej firmy. (Egzamin KNF I etap, 2025, pyt. 12)",
+    "topic": "Wycena — FCFE vs DDM vs FCFF"
+  },
+  {
+    "id": 6,
+    "question": "Zarządzający w Polsce portfelem obligacji korporacyjnych nominowanych w euro przyjął strategię indeksacji rozumianą jako replikowanie w portfelu charakterystyki wskaźnika referencyjnego EURO STOXX50 Corporate Bond Index. Wskaż, która z poniższych informacji ma dla zarządzającego istotne znaczenie w procesie replikowania indeksu:",
+    "options": [
+      "struktura podmiotowa i wartość WIG20",
+      "zaliczenie spółki do portfela WIG20 i wartości WIG20, z wyłączeniem sytuacji, gdy spółka emituje również obligacje nominowane w euro i spółka zalicza się do portfela EURO STOXX50 Corporate Bond Index",
+      "wartość EURO STOXX50 Corporate Bond Index",
+      "zgłoszenie możliwości złożenia wniosku o upadłość spółki zaliczanej do portfela EURO STOXX50 Corporate Bond Index"
+    ],
+    "correct_answer": "wartość EURO STOXX50 Corporate Bond Index",
+    "explanation": "Przy strategii indeksacji (replikowania indeksu) kluczowa jest wartość samego indeksu referencyjnego – EURO STOXX50 Corporate Bond Index. WIG20 nie ma znaczenia, ponieważ zarządzający replikuje europejski indeks obligacji korporacyjnych, a nie indeks akcji polskich. Informacja o upadłości mogłaby mieć znaczenie operacyjne, ale nie jest to informacja istotna w samym procesie replikowania indeksu. (Egzamin KNF I etap, 2024, pyt. 20)",
+    "topic": "Zarządzanie portfelem — strategia indeksacji"
+  },
+  {
+    "id": 7,
+    "question": "Analityk banku inwestycyjnego zastanawia się nad wyborem metody wyceny spółki BETA, której przejęciem (100% akcji) jest zainteresowany klient banku. Ze sprawozdań finansowych spółki BETA wynika, że miała ona stałą politykę wypłaty 40% zysków jako dywidendy dla akcjonariuszy. Wskaż, które z poniższych stwierdzeń analityka jest prawidłowe:",
+    "options": [
+      "metoda DDM (Dividend Discount Model) jest właściwa ponieważ nawet po przejęciu spółki klient banku nie będzie miał wpływu na jej politykę dywidendową",
+      "metoda FCFE (Free Cash Flow to Equity) pozwala uwzględnić wpływ inwestora na przyszłą politykę dywidendową",
+      "obie metody DDM i FCFE nie są właściwe dla wyceny przejmowanej spółki",
+      "wycena według metody DDM i FCFE będzie taka sama"
+    ],
+    "correct_answer": "metoda FCFE (Free Cash Flow to Equity) pozwala uwzględnić wpływ inwestora na przyszłą politykę dywidendową",
+    "explanation": "Przy przejęciu 100% akcji spółki nowy właściciel zyskuje pełną kontrolę nad polityką dywidendową. Metoda FCFE jest bardziej odpowiednia, ponieważ uwzględnia pełne przepływy pieniężne dostępne dla akcjonariuszy, niezależnie od aktualnej polityki dywidendy. DDM bazuje na dywidendach, które po przejęciu mogą ulec zmianie. FCFE pozwala na elastyczność w modelowaniu przyszłych wypłat. (Egzamin KNF I etap, kwiecień 2023, pyt. 7)",
+    "topic": "Wycena — DDM vs FCFE przy przejęciu spółki"
+  }
+]

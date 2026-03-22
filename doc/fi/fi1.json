@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "question": "Na podstawie przepisów ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi wskaż, co należy do zadań depozytariusza:",
+    "options": [
+      "wykonywanie obowiązków określonych w ustawie, w szczególności polegających na przechowywaniu aktywów oraz prowadzeniu rejestru aktywów funduszu inwestycyjnego lub alternatywnej spółki inwestycyjnej, a także na zapewnieniu właściwego monitorowania przepływu środków pieniężnych tych podmiotów",
+      "wykonywanie obowiązków polegających wyłącznie na przechowywaniu aktywów oraz prowadzeniu rejestru aktywów alternatywnej spółki inwestycyjnej",
+      "wykonywanie obowiązków polegających wyłącznie na przechowywaniu aktywów funduszu inwestycyjnego",
+      "wykonywanie obowiązków polegających wyłącznie na zapewnieniu właściwego monitorowania przepływu środków pieniężnych funduszu inwestycyjnego"
+    ],
+    "correct_answer": "wykonywanie obowiązków określonych w ustawie, w szczególności polegających na przechowywaniu aktywów oraz prowadzeniu rejestru aktywów funduszu inwestycyjnego lub alternatywnej spółki inwestycyjnej, a także na zapewnieniu właściwego monitorowania przepływu środków pieniężnych tych podmiotów",
+    "explanation": "Depozytariusz wykonuje obowiązki określone w ustawie, w szczególności polegające na przechowywaniu aktywów oraz prowadzeniu rejestru aktywów funduszu inwestycyjnego lub alternatywnej spółki inwestycyjnej, a także na zapewnieniu właściwego monitorowania przepływu środków pieniężnych tych podmiotów. Odpowiedzi B, C i D są nieprawidłowe, ponieważ zawierają słowo 'wyłącznie', ograniczając zakres zadań depozytariusza. (Egzamin KNF I etap, 2025, pyt. 3)",
+    "topic": "Depozytariusz — zadania i obowiązki"
+  },
+  {
+    "id": 2,
+    "question": "Zgodnie z przepisami ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, wskaż podmiot, z którym towarzystwo funduszy inwestycyjnych może zawrzeć umowę o wykonywanie funkcji depozytariusza funduszu inwestycyjnego:",
+    "options": [
+      "Krajowy Depozyt Papierów Wartościowych Spółka Akcyjna",
+      "Giełda Papierów Wartościowych w Warszawie S.A.",
+      "inne towarzystwo funduszy inwestycyjnych",
+      "Catalyst"
+    ],
+    "correct_answer": "Krajowy Depozyt Papierów Wartościowych Spółka Akcyjna",
+    "explanation": "Zgodnie z ustawą o funduszach inwestycyjnych, towarzystwo funduszy inwestycyjnych może zawrzeć umowę o wykonywanie funkcji depozytariusza funduszu inwestycyjnego z Krajowym Depozytem Papierów Wartościowych S.A. GPW, inne TFI ani Catalyst nie mogą pełnić funkcji depozytariusza funduszu inwestycyjnego. (Egzamin KNF I etap, kwiecień 2023, pyt. 49)",
+    "topic": "Depozytariusz — podmioty uprawnione"
+  },
+  {
+    "id": 3,
+    "question": "Zgodnie z ustawą o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, firma inwestycyjna uprawniona do wykonywania czynności polegających na przechowywaniu lub rejestrowaniu instrumentów finansowych, w tym prowadzeniu rachunków papierów wartościowych, rachunków derywatów i rachunków zbiorczych, oraz prowadzeniu rachunków pieniężnych, której kapitał założycielski wynosi równowartość w złotych 1 miliona euro:",
+    "options": [
+      "nie może być depozytariuszem żadnego funduszu inwestycyjnego",
+      "może być depozytariuszem funduszu inwestycyjnego otwartego",
+      "może być depozytariuszem specjalistycznego funduszu inwestycyjnego otwartego lub funduszu inwestycyjnego zamkniętego",
+      "może być depozytariuszem funduszu inwestycyjnego zamkniętego"
+    ],
+    "correct_answer": "może być depozytariuszem funduszu inwestycyjnego zamkniętego",
+    "explanation": "Zgodnie z art. 71 ust. 3 ustawy o funduszach inwestycyjnych, umowę o wykonywanie funkcji depozytariusza funduszu inwestycyjnego zamkniętego można zawrzeć również z firmą inwestycyjną uprawnioną do wykonywania odpowiednich czynności, jeżeli jej kapitał założycielski wynosi co najmniej równowartość w złotych 730 000 euro. Firma z kapitałem 1 mln euro spełnia ten wymóg, więc może być depozytariuszem FIZ, ale nie FIO ani SFIO. (Egzamin KNF I etap, listopad 2019, pyt. 85 | Art. 71 ust. 3)",
+    "topic": "Depozytariusz — firma inwestycyjna jako depozytariusz FIZ"
+  },
+  {
+    "id": 4,
+    "question": "Zgodnie z ustawą o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi w przypadku funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, zmiana depozytariusza:",
+    "options": [
+      "wymaga zgody KNF",
+      "wymaga zgody KNF, jeśli aktywa funduszu mają wartość co najmniej 10 mln zł",
+      "nie wymaga zgody KNF",
+      "nie wymaga zgody KNF, jedynie wówczas, gdy liczba uczestników funduszu nie przekracza 10"
+    ],
+    "correct_answer": "nie wymaga zgody KNF",
+    "explanation": "W przypadku funduszu inwestycyjnego zamkniętego, który nie jest publicznym FIZ, zmiana depozytariusza nie wymaga zgody Komisji Nadzoru Finansowego. Wymóg uzyskania zgody KNF na zmianę depozytariusza dotyczy funduszy inwestycyjnych otwartych, specjalistycznych funduszy inwestycyjnych otwartych oraz publicznych funduszy inwestycyjnych zamkniętych. (Egzamin KNF I etap, wrzesień 2020, pyt. 76)",
+    "topic": "Depozytariusz — zmiana depozytariusza FIZ"
+  },
+  {
+    "id": 5,
+    "question": "Zgodnie z Rozporządzeniem Ministra Finansów w sprawie szczególnych zasad rachunkowości funduszy inwestycyjnych, prawdą jest, że:",
+    "options": [
+      "nabyte składniki lokat ujmuje się w księgach rachunkowych funduszu zawsze metodą skorygowanej ceny nabycia",
+      "przychody odsetkowe osiągane z tytułu udzielonych przez fundusz pożyczek pieniężnych oraz koszty związane z ich udzieleniem rozlicza się w czasie przy zastosowaniu efektywnej stopy procentowej",
+      "papiery wartościowe, których własność została przeniesiona przez fundusz na drugą stronę w wyniku zawarcia umowy pożyczki papierów wartościowych, nie stanowią składnika lokat funduszu",
+      "przychody z lokat funduszu obejmują w szczególności ujemne saldo różnic kursowych powstałe w związku z wyceną środków pieniężnych, należności i zobowiązań w walutach obcych"
+    ],
+    "correct_answer": "przychody odsetkowe osiągane z tytułu udzielonych przez fundusz pożyczek pieniężnych oraz koszty związane z ich udzieleniem rozlicza się w czasie przy zastosowaniu efektywnej stopy procentowej",
+    "explanation": "Zgodnie z Rozporządzeniem w sprawie szczególnych zasad rachunkowości funduszy inwestycyjnych, przychody odsetkowe osiągane z tytułu udzielonych przez fundusz pożyczek pieniężnych oraz koszty związane z ich udzieleniem rozlicza się w czasie przy zastosowaniu efektywnej stopy procentowej. Odpowiedź A jest błędna, bo nie zawsze stosuje się metodę skorygowanej ceny nabycia. Odpowiedź C jest błędna - papiery pożyczone nadal stanowią składnik lokat. Odpowiedź D jest błędna - ujemne saldo różnic kursowych to koszty, nie przychody. (Egzamin KNF I etap, 2024, pyt. 2)",
+    "topic": "Rachunkowość funduszy inwestycyjnych — przychody odsetkowe"
+  },
+  {
+    "id": 6,
+    "question": "Zgodnie z Rozporządzeniem Ministra Finansów w sprawie szczególnych zasad rachunkowości funduszy inwestycyjnych, prawdą jest, że:",
+    "options": [
+      "koszty odsetkowe z tytułu kredytów i pożyczek zaciągniętych przez fundusz inwestycyjny rozlicza się w czasie przy zastosowaniu efektywnej stopy procentowej",
+      "niezrealizowany zysk (strata) z wyceny lokat nie wpływa na wzrost (spadek) wyniku z operacji",
+      "zrealizowany zysk (strata) ze zbycia lokat oznacza różnicę pomiędzy wartością danego składnika lokat w dniu wyceny a jego ceną nabycia",
+      "sprawozdanie finansowe funduszu inwestycyjnego otwartego obejmuje między innymi: rachunek wyniku z operacji oraz rachunek przepływów pieniężnych"
+    ],
+    "correct_answer": "koszty odsetkowe z tytułu kredytów i pożyczek zaciągniętych przez fundusz inwestycyjny rozlicza się w czasie przy zastosowaniu efektywnej stopy procentowej",
+    "explanation": "Zgodnie z Rozporządzeniem w sprawie szczególnych zasad rachunkowości funduszy inwestycyjnych, koszty odsetkowe z tytułu kredytów i pożyczek zaciągniętych przez fundusz inwestycyjny rozlicza się w czasie przy zastosowaniu efektywnej stopy procentowej. Odpowiedź B jest błędna – niezrealizowany zysk/strata z wyceny wpływa na wynik z operacji. Odpowiedź C błędnie definiuje zrealizowany zysk/stratę. Odpowiedź D jest nieprawidłowa – sprawozdanie FIO nie obejmuje rachunku przepływów pieniężnych. (Egzamin KNF I etap, marzec 2022, pyt. 15)",
+    "topic": "Rachunkowość funduszy inwestycyjnych — koszty odsetkowe"
+  },
+  {
+    "id": 7,
+    "question": "Na podstawie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi wskaż definicję alternatywnego funduszu inwestycyjnego.",
+    "options": [
+      "jest to instytucja wspólnego inwestowania, której przedmiotem działalności, w tym w ramach wydzielonego subfunduszu, jest zbieranie aktywów od wielu inwestorów w celu ich lokowania w interesie tych inwestorów zgodnie z określoną polityką inwestycyjną, niebędąca funduszem działającym zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe",
+      "jest to instytucja wspólnego inwestowania, której przedmiotem działalności jest zbieranie aktywów od wielu inwestorów w celu ich lokowania zgodnie z określoną polityką inwestycyjną, będąca funduszem działającym zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe",
+      "jest to instytucja wspólnego inwestowania, której przedmiotem działalności, w tym w ramach wydzielonego subfunduszu, jest zbieranie aktywów od 150 inwestorów w celu ich lokowania w interesie tych inwestorów, będąca funduszem działającym zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe",
+      "jest to instytucja wspólnego inwestowania, której przedmiotem działalności, w tym w ramach wydzielonego subfunduszu, jest zbieranie aktywów od 150 inwestorów w celu ich lokowania w interesie tych inwestorów zgodnie z określoną polityką inwestycyjną, będąca funduszem"
+    ],
+    "correct_answer": "jest to instytucja wspólnego inwestowania, której przedmiotem działalności, w tym w ramach wydzielonego subfunduszu, jest zbieranie aktywów od wielu inwestorów w celu ich lokowania w interesie tych inwestorów zgodnie z określoną polityką inwestycyjną, niebędąca funduszem działającym zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe",
+    "explanation": "Zgodnie z art. 2 pkt 10a ustawy o funduszach inwestycyjnych, alternatywny fundusz inwestycyjny to instytucja wspólnego inwestowania (w tym w ramach wydzielonego subfunduszu), zbierająca aktywa od wielu inwestorów w celu ich lokowania w interesie tych inwestorów zgodnie z określoną polityką inwestycyjną, NIEbędąca funduszem UCITS. Kluczowe: AFI NIE jest funduszem UCITS. (Egzamin KNF I etap, 2025, pyt. 30 | Art. 2 pkt 10a)",
+    "topic": "Definicje — alternatywny fundusz inwestycyjny (AFI)"
+  },
+  {
+    "id": 8,
+    "question": "Przez tytuły uczestnictwa w instytucjach wspólnego inwestowania rozumie się:",
+    "options": [
+      "wyemitowane na podstawie właściwych przepisów prawa polskiego lub obcego papiery wartościowe lub niebędące papierami wartościowymi instrumenty finansowe reprezentujące prawa majątkowe przysługujące uczestnikom instytucji wspólnego inwestowania, w tym w szczególności jednostki uczestnictwa funduszy inwestycyjnych",
+      "wyemitowane na podstawie właściwych przepisów prawa polskiego lub obcego papiery wartościowe lub niebędące papierami wartościowymi instrumenty finansowe reprezentujące prawa majątkowe przysługujące uczestnikom instytucji wspólnego inwestowania, z wyjątkiem jednostek uczestnictwa funduszy inwestycyjnych",
+      "wyemitowane na podstawie właściwych przepisów prawa polskiego lub obcego papiery wartościowe lub niebędące papierami wartościowymi instrumenty finansowe reprezentujące prawa majątkowe przysługujące uczestnikom instytucji wspólnego inwestowania, z wyjątkiem jednostek uczestnictwa specjalistycznych funduszy inwestycyjnych",
+      "wyemitowane na podstawie właściwych przepisów prawa polskiego lub obcego papiery wartościowe lub niebędące papierami wartościowymi instrumenty finansowe reprezentujące prawa majątkowe przysługujące uczestnikom instytucji wspólnego inwestowania, z wyjątkiem jednostek uczestnictwa funduszy inwestycyjnych zamkniętych"
+    ],
+    "correct_answer": "wyemitowane na podstawie właściwych przepisów prawa polskiego lub obcego papiery wartościowe lub niebędące papierami wartościowymi instrumenty finansowe reprezentujące prawa majątkowe przysługujące uczestnikom instytucji wspólnego inwestowania, w tym w szczególności jednostki uczestnictwa funduszy inwestycyjnych",
+    "explanation": "Tytuły uczestnictwa w instytucjach wspólnego inwestowania to papiery wartościowe lub instrumenty finansowe niebędące papierami wartościowymi, reprezentujące prawa majątkowe uczestników instytucji wspólnego inwestowania, W TYM w szczególności jednostki uczestnictwa funduszy inwestycyjnych. Odpowiedzi B, C i D są błędne – nieprawidłowo wyłączają jednostki uczestnictwa z definicji. (Egzamin KNF I etap, 2024, pyt. 37)",
+    "topic": "Definicje — tytuły uczestnictwa w instytucjach wspólnego inwestowania"
+  }
+]
