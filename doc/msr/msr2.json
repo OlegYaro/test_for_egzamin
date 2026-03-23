@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "source": "I etap 2025, pytanie 89",
+    "standard": "MSSF 10",
+    "question": "Zgodnie z MSSF 10 „Skonsolidowane sprawozdania finansowe", zatwierdzonym przez UE, „grupa kapitałowa" to:",
+    "options": [
+      "jednostka dominująca i jej jednostki zależne",
+      "jednostka dominująca oraz jej jednostki zależne, jednostki stowarzyszone i wspólne przedsięwzięcia",
+      "znaczący inwestor i jego jednostki stowarzyszone",
+      "znaczący inwestor oraz jego jednostki zależne i jednostki stowarzyszone"
+    ],
+    "correct_answer": "jednostka dominująca i jej jednostki zależne",
+    "explanation": "Zgodnie z MSSF 10, grupa kapitałowa (group) to jednostka dominująca i jej jednostki zależne. Jednostki stowarzyszone (MSR 28) i wspólne przedsięwzięcia (MSSF 11) nie wchodzą w skład grupy w rozumieniu MSSF 10 – są one ujmowane metodą praw własności w skonsolidowanym sprawozdaniu finansowym, ale nie są „częścią grupy" zgodnie z definicją MSSF 10."
+  },
+  {
+    "id": 2,
+    "source": "I etap marzec 2022, pytanie 12",
+    "standard": "MSR 2",
+    "question": "Zgodnie z MSR 2 „Zapasy", który został zatwierdzony przez UE, prawdą jest, że:",
+    "options": [
+      "zapasy wycenia się w cenie nabycia lub koszcie wytworzenia lub też według wartości netto możliwej do uzyskania w zależności od tego, która z kwot jest wyższa",
+      "metoda „ostatnie weszło, pierwsze wyszło" (LIFO) jest jedną z metod ustalania ceny nabycia lub kosztów wytworzenia pozycji zapasów",
+      "metoda szczegółowej identyfikacji poszczególnych cen nabycia lub kosztów wytworzenia jest odpowiednią metodą w przypadku dużej ilości pozycji zapasów będących pozycjami wzajemnie wymienialnymi",
+      "w sprawozdaniu finansowym ujawnia się wartość bilansową zapasów stanowiących zabezpieczenie zobowiązań"
+    ],
+    "correct_answer": "w sprawozdaniu finansowym ujawnia się wartość bilansową zapasów stanowiących zabezpieczenie zobowiązań",
+    "explanation": "Zapasy wycenia się według NIŻSZEJ z kwot (ceny nabycia/kosztu wytworzenia lub wartości netto możliwej do uzyskania), nie wyższej. MSR 2 nie dopuszcza metody LIFO. Metoda szczegółowej identyfikacji jest stosowana dla pozycji NIEWYMIENIALNYCH (unikalnych), nie dla dużej ilości pozycji wzajemnie wymienialnych. Ujawnienie wartości bilansowej zapasów stanowiących zabezpieczenie zobowiązań jest prawidłowe – MSR 2 tego wymaga."
+  },
+  {
+    "id": 3,
+    "source": "I etap marzec 2022, pytanie 26",
+    "standard": "MSR 38",
+    "question": "Zgodnie z MSR 38 „Wartości niematerialne", zatwierdzonym przez UE, nakłady poniesione na realizację etapu prac badawczych przedsięwzięcia prowadzonego we własnym zakresie ujmuje się:",
+    "options": [
+      "w aktywach jako rozliczenia międzyokresowe kosztów",
+      "w aktywach jako należności długoterminowe",
+      "w aktywach, jako składnik wartości niematerialnych",
+      "w kosztach w momencie ich poniesienia"
+    ],
+    "correct_answer": "w kosztach w momencie ich poniesienia",
+    "explanation": "Zgodnie z MSR 38 pkt 54, nakłady poniesione na prace badawcze ujmuje się w kosztach w momencie ich poniesienia. Tylko nakłady na fazę prac ROZWOJOWYCH mogą być kapitalizowane jako wartości niematerialne, o ile spełnione są wszystkie warunki określone w MSR 38. Nakłady na fazę badawczą nigdy nie mogą być ujmowane jako składnik aktywów."
+  },
+  {
+    "id": 4,
+    "source": "I etap marzec 2022, pytanie 38",
+    "standard": "MSR 10",
+    "question": "Zgodnie z MSR 10 „Zdarzenia następujące po zakończeniu okresu sprawozdawczego", zatwierdzonym przez UE, przykładem zdarzenia niewymagającego dokonania korekt kwot ujętych w sprawozdaniu finansowym jest:",
+    "options": [
+      "rozstrzygnięcie sprawy sądowej po zakończeniu okresu sprawozdawczego, które potwierdza istniejące już na koniec okresu sprawozdawczego zobowiązanie jednostki",
+      "spadek wartości godziwej inwestycji między końcem okresu sprawozdawczego a dniem, w którym sprawozdanie finansowe zostaje zatwierdzone do publikacji",
+      "ustalenie po zakończeniu okresu sprawozdawczego ceny nabycia aktywów zakupionych lub przychodów ze sprzedaży aktywów sprzedanych przed końcem okresu sprawozdawczego",
+      "uzyskanie informacji po zakończeniu okresu sprawozdawczego o tym, że na koniec okresu sprawozdawczego nastąpiła utrata wartości składnika aktywów"
+    ],
+    "correct_answer": "spadek wartości godziwej inwestycji między końcem okresu sprawozdawczego a dniem, w którym sprawozdanie finansowe zostaje zatwierdzone do publikacji",
+    "explanation": "Zgodnie z MSR 10, zdarzenia po dacie bilansu dzielą się na wymagające korekty (dotyczące warunków istniejących na dzień bilansu) i niewymagające korekty (nowe zdarzenia). Spadek wartości godziwej inwestycji po dacie bilansu odzwierciedla zdarzenia zaistniałe PO dniu bilansu – jest zdarzeniem niekorygującym, ujawnia się je w notach. Pozostałe odpowiedzi dotyczą warunków istniejących już na dzień bilansu i wymagają korekty."
+  },
+  {
+    "id": 5,
+    "source": "I etap marzec 2022, pytanie 55",
+    "standard": "MSR 16",
+    "question": "Zgodnie z MSR 16 „Rzeczowe aktywa trwałe", zatwierdzonym przez UE, pozycję rzeczowych aktywów trwałych, która kwalifikuje się do ujęcia jako składnik aktywów, początkowo wycenia się według:",
+    "options": [
+      "ceny nabycia lub kosztu wytworzenia",
+      "ceny nabycia lub kosztu wytworzenia lub też według wartości netto możliwej do uzyskania, w zależności od tego, która z kwot jest niższa",
+      "ceny nabycia lub kosztu wytworzenia pomniejszonego o umorzenie oraz o zakumulowane odpisy aktualizujące z tytułu utraty wartości narastająco",
+      "wartości przeszacowanej, stanowiącej wartość godziwą tej pozycji na dzień przeszacowania"
+    ],
+    "correct_answer": "ceny nabycia lub kosztu wytworzenia",
+    "explanation": "Zgodnie z MSR 16, pozycja rzeczowych aktywów trwałych jest POCZĄTKOWO wyceniana według ceny nabycia lub kosztu wytworzenia. Odpowiedź C opisuje wycenę według modelu ceny nabycia stosowaną PO POCZĄTKOWYM UJĘCIU (wartość bilansowa netto). Odpowiedź D opisuje model wartości przeszacowanej stosowany po początkowym ujęciu. MSR 16 wymaga zawsze wyceny początkowej według ceny nabycia lub kosztu wytworzenia."
+  },
+  {
+    "id": 6,
+    "source": "I etap marzec 2022, pytanie 71",
+    "standard": "MSR 36",
+    "question": "Zgodnie z MSR 36 „Utrata wartości aktywów", zatwierdzonym przez UE, składnik wartości niematerialnych, który nie jest jeszcze dostępny do użytkowania, poddaje się testom sprawdzającym, czy nastąpiła utrata jego wartości:",
+    "options": [
+      "na koniec każdego okresu sprawozdawczego",
+      "zawsze na koniec półrocza i na koniec roku obrotowego",
+      "corocznie, a także wówczas, gdy istnieją przesłanki wskazujące na utratę wartości tego składnika",
+      "wyłącznie wtedy, gdy istnieją przesłanki wskazujące na utratę jego wartości"
+    ],
+    "correct_answer": "corocznie, a także wówczas, gdy istnieją przesłanki wskazujące na utratę wartości tego składnika",
+    "explanation": "Zgodnie z MSR 36 pkt 10, jednostka jest zobowiązana do przeprowadzania COROCZNIE testu na utratę wartości składnika wartości niematerialnych o nieokreślonym okresie użytkowania lub składnika, który nie jest jeszcze dostępny do użytkowania. Test może być przeprowadzony w dowolnym terminie w ciągu roku, pod warunkiem że jest przeprowadzany każdego roku w tym samym terminie. Ponadto test należy przeprowadzić zawsze, gdy istnieją przesłanki utraty wartości."
+  },
+  {
+    "id": 7,
+    "source": "I etap marzec 2022, pytanie 104",
+    "standard": "MSR 37",
+    "question": "Wskaż, na podstawie MSR 37 „Rezerwy, zobowiązania warunkowe i aktywa warunkowe", zatwierdzonego przez UE, które z poniższych twierdzeń jest prawdziwe:",
+    "options": [
+      "rezerwa jest zobowiązaniem, którego kwota lub termin zapłaty są niepewne",
+      "rezerwa jest możliwym obowiązkiem, który powstaje na skutek zdarzeń przeszłych, których istnienie zostanie potwierdzone dopiero w momencie wystąpienia niepewnych przyszłych zdarzeń, które nie w pełni podlegają kontroli jednostki",
+      "wystarczającym warunkiem dla obowiązku utworzenia rezerwy jest to, że na jednostce ciąży obecny obowiązek (prawny lub zwyczajowo oczekiwany) wynikający ze zdarzeń przeszłych",
+      "jednostka ujmuje zobowiązania warunkowe w sprawozdaniu z sytuacji finansowej, jako zobowiązania"
+    ],
+    "correct_answer": "rezerwa jest zobowiązaniem, którego kwota lub termin zapłaty są niepewne",
+    "explanation": "Opis w odpowiedzi B to definicja ZOBOWIĄZANIA WARUNKOWEGO, a nie rezerwy. Rezerwę tworzy się tylko gdy spełnione są WSZYSTKIE trzy warunki łącznie: (1) ciąży obecny obowiązek prawny lub zwyczajowy, (2) prawdopodobna jest konieczność wydania zasobów, (3) można dokonać wiarygodnego oszacowania kwoty. Zobowiązania warunkowe ujawnia się w informacji dodatkowej, a NIE w sprawozdaniu z sytuacji finansowej."
+  },
+  {
+    "id": 8,
+    "source": "I etap kwiecień 2023, pytanie 31",
+    "standard": "MSR 28",
+    "question": "Na podstawie MSR 28 „Inwestycje w jednostkach stowarzyszonych i wspólnych przedsięwzięciach", zatwierdzonego przez UE, wskaż stwierdzenie fałszywe:",
+    "options": [
+      "„jednostka stowarzyszona" jest to jednostka, nad którą inwestor sprawuje kontrolę",
+      "stosując metodę praw własności, inwestycje ujmuje się od dnia, w którym dana jednostka spełnia wymogi definicji jednostki stowarzyszonej lub wspólnego przedsięwzięcia",
+      "stosując metodę praw własności, wartość firmy dotyczącą jednostki stowarzyszonej lub wspólnego przedsięwzięcia ujmuje się w wartości bilansowej inwestycji",
+      "amortyzacja wartości firmy dotyczącej jednostki stowarzyszonej lub wspólnego przedsięwzięcia, powstałej przy zastosowaniu metody praw własności, nie jest dozwolona"
+    ],
+    "correct_answer": "„jednostka stowarzyszona" jest to jednostka, nad którą inwestor sprawuje kontrolę",
+    "explanation": "Stwierdzenie to jest fałszywe. Zgodnie z MSR 28, jednostka stowarzyszona to jednostka, na którą inwestor wywiera ZNACZĄCY WPŁYW (a nie kontrolę). Kontrola jest cechą jednostki zależnej (MSSF 10). Znaczący wpływ to prawo do uczestniczenia w podejmowaniu decyzji finansowych i operacyjnych bez sprawowania nad nimi kontroli. Domniemywa się go przy posiadaniu 20–50% głosów."
+  },
+  {
+    "id": 9,
+    "source": "I etap kwiecień 2023, pytanie 34",
+    "standard": "MSR 8",
+    "question": "Na podstawie MSR 8 „Zasady (polityka) rachunkowości, zmiany wartości szacunkowych i korygowanie błędów", zatwierdzonego przez UE, wskaż stwierdzenie fałszywe:",
+    "options": [
+      "„wartości szacunkowe" są to kwoty pieniężne w sprawozdaniu finansowym, które podlegają niepewności wyceny",
+      "przykładem wartości szacunkowej jest odpis na oczekiwane straty kredytowe w zastosowaniu MSSF 9 „Instrumenty finansowe"",
+      "zmiana wartości szacunkowej z założenia odnosi się do poprzednich okresów oraz stanowi korektę błędu",
+      "w przypadku trudności w odróżnieniu zmiany zasad (polityki) rachunkowości od zmiany wartości szacunkowej zmianę traktuje się jako zmianę wartości szacunkowej"
+    ],
+    "correct_answer": "zmiana wartości szacunkowej z założenia odnosi się do poprzednich okresów oraz stanowi korektę błędu",
+    "explanation": "Stwierdzenie to jest fałszywe. Zgodnie z MSR 8, zmiana wartości szacunkowej NIE odnosi się do poprzednich okresów i NIE stanowi korekty błędu. Zmiana wartości szacunkowej wynika z pojawienia się nowych informacji lub zdobycia większego doświadczenia – ujmuje się ją prospektywnie (w bieżącym i przyszłych okresach). Korektę błędów stosuje się retrospektywnie."
+  },
+  {
+    "id": 10,
+    "source": "I etap kwiecień 2023, pytanie 82",
+    "standard": "MSR 40",
+    "question": "Zgodnie z MSR 40 „Nieruchomości inwestycyjne", zatwierdzonym przez UE, nieruchomość inwestycyjną posiadaną na własność początkowo wycenia się według:",
+    "options": [
+      "wartości godziwej",
+      "wartości przeszacowanej",
+      "wartości netto możliwej do uzyskania",
+      "ceny nabycia lub kosztu wytworzenia; przy początkowej wycenie uwzględnia się koszty przeprowadzenia transakcji"
+    ],
+    "correct_answer": "ceny nabycia lub kosztu wytworzenia; przy początkowej wycenie uwzględnia się koszty przeprowadzenia transakcji",
+    "explanation": "Zgodnie z MSR 40, nieruchomość inwestycyjna posiadana na własność jest POCZĄTKOWO wyceniana według ceny nabycia lub kosztu wytworzenia, przy czym przy wycenie początkowej uwzględnia się koszty przeprowadzenia transakcji (np. opłaty notarialne, podatki od transakcji). Po początkowym ujęciu jednostka może wybrać model wartości godziwej ALBO model ceny nabycia. Wartość godziwa jest modelem wyceny NASTĘPCZEJ, nie początkowej."
+  },
+  {
+    "id": 11,
+    "source": "I etap kwiecień 2023, pytanie 104",
+    "standard": "MSR 34",
+    "question": "Zgodnie z MSR 34 „Śródroczna sprawozdawczość finansowa", zatwierdzonym przez UE, prawdą jest, że:",
+    "options": [
+      "śródroczny raport finansowy składa się co najmniej z następujących części: skróconego bilansu oraz skróconego sprawozdania z zysków lub strat i innych całkowitych dochodów",
+      "jeżeli jednostka publikuje pełne sprawozdanie finansowe w ramach swojego śródrocznego raportu finansowego, forma i treść tego sprawozdania spełnia wymogi MSR 1 odnoszące się do pełnego sprawozdania finansowego",
+      "raporty śródroczne zawierają sprawozdanie z sytuacji finansowej porównawcze na koniec analogicznego okresu śródrocznego poprzedzającego roku obrotowego",
+      "podejmując decyzje dotyczące ujawniania danej pozycji dla celów śródrocznej sprawozdawczości finansowej, ocenia się jej istotność w odniesieniu do danych finansowych dotyczących poprzedniego okresu rocznego"
+    ],
+    "correct_answer": "jeżeli jednostka publikuje pełne sprawozdanie finansowe w ramach swojego śródrocznego raportu finansowego, forma i treść tego sprawozdania spełnia wymogi MSR 1 odnoszące się do pełnego sprawozdania finansowego",
+    "explanation": "Zgodnie z MSR 34, jeśli jednostka publikuje PEŁNE sprawozdanie finansowe w raporcie śródrocznym, musi ono spełniać wszystkie wymogi MSR 1. Śródroczny raport finansowy obejmuje co najmniej: skrócony bilans, skrócony rachunek zysku i strat, skrócone sprawozdanie ze zmian w kapitale własnym, skrócony rachunek przepływów pieniężnych oraz wybrane noty. Istotność ocenia się w odniesieniu do danych za bieżący OKRES ŚRÓDROCZNY, a nie za poprzedni rok."
+  }
+]

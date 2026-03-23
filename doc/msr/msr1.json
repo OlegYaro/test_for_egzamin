@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "source": "I etap 2024, pytanie 5",
+    "standard": "MSR 37",
+    "question": "Wskaż, na podstawie MSR 37 „Rezerwy, zobowiązania warunkowe i aktywa warunkowe", zatwierdzonego przez UE, które z poniższych twierdzeń jest prawdziwe:",
+    "options": [
+      "rezerwa jest zobowiązaniem, którego kwota lub termin zapłaty są niepewne",
+      "zyski z oczekiwanego zbycia aktywów uwzględnia się przy wycenie rezerw",
+      "tworzy się rezerwy na przyszłe straty operacyjne",
+      "jednostka ujmuje zobowiązania warunkowe w sprawozdaniu z przepływów środków pieniężnych"
+    ],
+    "correct_answer": "rezerwa jest zobowiązaniem, którego kwota lub termin zapłaty są niepewne",
+    "explanation": "Zgodnie z MSR 37, rezerwa jest zobowiązaniem, którego kwota lub termin zapłaty są niepewne. Zyski z oczekiwanego zbycia aktywów NIE uwzględnia się przy wycenie rezerw. Rezerw na przyszłe straty operacyjne się NIE tworzy. Zobowiązania warunkowe ujawnia się w informacji dodatkowej (notach), a nie w sprawozdaniu z przepływów pieniężnych."
+  },
+  {
+    "id": 2,
+    "source": "I etap 2024, pytanie 33",
+    "standard": "MSSF 5",
+    "question": "Zgodnie z MSSF 5 „Aktywa trwałe przeznaczone do sprzedaży oraz działalność zaniechana", zatwierdzonym przez UE, jednostka wycenia składnik aktywów trwałych (lub grupę do zbycia) zaklasyfikowany jako przeznaczony do sprzedaży w kwocie:",
+    "options": [
+      "równej jego wartości godziwej",
+      "wyższej z jego wartości bilansowej i wartości godziwej pomniejszonej o koszty sprzedaży",
+      "niższej z jego wartości bilansowej i wartości godziwej pomniejszonej o koszty sprzedaży",
+      "wyższej z jego wartości godziwej i wartości użytkowej"
+    ],
+    "correct_answer": "niższej z jego wartości bilansowej i wartości godziwej pomniejszonej o koszty sprzedaży",
+    "explanation": "Zgodnie z MSSF 5, składnik aktywów trwałych zaklasyfikowany jako przeznaczony do sprzedaży wycenia się w kwocie niższej z: wartości bilansowej oraz wartości godziwej pomniejszonej o koszty sprzedaży. Jest to zasada ostrożności – aktywo jest wyceniane po tej wartości, która jest niższa, co zapobiega zawyżeniu wartości aktywów."
+  },
+  {
+    "id": 3,
+    "source": "I etap 2024, pytanie 66",
+    "standard": "MSSF 10",
+    "question": "Zgodnie z MSSF 10 „Skonsolidowane sprawozdania finansowe", zatwierdzonym przez UE, jednostka dominująca przedstawia „udziały niekontrolujące" w swoim skonsolidowanym sprawozdaniu z sytuacji finansowej, w:",
+    "options": [
+      "kapitale własnym, oddzielnie od kapitału własnego właścicieli jednostki dominującej",
+      "kapitałach rezerwowych",
+      "zobowiązaniach finansowych",
+      "rezerwach"
+    ],
+    "correct_answer": "kapitale własnym, oddzielnie od kapitału własnego właścicieli jednostki dominującej",
+    "explanation": "Zgodnie z MSSF 10, udziały niekontrolujące prezentuje się w skonsolidowanym sprawozdaniu z sytuacji finansowej w kapitale własnym, ale oddzielnie od kapitału własnego właścicieli jednostki dominującej. Nie są one ani zobowiązaniem, ani rezerwą – są częścią kapitału własnego grupy."
+  },
+  {
+    "id": 4,
+    "source": "I etap 2024, pytanie 68",
+    "standard": "MSR 1",
+    "question": "Na podstawie MSR 1 „Prezentacja sprawozdań finansowych", zatwierdzonego przez UE, wskaż stwierdzenie fałszywe:",
+    "options": [
+      "wszystkie pozycje przychodów i kosztów osiągniętych/poniesionych w danym okresie jednostka ujmuje w zysku lub stracie, chyba że MSSF wymagają lub zezwalają na inne podejście",
+      "jednostka nie prezentuje żadnych pozycji przychodów lub kosztów jako pozycji nadzwyczajnych w sprawozdaniu z zysków lub strat i innych całkowitych dochodów lub w informacji dodatkowej",
+      "w każdym przypadku jednostka prezentuje analizę kosztów ujętych w zysku lub stracie w układzie kalkulacyjnym (funkcjonalnym)",
+      "jednostka stosująca metodę prezentacji kosztów w układzie funkcjonalnym ujawnia dodatkowe informacje o kosztach w układzie porównawczym (rodzajowym), w tym kwotę amortyzacji i świadczeń pracowniczych"
+    ],
+    "correct_answer": "w każdym przypadku jednostka prezentuje analizę kosztów ujętych w zysku lub stracie w układzie kalkulacyjnym (funkcjonalnym)",
+    "explanation": "Stwierdzenie to jest fałszywe. Zgodnie z MSR 1, jednostka prezentuje analizę kosztów w układzie porównawczym (rodzajowym) ALBO kalkulacyjnym (funkcjonalnym) – w zależności od tego, która forma prezentacji dostarcza informacji wiarygodnych i bardziej przydatnych. Nie ma obowiązku stosowania wyłącznie układu kalkulacyjnego."
+  },
+  {
+    "id": 5,
+    "source": "I etap 2024, pytanie 104",
+    "standard": "MSR 38",
+    "question": "Zgodnie z MSR 38 „Wartości niematerialne", zatwierdzonym przez UE, prawdą jest, że:",
+    "options": [
+      "termin „składnik wartości niematerialnych" oznacza możliwy do zidentyfikowania niepieniężny składnik aktywów, nieposiadający postaci fizycznej",
+      "wystarczającym warunkiem ujęcia składnika wartości niematerialnych jest udowodnienie, że jest prawdopodobne, że jednostka osiągnie przyszłe korzyści ekonomiczne przyporządkowane danemu składnikowi aktywów",
+      "składnik wartości niematerialnych wycenia się, po początkowym ujęciu, zawsze z wykorzystaniem modelu opartego na wartości przeszacowanej",
+      "nakłady na wytworzone przez jednostkę we własnym zakresie marki i listy klientów ujmuje się jako składniki wartości niematerialnych"
+    ],
+    "correct_answer": "termin „składnik wartości niematerialnych" oznacza możliwy do zidentyfikowania niepieniężny składnik aktywów, nieposiadający postaci fizycznej",
+    "explanation": "Zgodnie z MSR 38: składnik wartości niematerialnych to możliwy do zidentyfikowania niepieniężny składnik aktywów, nieposiadający postaci fizycznej. Samo prawdopodobieństwo korzyści ekonomicznych nie wystarczy do ujęcia – muszą być też spełnione inne warunki. Po początkowym ujęciu jednostka może wybrać model ceny nabycia LUB model wartości przeszacowanej. Marki i listy klientów wytworzone we własnym zakresie nie mogą być ujmowane jako wartości niematerialne."
+  },
+  {
+    "id": 6,
+    "source": "I etap 2024, pytanie 105",
+    "standard": "MSR 7",
+    "question": "Wskaż, na podstawie MSR 7 „Sprawozdanie z przepływów pieniężnych", zatwierdzonego przez UE, które z wymienionych przepływów stanowią przykłady przepływów pieniężnych powstających w wyniku działalności finansowej:",
+    "options": [
+      "środki pieniężne otrzymane ze sprzedaży rzeczowych aktywów trwałych",
+      "wpływy pieniężne z emisji akcji",
+      "środki pieniężne zapłacone na rzecz dostawców dóbr i usług",
+      "środki pieniężne zapłacone w celu nabycia wartości niematerialnych"
+    ],
+    "correct_answer": "wpływy pieniężne z emisji akcji",
+    "explanation": "Zgodnie z MSR 7, działalność finansowa powoduje zmiany w rozmiarach i składzie wniesionego kapitału własnego oraz w zadłużeniu jednostki. Wpływy pieniężne z emisji akcji są typowym przykładem przepływu z działalności finansowej. Sprzedaż rzeczowych aktywów trwałych i nabycie wartości niematerialnych to działalność inwestycyjna. Płatności na rzecz dostawców to działalność operacyjna."
+  },
+  {
+    "id": 7,
+    "source": "I etap 2025, pytanie 44",
+    "standard": "MSR 36",
+    "question": "Zgodnie z MSR 36 „Utrata wartości aktywów", zatwierdzonym przez UE, przez „wartość użytkową" rozumie się:",
+    "options": [
+      "wyższą z dwóch wartości: wartości godziwej pomniejszonej o koszty zbycia i wartości odzyskiwalnej składnika aktywów lub ośrodka wypracowującego środki pieniężne",
+      "bieżącą, szacunkową wartość przyszłych przepływów pieniężnych, których uzyskania oczekuje się z tytułu dalszego użytkowania składnika aktywów lub ośrodka wypracowującego środki pieniężne",
+      "cenę nabycia lub koszt wytworzenia danego składnika aktywów",
+      "nadwyżkę wartości bilansowej danego składnika aktywów lub ośrodka wypracowującego środki pieniężne nad jego wartością odzyskiwalną"
+    ],
+    "correct_answer": "bieżącą, szacunkową wartość przyszłych przepływów pieniężnych, których uzyskania oczekuje się z tytułu dalszego użytkowania składnika aktywów lub ośrodka wypracowującego środki pieniężne",
+    "explanation": "Zgodnie z MSR 36, wartość użytkowa (value in use) to bieżąca, szacunkowa wartość przyszłych przepływów pieniężnych, których uzyskania oczekuje się z tytułu dalszego użytkowania składnika aktywów lub ośrodka wypracowującego środki pieniężne. Wartość odzyskiwalna to wyższa z wartości: wartości godziwej pomniejszonej o koszty sprzedaży i wartości użytkowej. Odpis ujmuje się, gdy wartość bilansowa przewyższa wartość odzyskiwalną."
+  },
+  {
+    "id": 8,
+    "source": "I etap 2025, pytanie 58",
+    "standard": "MSR 38",
+    "question": "Zgodnie z MSR 38 „Wartości niematerialne", zatwierdzonym przez UE, prawdą jest, że:",
+    "options": [
+      "do przykładów prac badawczych zalicza się projektowanie, wykonanie i testowanie wybranych rozwiązań w zakresie nowych lub udoskonalonych produktów, procesów, systemów lub usług",
+      "nakłady poniesione przez jednostkę na prace badawcze ujmuje się jako składnik wartości niematerialnych",
+      "nie ujmuje się jako składnika aktywów wartości firmy wytworzonej przez jednostkę",
+      "nakłady na wytworzone przez jednostkę we własnym zakresie marki ujmuje się jako składnik wartości niematerialnych"
+    ],
+    "correct_answer": "nie ujmuje się jako składnika aktywów wartości firmy wytworzonej przez jednostkę",
+    "explanation": "Wartość firmy (goodwill) wytworzona wewnętrznie nie jest uznawana za aktywo i nie może być ujęta w sprawozdaniu – ujmuje się ją wyłącznie przy połączeniach przedsiębiorstw zgodnie z MSSF 3. Projektowanie i testowanie nowych produktów to faza PRAC ROZWOJOWYCH, a nie badawczych. Nakłady na prace badawcze zawsze ujmuje się w kosztach okresu. Marki wytworzone we własnym zakresie nie podlegają kapitalizacji."
+  },
+  {
+    "id": 9,
+    "source": "I etap 2025, pytanie 72",
+    "standard": "MSR 8",
+    "question": "Zgodnie z MSR 8 „Zasady (polityka) rachunkowości, zmiany wartości szacunkowych i korygowanie błędów", zatwierdzonym przez UE, prawdą jest, że:",
+    "options": [
+      "zmiana wartości szacunkowej, w wyniku pojawienia się nowych informacji lub nowych zdarzeń bądź zdobycia większego doświadczenia, stanowi korektę błędu",
+      "przykładowymi wartościami szacunkowymi są: odpis na oczekiwane straty kredytowe w zastosowaniu MSSF 9 i możliwa do uzyskania wartość netto składnika zapasów w zastosowaniu MSR 2",
+      "koszt amortyzacji pozycji rzeczowych aktywów trwałych w zastosowaniu MSR 16 nie stanowi przykładu wartości szacunkowej",
+      "w przypadku trudności w odróżnieniu zmiany zasad (polityki) rachunkowości od zmiany wartości szacunkowej, zmianę traktuje się jako zmianę zasad (polityki) rachunkowości"
+    ],
+    "correct_answer": "przykładowymi wartościami szacunkowymi są: odpis na oczekiwane straty kredytowe w zastosowaniu MSSF 9 i możliwa do uzyskania wartość netto składnika zapasów w zastosowaniu MSR 2",
+    "explanation": "Odpis na straty kredytowe (MSSF 9) i wartość netto zapasów (MSR 2) są klasycznymi przykładami wartości szacunkowych. Zmiana wartości szacunkowych NIE stanowi korekty błędu – ujmuje się ją prospektywnie. Amortyzacja jest przykładem wartości szacunkowej (zależy od szacunków okresu użytkowania i metody amortyzacji). W przypadku trudności w odróżnieniu, zmianę traktuje się jako zmianę wartości szacunkowej."
+  },
+  {
+    "id": 10,
+    "source": "I etap 2025, pytanie 73",
+    "standard": "MSR 2",
+    "question": "Na podstawie MSR 2 „Zapasy", zatwierdzonego przez UE, wskaż stwierdzenie fałszywe:",
+    "options": [
+      "zapasy wycenia się w cenie nabycia lub koszcie wytworzenia lub też według wartości netto możliwej do uzyskania, w zależności od tego, która z kwot jest wyższa",
+      "wartość netto możliwa do uzyskania jest to szacunkowa cena sprzedaży w toku zwykłej działalności gospodarczej pomniejszona o szacowane koszty przygotowania sprzedaży i szacunkowe koszty niezbędne do doprowadzenia sprzedaży do skutku",
+      "przykładami kosztów wyłączonych z ceny nabycia lub kosztu wytworzenia zapasów i ujmowanych jako koszty okresu są ogólne koszty administracyjne, które nie przyczyniają się do doprowadzenia zapasów do ich aktualnego stanu i miejsca",
+      "przykładami kosztów wyłączonych z ceny nabycia lub kosztu wytworzenia zapasów i ujmowanych jako koszty okresu są nietypowe wielkości zmarnowanych materiałów, robocizny oraz innych kosztów produkcyjnych"
+    ],
+    "correct_answer": "zapasy wycenia się w cenie nabycia lub koszcie wytworzenia lub też według wartości netto możliwej do uzyskania, w zależności od tego, która z kwot jest wyższa",
+    "explanation": "Stwierdzenie to jest fałszywe. Zgodnie z MSR 2, zapasy wycenia się według NIŻSZEJ wartości spośród: kosztu nabycia/wytworzenia i wartości netto możliwej do uzyskania (NRV). Zasada ta wynika z ostrożności i zapobiega zawyżeniu wartości zapasów."
+  },
+  {
+    "id": 11,
+    "source": "I etap 2025, pytanie 86",
+    "standard": "MSSF 3",
+    "question": "Zgodnie z MSSF 3 „Połączenia jednostek", zatwierdzonym przez UE, prawdą jest, że:",
+    "options": [
+      "zastosowanie metody przejęcia do rozliczenia połączenia jednostek wymaga zidentyfikowania jednostki przejmującej",
+      "stosując metodę przejęcia, jednostka przejmująca ustala dzień przejęcia, którym jest dzień rozpoczęcia wywierania znaczącego wpływu na jednostkę przejmowaną",
+      "okres wyceny, następujący po dniu przejęcia, nie powinien przekraczać dwóch lat od dnia przejęcia",
+      "do rozliczenia połączenia jednostek, jednostka przejmująca może stosować metodę praw własności"
+    ],
+    "correct_answer": "zastosowanie metody przejęcia do rozliczenia połączenia jednostek wymaga zidentyfikowania jednostki przejmującej",
+    "explanation": "Identyfikacja jednostki przejmującej jest kluczowym elementem metody przejęcia. Dzień przejęcia to dzień uzyskania KONTROLI, a nie dzień wywierania znaczącego wpływu (pojęcie z MSR 28). Okres wyceny nie powinien przekraczać 12 miesięcy, a nie dwóch lat. MSSF 3 nakazuje wyłącznie metodę przejęcia."
+  }
+]

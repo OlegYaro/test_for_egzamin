@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "source": "I etap kwiecień 2023, pytanie 105",
+    "standard": "MSR 1",
+    "question": "Zgodnie z MSR 1 „Prezentacja sprawozdań finansowych", zatwierdzonym przez UE, oceniając, czy założenie kontynuacji działalności jest właściwe, kierownictwo bierze pod uwagę wszelkie dostępne informacje dotyczące przyszłości, która odpowiada co najmniej:",
+    "options": [
+      "trzem miesiącom od końca okresu sprawozdawczego",
+      "sześciu miesiącom od końca okresu sprawozdawczego",
+      "dziewięciu miesiącom od końca okresu sprawozdawczego",
+      "dwunastu miesiącom od końca okresu sprawozdawczego"
+    ],
+    "correct_answer": "dwunastu miesiącom od końca okresu sprawozdawczego",
+    "explanation": "Zgodnie z MSR 1, oceniając, czy założenie kontynuacji działalności jest właściwe, kierownictwo bierze pod uwagę wszelkie dostępne informacje dotyczące przyszłości, która obejmuje co najmniej 12 miesięcy od końca okresu sprawozdawczego. Jest to minimalny horyzont czasowy brany pod uwagę przy ocenie zdolności jednostki do kontynuowania działalności."
+  },
+  {
+    "id": 2,
+    "source": "I etap kwiecień 2023, pytanie 110",
+    "standard": "MSSF 3",
+    "question": "Zgodnie z MSSF 3 „Połączenia jednostek" („Połączenia przedsięwzięć"), zatwierdzonym przez UE, „wartość firmy" to:",
+    "options": [
+      "kapitał własny jednostki przejmującej",
+      "kapitał własny jednostki przejmowanej",
+      "składnik aktywów reprezentujący przyszłe korzyści ekonomiczne powstające z aktywów nabytych w ramach połączenia jednostek, których nie można pojedynczo zidentyfikować ani osobno ująć",
+      "suma aktywów jednostki przejmowanej"
+    ],
+    "correct_answer": "składnik aktywów reprezentujący przyszłe korzyści ekonomiczne powstające z aktywów nabytych w ramach połączenia jednostek, których nie można pojedynczo zidentyfikować ani osobno ująć",
+    "explanation": "Zgodnie z MSSF 3, wartość firmy (goodwill) to składnik aktywów reprezentujący przyszłe korzyści ekonomiczne powstające z innych aktywów nabytych w ramach połączenia jednostek, których nie można pojedynczo zidentyfikować ani osobno ująć. Wartość firmy = zapłata za przejęcie + udziały niekontrolujące + wartość godziwa poprzednio posiadanych udziałów – wartość godziwa netto możliwych do zidentyfikowania nabytych aktywów i przejętych zobowiązań."
+  },
+  {
+    "id": 3,
+    "source": "I etap listopad 2019, pytanie 6",
+    "standard": "MSSF 3",
+    "question": "Zgodnie z MSSF 3 „Połączenia jednostek" („Połączenia przedsięwzięć"), zatwierdzonym przez UE, „wartość firmy" to:",
+    "options": [
+      "kapitał własny jednostki przejmowanej",
+      "aktywa netto jednostki przejmowanej",
+      "suma aktywów trwałych jednostki przejmowanej",
+      "składnik aktywów reprezentujący przyszłe korzyści ekonomiczne powstające z aktywów nabytych w ramach połączenia jednostek, których nie można pojedynczo zidentyfikować ani osobno ująć"
+    ],
+    "correct_answer": "składnik aktywów reprezentujący przyszłe korzyści ekonomiczne powstające z aktywów nabytych w ramach połączenia jednostek, których nie można pojedynczo zidentyfikować ani osobno ująć",
+    "explanation": "Zgodnie z MSSF 3, wartość firmy (goodwill) to składnik aktywów reprezentujący przyszłe korzyści ekonomiczne powstające z aktywów nabytych w ramach połączenia jednostek, których nie można pojedynczo zidentyfikować ani osobno ująć. Wartość firmy powstaje jako nadwyżka ceny przejęcia nad wartością godziwą netto możliwych do zidentyfikowania nabytych aktywów i przejętych zobowiązań na dzień przejęcia."
+  },
+  {
+    "id": 4,
+    "source": "I etap listopad 2019, pytanie 35",
+    "standard": "MSR 2",
+    "question": "Na podstawie MSR 2 „Zapasy", zatwierdzonego przez UE, wskaż stwierdzenie fałszywe:",
+    "options": [
+      "zapasy wycenia się w cenie nabycia lub koszcie wytworzenia lub też według wartości netto możliwej do uzyskania, w zależności od tego, która z kwot jest niższa",
+      "wartość netto możliwa do uzyskania to kwota, jaką jednostka zamierza zrealizować na sprzedaży zapasów dokonywanej w toku zwykłej działalności gospodarczej",
+      "przykładem kosztów wyłączonych z ceny nabycia lub kosztu wytworzenia zapasów i ujmowanych jako koszty okresu są koszty sprzedaży",
+      "metoda szczegółowej identyfikacji poszczególnych cen nabycia lub kosztów wytworzenia jest odpowiednia do ustalania ceny nabycia lub kosztu wytworzenia zapasów w przypadku dużej ilości pozycji zapasów będących pozycjami wzajemnie wymienialnymi"
+    ],
+    "correct_answer": "metoda szczegółowej identyfikacji poszczególnych cen nabycia lub kosztów wytworzenia jest odpowiednia do ustalania ceny nabycia lub kosztu wytworzenia zapasów w przypadku dużej ilości pozycji zapasów będących pozycjami wzajemnie wymienialnymi",
+    "explanation": "Stwierdzenie to jest fałszywe. Zgodnie z MSR 2, metoda szczegółowej identyfikacji jest odpowiednia dla zapasów, które NIE są wzajemnie wymienialne, oraz dla dóbr i usług przeznaczonych do realizacji konkretnych przedsięwzięć. Dla dużej ilości pozycji wzajemnie wymienialnych stosuje się metodę FIFO lub średniej ważonej."
+  },
+  {
+    "id": 5,
+    "source": "I etap listopad 2019, pytanie 88",
+    "standard": "MSR 40",
+    "question": "Na podstawie MSR 40 „Nieruchomości inwestycyjne", zatwierdzonego przez UE, wskaż stwierdzenie prawdziwe:",
+    "options": [
+      "nieruchomość inwestycyjną posiadaną na własność początkowo wycenia się według wartości godziwej",
+      "przy początkowej wycenie nieruchomości inwestycyjnej posiadanej na własność nie uwzględnia się kosztów przeprowadzenia transakcji",
+      "nieruchomość inwestycyjną posiadaną na własność początkowo wycenia się według ceny nabycia lub kosztu wytworzenia; przy początkowej wycenie uwzględnia się koszty przeprowadzenia transakcji",
+      "wymagane jest, aby wyceniając wartość godziwą nieruchomości inwestycyjnej jednostka korzystała z wyceny wykwalifikowanego i niezależnego rzeczoznawcy"
+    ],
+    "correct_answer": "nieruchomość inwestycyjną posiadaną na własność początkowo wycenia się według ceny nabycia lub kosztu wytworzenia; przy początkowej wycenie uwzględnia się koszty przeprowadzenia transakcji",
+    "explanation": "Zgodnie z MSR 40, nieruchomość inwestycyjna posiadana na własność jest początkowo wyceniana według ceny nabycia lub kosztu wytworzenia, z uwzględnieniem kosztów transakcyjnych (np. kosztów prawnych, podatku od nabycia itp.). Wycena według wartości godziwej jest możliwa jako model wyceny po ujęciu początkowym, ale nie na moment początkowego ujęcia. Korzystanie z rzeczoznawcy jest zalecane, lecz nie jest wymagane bezwzględnie przez standard."
+  },
+  {
+    "id": 6,
+    "source": "I etap listopad 2019, pytanie 89",
+    "standard": "MSR 36",
+    "question": "Zgodnie z MSR 36 „Utrata wartości aktywów", zatwierdzonym przez UE, odpis aktualizujący z tytułu utraty wartości jest nadwyżką:",
+    "options": [
+      "wartości użytkowej danego składnika aktywów lub ośrodka wypracowującego środki pieniężne nad jego wartością godziwą",
+      "wartości bilansowej danego składnika aktywów lub ośrodka wypracowującego środki pieniężne nad jego wartością odzyskiwalną",
+      "wartości odzyskiwalnej danego składnika aktywów lub ośrodka wypracowującego środki pieniężne nad jego wartością użytkową",
+      "wartości rynkowej danego składnika aktywów lub ośrodka wypracowującego środki pieniężne nad jego wartością bilansową"
+    ],
+    "correct_answer": "wartości bilansowej danego składnika aktywów lub ośrodka wypracowującego środki pieniężne nad jego wartością odzyskiwalną",
+    "explanation": "Zgodnie z MSR 36, odpis aktualizujący z tytułu utraty wartości to nadwyżka wartości bilansowej składnika aktywów (lub ośrodka wypracowującego środki pieniężne) nad jego wartością odzyskiwalną. Wartość odzyskiwalna to wyższa z: wartości godziwej pomniejszonej o koszty sprzedaży i wartości użytkowej. Jeżeli wartość bilansowa przewyższa wartość odzyskiwalną, ujmuje się odpis w rachunku zysków i strat."
+  },
+  {
+    "id": 7,
+    "source": "I etap listopad 2019, pytanie 94",
+    "standard": "MSR 37",
+    "question": "Na podstawie MSR 37 „Rezerwy, zobowiązania warunkowe i aktywa warunkowe", zatwierdzonego przez UE, wskaż stwierdzenie prawdziwe:",
+    "options": [
+      "jednostka nie ujmuje w sprawozdaniu finansowym zobowiązań handlowych",
+      "jednostka nie ujmuje w sprawozdaniu finansowym aktywów warunkowych",
+      "jednostka nie ujmuje w sprawozdaniu finansowym rozliczeń międzyokresowych biernych",
+      "jednostka nie ujmuje w sprawozdaniu finansowym rezerw"
+    ],
+    "correct_answer": "jednostka nie ujmuje w sprawozdaniu finansowym aktywów warunkowych",
+    "explanation": "Zgodnie z MSR 37, aktywa warunkowe NIE są ujmowane w sprawozdaniu finansowym, ponieważ mogłoby to prowadzić do ujęcia dochodu, który nigdy nie zostanie zrealizowany. Aktywa warunkowe ujawnia się jedynie w informacji dodatkowej, gdy wpływ korzyści ekonomicznych jest prawdopodobny. Zobowiązania handlowe i rozliczenia międzyokresowe bierne SĄ ujmowane w sprawozdaniu. Rezerwy spełniające kryteria MSR 37 również SĄ ujmowane w sprawozdaniu z sytuacji finansowej."
+  },
+  {
+    "id": 8,
+    "source": "I etap wrzesień 2020, pytanie 35",
+    "standard": "MSR 7",
+    "question": "Zgodnie z MSR 7 „Sprawozdanie z przepływów pieniężnych", zatwierdzonym przez UE, przykładem przepływów pieniężnych z działalności operacyjnej są:",
+    "options": [
+      "środki pieniężne zapłacone na rzecz właścicieli z tytułu nabycia lub spłaty udziałów w jednostce",
+      "środki pieniężne otrzymane z tytułu sprzedaży dóbr i świadczenia usług",
+      "wpływy pieniężne z emisji akcji",
+      "wpływy środków pieniężnych z tytułu emisji obligacji"
+    ],
+    "correct_answer": "środki pieniężne otrzymane z tytułu sprzedaży dóbr i świadczenia usług",
+    "explanation": "Zgodnie z MSR 7, działalność operacyjna obejmuje zasadniczą działalność przynoszącą przychody jednostki. Środki pieniężne otrzymane z tytułu sprzedaży dóbr i świadczenia usług są podstawowym przykładem przepływów z działalności operacyjnej. Wpływy z emisji akcji i obligacji to działalność finansowa. Płatności na rzecz właścicieli z tytułu nabycia lub spłaty udziałów to również działalność finansowa."
+  },
+  {
+    "id": 9,
+    "source": "I etap wrzesień 2020, pytanie 43",
+    "standard": "MSR 8",
+    "question": "Zgodnie z MSR 8 „Zasady (polityka) rachunkowości, zmiany wartości szacunkowych i korygowanie błędów", zatwierdzonym przez UE, prawdą jest, że:",
+    "options": [
+      "jednostka zmienia stosowane zasady (politykę) rachunkowości tylko wówczas, gdy wymagają tego postanowienia MSSF",
+      "zmiany wartości szacunkowych są rezultatem nowych informacji bądź wydarzeń i nie stanowią korekty błędów",
+      "weryfikacja wartości szacunkowych z założenia odnosi się do poprzednich okresów",
+      "w przypadku trudności w odróżnieniu zmiany zasad (polityki) rachunkowości od zmiany wartości szacunkowej zmianę traktuje się jako zmianę zasad (polityki) rachunkowości"
+    ],
+    "correct_answer": "zmiany wartości szacunkowych są rezultatem nowych informacji bądź wydarzeń i nie stanowią korekty błędów",
+    "explanation": "Zmiany wartości szacunkowych wynikają z pojawienia się nowych informacji lub zdarzeń i są ujmowane prospektywnie; nie są korektą błędów. Jednostka może zmienić politykę rachunkowości także wówczas, gdy zmiana skutkuje bardziej przydatnymi i wiarygodnymi informacjami. Weryfikacja wartości szacunkowych NIE odnosi się do poprzednich okresów (jest prospektywna). W przypadku trudności zmianę traktuje się jako zmianę wartości szacunkowej."
+  },
+  {
+    "id": 10,
+    "source": "I etap wrzesień 2020, pytanie 64",
+    "standard": "MSSF 3",
+    "question": "Zgodnie z MSSF 3 „Połączenia jednostek" („Połączenia przedsięwzięć"), zatwierdzonym przez UE, zastosowanie do rozliczenia połączenia jednostek metody przejęcia wymaga:",
+    "options": [
+      "zidentyfikowania jednostki przejmującej",
+      "ustalenia dnia przejęcia, którym jest dzień wpisania połączenia do rejestru właściwego dla siedziby jednostki przejmującej",
+      "ustalenia dnia przejęcia, którym jest dzień wpisania połączenia do rejestru właściwego dla siedziby jednostki przejmowanej",
+      "w przypadku każdego połączenia jednostek, ujęcia i wyceny zysku z okazyjnego nabycia"
+    ],
+    "correct_answer": "zidentyfikowania jednostki przejmującej",
+    "explanation": "Zgodnie z MSSF 3, zastosowanie metody przejęcia wymaga m.in.: (1) zidentyfikowania jednostki przejmującej, (2) ustalenia dnia przejęcia (dnia uzyskania kontroli, nie dnia rejestracji), (3) ujęcia i wyceny nabytych aktywów i przejętych zobowiązań, (4) ujęcia wartości firmy lub zysku z okazyjnego nabycia. Zysk z okazyjnego nabycia ujmuje się tylko w przypadku nabycia okazyjnego, nie w każdym przypadku."
+  },
+  {
+    "id": 11,
+    "source": "I etap wrzesień 2020, pytanie 66",
+    "standard": "MSR 38",
+    "question": "Zgodnie z MSR 38 „Wartości niematerialne", zatwierdzonym przez UE, wartość firmy wytworzona przez jednostkę we własnym zakresie:",
+    "options": [
+      "ujmowana jest jako składnik wartości niematerialnych jednostki",
+      "ujmowana jest jako składnik pasywów jednostki",
+      "ujmowana jest jako przychody przyszłych okresów jednostki",
+      "nie jest ujmowana jako składnik aktywów jednostki"
+    ],
+    "correct_answer": "nie jest ujmowana jako składnik aktywów jednostki",
+    "explanation": "Zgodnie z MSR 38, wartość firmy wytworzona przez jednostkę we własnym zakresie (internally generated goodwill) nie jest ujmowana jako składnik aktywów. Wynika to z faktu, że nie jest możliwe wiarygodne ustalenie jej kosztu, a ponadto nie spełnia ona definicji możliwego do zidentyfikowania składnika aktywów. Wartość firmy ujmuje się w sprawozdaniu wyłącznie w przypadku nabycia w ramach połączenia przedsiębiorstw (MSSF 3)."
+  }
+]
