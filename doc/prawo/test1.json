@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "source": "I etap 2024, pytanie 63",
+    "law": "Kodeks cywilny",
+    "topic": "Zdolność prawna – Art. 8 KC",
+    "question": "Od kiedy człowiek ma zdolność prawną?",
+    "options": [
+      "Od chwili urodzenia",
+      "Od chwili uzyskania pełnoletności",
+      "Od chwili zawarcia małżeństwa przed uzyskaniem pełnoletności",
+      "Od chwili ukończenia lat trzynastu"
+    ],
+    "correct_answer": "Od chwili urodzenia",
+    "explanation": "Zgodnie z art. 8 § 1 Kodeksu cywilnego każdy człowiek od chwili urodzenia ma zdolność prawną. Zdolność prawna to zdolność do bycia podmiotem praw i obowiązków cywilnoprawnych. Nie należy jej mylić ze zdolnością do czynności prawnych, którą pełną nabywa się z chwilą uzyskania pełnoletności (art. 11 KC), ani z ograniczoną zdolnością do czynności prawnych przysługującą małoletnim po ukończeniu 13 lat (art. 15 KC)."
+  },
+  {
+    "id": 2,
+    "source": "I etap 2024, pytanie 94",
+    "law": "Kodeks cywilny",
+    "topic": "Forma zbycia przedsiębiorstwa – Art. 75¹ KC",
+    "question": "Wskaż, w jakiej formie następuje zbycie przedsiębiorstwa:",
+    "options": [
+      "w formie umowy cywilnoprawnej zawartej przez prokurentów",
+      "w formie pisemnej",
+      "w formie pisemnej z podpisami notarialnie poświadczonymi",
+      "w formie postanowienia wydanego przez sąd rejestrowy"
+    ],
+    "correct_answer": "w formie pisemnej z podpisami notarialnie poświadczonymi",
+    "explanation": "Zgodnie z art. 75¹ § 1 Kodeksu cywilnego zbycie lub wydzierżawienie przedsiębiorstwa albo ustanowienie na nim użytkowania powinno być dokonane w formie pisemnej z podpisami notarialnie poświadczonymi. Jest to forma szczególna wymagana pod rygorem nieważności (art. 73 § 2 KC). Ponadto zbycie przedsiębiorstwa należącego do osoby wpisanej do rejestru powinno być wpisane do rejestru (art. 75¹ § 2 KC)."
+  },
+  {
+    "id": 3,
+    "source": "I etap 2024, pytanie 39",
+    "law": "Prawo bankowe",
+    "topic": "Bankowe papiery wartościowe – Art. 89 Prawa bankowego",
+    "question": "Wskaż zadanie prawdziwe w odniesieniu do emisji bankowych papierów wartościowych:",
+    "options": [
+      "banki mogą emitować bankowe papiery wartościowe na warunkach podawanych do publicznej wiadomości",
+      "banki nie mogą emitować bankowych papierów wartościowych",
+      "banki mogą emitować bankowe papiery wartościowe na warunkach podawanych do wiadomości ich akcjonariuszy",
+      "banki mogą emitować bankowe papiery wartościowe na warunkach podawanych do wiadomości wybranych przez dany bank akcjonariuszy"
+    ],
+    "correct_answer": "banki mogą emitować bankowe papiery wartościowe na warunkach podawanych do publicznej wiadomości",
+    "explanation": "Zgodnie z art. 89 ust. 1 ustawy Prawo bankowe banki mogą emitować bankowe papiery wartościowe na warunkach podawanych do publicznej wiadomości. Bankowy papier wartościowy służy gromadzeniu przez banki środków pieniężnych w złotych lub w innej walucie wymienialnej (art. 90). Bank nie może udzielać kredytu lub pożyczki pieniężnej na kupno bankowych papierów wartościowych emitowanych przez siebie (art. 91)."
+  },
+  {
+    "id": 4,
+    "source": "I etap 2024, pytanie 61",
+    "law": "Ustawa o nadzorze nad rynkiem kapitałowym",
+    "topic": "Zgłoszenia naruszeń do KNF – Art. 3a",
+    "question": "Komisja Nadzoru Finansowego przyjmuje zgłoszenia naruszeń lub potencjalnych naruszeń przepisów ustawy o obrocie instrumentami finansowymi. Czy przekazanie Komisji Nadzoru Finansowego takiego zgłoszenia może stanowić przyczynę rozwiązania z osobą zgłaszającą umowy o pracę?",
+    "options": [
+      "Tak",
+      "Nie",
+      "Tak, o ile zgłoszenie dotyczy tylko faktycznych naruszeń",
+      "Tak, jeżeli zostanie wykazane, że dotyczy to jedynie potencjalnych naruszeń"
+    ],
+    "correct_answer": "Nie",
+    "explanation": "Zgodnie z art. 3a ust. 1 ustawy o nadzorze nad rynkiem kapitałowym, Komisja przyjmuje zgłoszenia naruszeń lub potencjalnych naruszeń. Przekazanie Komisji zgłoszenia naruszeń lub potencjalnych naruszeń nie może stanowić przyczyny rozwiązania z osobą zgłaszającą umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze. Jest to ochrona tzw. sygnalistów (whistleblowers) na rynku kapitałowym."
+  },
+  {
+    "id": 5,
+    "source": "I etap 2025, pytanie 78",
+    "law": "Kodeks cywilny",
+    "topic": "Zdolność prawna – Art. 8 KC",
+    "question": "Dokończ zdanie, aby było ono prawdziwe zgodnie z przepisami Kodeksu cywilnego. Każdy człowiek ma zdolność prawną:",
+    "options": [
+      "od chwili urodzenia",
+      "od ukończenia lat osiemnastu",
+      "którą uzyskuje poprzez zawarcie małżeństwa",
+      "którą uzyskuje poprzez zawarcie małżeństwa, o ile małżeństwo to nie zostanie unieważnione"
+    ],
+    "correct_answer": "od chwili urodzenia",
+    "explanation": "Zgodnie z art. 8 § 1 Kodeksu cywilnego każdy człowiek od chwili urodzenia ma zdolność prawną. Odpowiedzi B, C i D odnoszą się do pełnoletności i zdolności do czynności prawnych, a nie do zdolności prawnej. Pełnoletność nabywa się z ukończeniem 18 lat (art. 10 § 1 KC), a przez zawarcie małżeństwa małoletni uzyskuje pełnoletność, której nie traci w razie unieważnienia małżeństwa (art. 10 § 2 KC)."
+  },
+  {
+    "id": 6,
+    "source": "I etap 2025, pytanie 9",
+    "law": "Prawo bankowe",
+    "topic": "Komitety w banku istotnym – Art. 9cb Prawa bankowego",
+    "question": "Czy, w rozumieniu ustawy Prawo bankowe, w banku istotnym mają obowiązek działać komitet do spraw wynagrodzeń oraz komitet do spraw ryzyka?",
+    "options": [
+      "tak",
+      "taki wymóg dotyczy każdego banku, a nie tylko banku istotnego",
+      "bank istotny ma obowiązek ustanowić jedynie komitet do spraw wynagrodzeń",
+      "bank istotny ma obowiązek ustanowić jedynie komitet do spraw ryzyka"
+    ],
+    "correct_answer": "tak",
+    "explanation": "Zgodnie z art. 9cb ust. 1 ustawy Prawo bankowe w banku istotnym działają: 1) komitet do spraw wynagrodzeń, 2) komitet do spraw ryzyka – w skład których wchodzą osoby powoływane spośród członków rady nadzorczej banku. Obowiązek ten dotyczy wyłącznie banków istotnych w rozumieniu art. 4 ust. 1 pkt 35 Prawa bankowego, a nie wszystkich banków."
+  },
+  {
+    "id": 7,
+    "source": "I etap 2025, pytanie 29",
+    "law": "Prawo bankowe",
+    "topic": "Komitet do spraw nominacji – Art. 9cd Prawa bankowego",
+    "question": "Czy powołany przez bank komitet do spraw nominacji ma obowiązek przyjąć politykę różnorodności w składzie zarządu banku?",
+    "options": [
+      "tak",
+      "nie, ponieważ to zadanie zawsze należy do rady nadzorczej banku",
+      "nie, ponieważ to zadanie zawsze należy do zarządu banku",
+      "nie, ponieważ przyjęta polityka różnorodności ma się odnosić wyłącznie do osób zasiadających na stanowiskach kierowniczych w banku"
+    ],
+    "correct_answer": "tak",
+    "explanation": "Zgodnie z art. 9cd ustawy Prawo bankowe w banku istotnym działa komitet do spraw nominacji, którego członkowie są powołani przez radę nadzorczą spośród jej członków. Do zadań komitetu do spraw nominacji należy m.in. opracowanie i okresowy przegląd polityki różnorodności w odniesieniu do składu zarządu i rady nadzorczej banku."
+  },
+  {
+    "id": 8,
+    "source": "I etap 2025, pytanie 110",
+    "law": "Prawo bankowe",
+    "topic": "System zarządzania w banku – Art. 9a Prawa bankowego",
+    "question": "Wskaż, który organ banku wprowadza oraz zapewnia działanie systemu zarządzania.",
+    "options": [
+      "zarząd",
+      "żaden organ nie jest wskazany w odniesieniu do tego zadania w ustawie Prawo bankowe",
+      "rada nadzorcza",
+      "za to zadanie odpowiada wyłącznie prezes zarządu banku"
+    ],
+    "correct_answer": "zarząd",
+    "explanation": "Zgodnie z art. 9a ust. 1 ustawy Prawo bankowe to zarząd banku projektuje, wprowadza oraz zapewnia działanie systemu zarządzania. Rada nadzorcza natomiast sprawuje nadzór nad wprowadzeniem systemu zarządzania oraz ocenia jego adekwatność i skuteczność (art. 9a ust. 2), ale nie jest organem, który sam ten system wprowadza. Odpowiedzialność spoczywa na całym zarządzie, a nie wyłącznie na prezesie."
+  },
+  {
+    "id": 9,
+    "source": "I etap 2025, pytanie 37",
+    "law": "Ustawa o nadzorze nad rynkiem kapitałowym",
+    "topic": "Wizyta nadzorcza w domu maklerskim – Art. 37a",
+    "question": "Wskaż zdanie prawdziwe:",
+    "options": [
+      "upoważnieni pracownicy Urzędu Komisji Nadzoru Finansowego mogą przeprowadzić w domu maklerskim wizytę nadzorczą w zakresie niezbędnym do nadzoru ostrożnościowego nad domami maklerskimi",
+      "upoważnieni pracownicy Urzędu Komisji Nadzoru Finansowego nie mogą przeprowadzić w domu maklerskim wizyty nadzorczej",
+      "upoważnieni pracownicy Urzędu Komisji Nadzoru Finansowego mogą przeprowadzić w domu maklerskim wizytę nadzorczą wyłącznie w zakresie ustalenia, jakimi regulaminami obsługi klienta dysponuje dom maklerski",
+      "upoważnieni pracownicy Urzędu Komisji Nadzoru Finansowego mogą przeprowadzić w domu maklerskim wizytę nadzorczą, która może trwać nie dłużej niż 30 dni"
+    ],
+    "correct_answer": "upoważnieni pracownicy Urzędu Komisji Nadzoru Finansowego mogą przeprowadzić w domu maklerskim wizytę nadzorczą w zakresie niezbędnym do nadzoru ostrożnościowego nad domami maklerskimi",
+    "explanation": "Zgodnie z art. 37a ust. 1 ustawy o nadzorze nad rynkiem kapitałowym, upoważnieni pracownicy urzędu Komisji mogą przeprowadzić w domu maklerskim wizytę nadzorczą w zakresie badania i oceny nadzorczej przestrzegania przez dom maklerski przepisów dotyczących adekwatności kapitałowej. Czas trwania wizyty nadzorczej nie może być dłuższy niż 2 miesiące (art. 37a ust. 4), a nie 30 dni jak sugeruje odpowiedź D."
+  }
+]

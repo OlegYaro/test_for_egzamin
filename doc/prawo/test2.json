@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "source": "I etap 2025, pytanie 79",
+    "law": "Ustawa o nadzorze nad rynkiem kapitałowym",
+    "topic": "Publikacja informacji o decyzjach karnych KNF – Art. 24a i 25",
+    "question": "Zgodnie z ustawą o nadzorze nad rynkiem kapitałowym Komisja Nadzoru Finansowego w przypadku wydania decyzji nakładającej karę za naruszenie przepisów rozporządzenia MAR nr 596/2014, może zdecydować o przekazaniu do publicznej wiadomości informacji o wydaniu tej decyzji. Czy Komisja udostępnia na swojej stronie internetowej informacje dotyczące imienia i nazwiska osoby, której dotyczy taka decyzja?",
+    "options": [
+      "nie, ponieważ w przypadku wydania takiej decyzji Komisja Nadzoru Finansowego nie posiada uprawnień do udostępniania informacji dotyczących osoby fizycznej",
+      "tak, a informacje dotyczące imienia i nazwiska osoby, której dotyczy decyzja, Komisja Nadzoru Finansowego udostępnia na swojej stronie internetowej przez okres 5 lat od dnia ich udostępnienia",
+      "tak, a informacje dotyczące imienia i nazwiska osoby, której dotyczy decyzja, Komisja Nadzoru Finansowego udostępnia na swojej stronie internetowej przez okres roku licząc od dnia ich udostępnienia",
+      "tak, a informacje dotyczące imienia i nazwiska osoby, której dotyczy decyzja, Komisja Nadzoru Finansowego udostępnia na swojej stronie internetowej przez okres roku licząc od dnia podjęcia przez Komisję tej decyzji"
+    ],
+    "correct_answer": "tak, a informacje dotyczące imienia i nazwiska osoby, której dotyczy decyzja, Komisja Nadzoru Finansowego udostępnia na swojej stronie internetowej przez okres roku licząc od dnia ich udostępnienia",
+    "explanation": "Zgodnie z art. 25 ust. 1b ustawy o nadzorze nad rynkiem kapitałowym, dane osobowe przekazane do publicznej wiadomości są dostępne na stronie internetowej Komisji przez rok licząc od dnia ich udostępnienia."
+  },
+  {
+    "id": 2,
+    "source": "I etap marzec 2022, pytanie 35",
+    "law": "Kodeks cywilny",
+    "topic": "Umowa zlecenia – Art. 735 KC",
+    "question": "Zgodnie z przepisami Kodeksu cywilnego umowa zlecenia jest:",
+    "options": [
+      "zawsze odpłatna",
+      "co do zasady nieodpłatna",
+      "co do zasady odpłatna, chyba że z umowy lub okoliczności wynika, że przyjmujący zlecenie zobowiązał się je wykonać bez wynagrodzenia",
+      "Kodeks cywilny nie zawiera przepisów dotyczących wynagrodzenia za umowę zlecenia"
+    ],
+    "correct_answer": "co do zasady odpłatna, chyba że z umowy lub okoliczności wynika, że przyjmujący zlecenie zobowiązał się je wykonać bez wynagrodzenia",
+    "explanation": "Zgodnie z art. 735 § 1 Kodeksu cywilnego: Jeżeli ani z umowy, ani z okoliczności nie wynika, że przyjmujący zlecenie zobowiązał się wykonać je bez wynagrodzenia, za wykonanie zlecenia należy się wynagrodzenie. Oznacza to, że umowa zlecenia jest co do zasady odpłatna, ale strony mogą umówić się inaczej."
+  },
+  {
+    "id": 3,
+    "source": "I etap marzec 2022, pytanie 60",
+    "law": "Ustawa o nadzorze nad rynkiem kapitałowym",
+    "topic": "Wizyta nadzorcza – czas trwania – Art. 37a",
+    "question": "Zgodnie z ustawą o nadzorze nad rynkiem kapitałowym upoważnieni pracownicy urzędu Komisji Nadzoru Finansowego mogą przeprowadzać m.in. w domu maklerskim wizytę nadzorczą. Czas trwania wizyty nadzorczej nie może być dłuższy niż:",
+    "options": [
+      "2 tygodnie",
+      "1 miesiąc",
+      "2 miesiące",
+      "6 miesięcy"
+    ],
+    "correct_answer": "2 miesiące",
+    "explanation": "Zgodnie z art. 37a ust. 4 ustawy o nadzorze nad rynkiem kapitałowym, czas trwania wizyty nadzorczej nie może być dłuższy niż 2 miesiące. Art. 37a ust. 1 stanowi, że upoważnieni pracownicy urzędu Komisji mogą przeprowadzić w domu maklerskim wizytę nadzorczą w zakresie badania i oceny nadzorczej przestrzegania przez dom maklerski przepisów dotyczących adekwatności kapitałowej."
+  },
+  {
+    "id": 4,
+    "source": "I etap kwiecień 2023, pytanie 35",
+    "law": "Kodeks cywilny",
+    "topic": "Zwłoka kupującego z odbiorem rzeczy – Art. 551 KC",
+    "question": "Zgodnie z przepisami Kodeksu cywilnego, jeżeli kupujący dopuścił się zwłoki z odebraniem rzeczy sprzedanej:",
+    "options": [
+      "sprzedawca musi oddać rzecz na przechowanie na koszt i niebezpieczeństwo kupującego",
+      "sprzedawca może oddać rzecz na przechowanie na koszt i niebezpieczeństwo kupującego",
+      "sprzedawca pod żadnym warunkiem nie może oddać rzeczy na przechowanie na koszt i niebezpieczeństwo kupującego",
+      "sprzedawca niezwłocznie wystawia rzecz do ponownego sprzedania"
+    ],
+    "correct_answer": "sprzedawca może oddać rzecz na przechowanie na koszt i niebezpieczeństwo kupującego",
+    "explanation": "Zgodnie z przepisami Kodeksu cywilnego, w przypadku zwłoki kupującego z odebraniem rzeczy sprzedanej, sprzedawca ma prawo (ale nie obowiązek) oddać rzecz na przechowanie na koszt i niebezpieczeństwo kupującego. Jest to uprawnienie, a nie obowiązek sprzedawcy – dlatego odpowiedź 'może' jest prawidłowa, a 'musi' nie."
+  },
+  {
+    "id": 5,
+    "source": "I etap kwiecień 2023, pytanie 59",
+    "law": "Prawo bankowe",
+    "topic": "Informowanie KNF o emisji papierów wartościowych – Art. 89 ust. 2",
+    "question": "Zgodnie z przepisami ustawy Prawo bankowe, bank informuje Komisję Nadzoru Finansowego o zamierzonym programie emisji papierów wartościowych wskazując warunki i wartość programu emisji:",
+    "options": [
+      "na 30 dni przed terminem emisji",
+      "niezwłocznie",
+      "na 60 dni przed terminem emisji",
+      "w dniu rozpoczęcia emisji"
+    ],
+    "correct_answer": "na 30 dni przed terminem emisji",
+    "explanation": "Zgodnie z art. 89 ust. 2 ustawy Prawo bankowe, bank informuje Komisję Nadzoru Finansowego o zamierzonym programie emisji papierów wartościowych na 30 dni przed terminem emisji, wskazując warunki i wartość programu emisji. Jest to obowiązek informacyjny, a nie wymóg uzyskania zgody."
+  },
+  {
+    "id": 6,
+    "source": "I etap kwiecień 2023, pytanie 101",
+    "law": "Kodeks cywilny",
+    "topic": "Stosowanie przepisów o sprzedaży rzeczy – KC",
+    "question": "Przepisy Kodeksu cywilnego o sprzedaży rzeczy stosuje się odpowiednio:",
+    "options": [
+      "wyłącznie do sprzedaży energii",
+      "do sprzedaży energii, praw oraz wody",
+      "wyłącznie do sprzedaży energii oraz wody",
+      "wyłącznie do sprzedaży praw oraz wody"
+    ],
+    "correct_answer": "do sprzedaży energii, praw oraz wody",
+    "explanation": "Zgodnie z przepisami Kodeksu cywilnego, przepisy o sprzedaży rzeczy stosuje się odpowiednio do sprzedaży energii, praw oraz wody. Zakres stosowania jest zatem najszerszy spośród podanych opcji – obejmuje wszystkie trzy kategorie."
+  },
+  {
+    "id": 7,
+    "source": "I etap kwiecień 2023, pytanie 102",
+    "law": "Kodeks cywilny",
+    "topic": "Czynność pełnomocnika po wygaśnięciu umocowania – Art. 105 KC",
+    "question": "Zgodnie z przepisami Kodeksu cywilnego, jeżeli pełnomocnik po wygaśnięciu umocowania dokona w imieniu mocodawcy czynności prawnej w granicach pierwotnego umocowania, to:",
+    "options": [
+      "czynność prawna nigdy nie może zostać uznana za ważną",
+      "czynność prawna jest ważna, chyba że druga strona o wygaśnięciu umocowania wiedziała lub z łatwością mogła się dowiedzieć",
+      "czynność prawna zawsze jest ważna",
+      "czynność prawna jest ważna wyłącznie po wyrażeniu odrębnego potwierdzenia przez mocodawcę w terminie 5 dni od daty wykonania tej czynności prawnej"
+    ],
+    "correct_answer": "czynność prawna jest ważna, chyba że druga strona o wygaśnięciu umocowania wiedziała lub z łatwością mogła się dowiedzieć",
+    "explanation": "Zgodnie z art. 105 Kodeksu cywilnego, jeżeli pełnomocnik po wygaśnięciu umocowania dokona w imieniu mocodawcy czynności prawnej w granicach pierwotnego umocowania, czynność prawna jest ważna, chyba że druga strona o wygaśnięciu umocowania wiedziała lub z łatwością mogła się dowiedzieć. Jest to ochrona dobrej wiary osoby trzeciej."
+  },
+  {
+    "id": 8,
+    "source": "I etap kwiecień 2023, pytanie 109",
+    "law": "Ustawa o nadzorze nad rynkiem kapitałowym",
+    "topic": "Zadania Komisji Nadzoru Finansowego – Art. 7",
+    "question": "Mając na uwadze przepisy ustawy o nadzorze nad rynkiem kapitałowym wskaż, co nie należy do zadań Komisji Nadzoru Finansowego:",
+    "options": [
+      "podejmowanie działań służących prawidłowemu funkcjonowaniu rynku kapitałowego",
+      "sprawowanie nadzoru nad działalnością podmiotów nadzorowanych oraz wykonywaniem przez te podmioty obowiązków związanych z ich uczestnictwem w obrocie na rynku kapitałowym",
+      "podejmowanie działań edukacyjnych i informacyjnych w zakresie funkcjonowania rynku kapitałowego",
+      "wykonywanie wyłącznie zadań określonych przez Ministra Finansów"
+    ],
+    "correct_answer": "wykonywanie wyłącznie zadań określonych przez Ministra Finansów",
+    "explanation": "Zgodnie z art. 7 ustawy o nadzorze nad rynkiem kapitałowym, do zadań Komisji należy: podejmowanie działań służących prawidłowemu funkcjonowaniu rynku kapitałowego, sprawowanie nadzoru nad działalnością podmiotów nadzorowanych, podejmowanie działań edukacyjnych i informacyjnych, wykonywanie innych zadań określonych ustawami. KNF nie wykonuje wyłącznie zadań określonych przez Ministra Finansów – jej zadania wynikają z ustaw, a Komisja ma szeroką samodzielność w ich realizacji."
+  }
+]
